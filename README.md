@@ -42,12 +42,6 @@ Each entry points to an original publication or an archived copy where one is av
 
 This is a bibliography with reading links. Article text and images are not stored in the repository, and we cannot yet claim a complete record of everything the team published.
 
-## Help fill in the gaps
-
-If you wrote something with us, built on one of these projects, or remember a post we've missed, we'd welcome an issue or pull request. Please include the title, author, publication date if known, and an original or archived URL. Links to alternate editions and corrections to dates or bylines are useful too.
-
-For work on the catalogue itself, see the [rebuild and collection instructions](research/maintaining.md).
-
 <!-- BEGIN GENERATED WRITING INDEX -->
 
 ## Writing index
