@@ -307,44 +307,53 @@
     "checked": "2026-10-15"
   },
   {
-    "title": "Into the Powergate",
+    "title": "Into the Powergate - Andrew Hill & Aaron Sutula",
     "speakers": [
-      "Andrew Hill"
+      "Andrew Hill",
+      "Aaron Sutula"
     ],
-    "publisher": "Andrew W Hill on Speaker Deck",
-    "event": "Technical presentation slides",
+    "publisher": "IPFS",
+    "event": "IPFS Pinning Summit 2020",
     "topic": "Filecoin/IPFS storage architecture, APIs, configuration, and a live-demo deck",
-    "date": "2020-05-08",
-    "date_basis": "slides publication",
-    "video_url": null,
-    "duration_seconds": null,
+    "date": "2020-05-13",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=aiOTSkz_6aY",
+    "duration_seconds": 2160,
     "slides_url": "https://speakerdeck.com/andrewxhill/into-the-powergate",
     "materials": [],
     "sources": [
-      "https://speakerdeck.com/andrewxhill/into-the-powergate"
+      "https://speakerdeck.com/andrewxhill/into-the-powergate",
+      "https://www.youtube.com/watch?v=aiOTSkz_6aY",
+      "https://blog.ipfs.tech/2020-05-13-ipfs-pinning-summit-recap/"
     ],
-    "evidence": "Public Speaker Deck page confirms title, author, and publication date; slide transcript was read to confirm technical content. No matching full recording verified.",
-    "checked": "2026-10-15"
+    "evidence": "IPFS organizer recap links the full recording and explicitly credits the presenters. YouTube player metadata confirms title, duration, publication date, and playability status OK. The previously recovered Speaker Deck transcript matches the technical subject. Video and slide publication dates are retained separately; neither is assumed to be the event day.",
+    "checked": "2026-10-15",
+    "slides_title": "Into the Powergate",
+    "slides_publication_date": "2020-05-08"
   },
   {
-    "title": "Future of Pinning - storing Threads and Buckets at Textile",
+    "title": "Advanced Pinning Structures - Andrew Hill",
     "speakers": [
       "Andrew Hill"
     ],
-    "publisher": "Andrew W Hill on Speaker Deck",
-    "event": "Technical presentation slides",
+    "publisher": "IPFS",
+    "event": "IPFS Pinning Summit 2020",
     "topic": "ThreadsDB networking, encryption, dynamic pinsets, and Buckets",
-    "date": "2020-05-07",
-    "date_basis": "slides publication",
-    "video_url": null,
-    "duration_seconds": null,
+    "date": "2020-05-13",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=ojaDzwp9M20",
+    "duration_seconds": 1610,
     "slides_url": "https://speakerdeck.com/andrewxhill/future-of-pinning-storing-threads-and-buckets-at-textile",
     "materials": [],
     "sources": [
-      "https://speakerdeck.com/andrewxhill/future-of-pinning-storing-threads-and-buckets-at-textile"
+      "https://speakerdeck.com/andrewxhill/future-of-pinning-storing-threads-and-buckets-at-textile",
+      "https://www.youtube.com/watch?v=ojaDzwp9M20",
+      "https://blog.ipfs.tech/2020-05-13-ipfs-pinning-summit-recap/"
     ],
-    "evidence": "Public Speaker Deck page confirms title, author, and publication date; slide transcript was read to confirm technical content. No matching full recording verified.",
-    "checked": "2026-10-15"
+    "evidence": "IPFS organizer recap links the full recording and explicitly credits the presenters. YouTube player metadata confirms title, duration, publication date, and playability status OK. The previously recovered Speaker Deck transcript matches the technical subject. Video and slide publication dates are retained separately; neither is assumed to be the event day.",
+    "checked": "2026-10-15",
+    "slides_title": "Future of Pinning - storing Threads and Buckets at Textile",
+    "slides_publication_date": "2020-05-07"
   },
   {
     "title": "Bring Your Own Data: A New Model for an Interoperable dWeb – Carson Farmer",

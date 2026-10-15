@@ -1,0 +1,2827 @@
+[
+  {
+    "url": "https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9",
+    "outcome": "catalogued",
+    "title": "Introducing, 3Box Chatbox Plugin",
+    "date": "2019-10-18",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9",
+        "publication": "3Box on Medium",
+        "date": "2019-10-18",
+        "date_observations": [
+          {
+            "date": "2019-10-18",
+            "sources": [
+              "https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9",
+              "https://web.archive.org/web/20191212001414id_/https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "https://web.archive.org/web/20191212001414id_/https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+          "https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9",
+          "https://web.archive.org/web/20191212001414id_/https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25",
+    "outcome": "catalogued",
+    "title": "New Activity Feed, 3Box.js Spaces, and ETH Denver Recap",
+    "date": "2019-02-20",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25",
+        "publication": "3Box on Medium",
+        "date": "2019-02-20",
+        "date_observations": [
+          {
+            "date": "2019-02-20",
+            "sources": [
+              "https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25",
+              "https://web.archive.org/web/20190304212402id_/https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "https://web.archive.org/web/20190304212402id_/https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+          "https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25",
+          "https://web.archive.org/web/20190304212402id_/https://medium.com/3box/new-activity-feed-3box-js-spaces-and-eth-denver-recap-f44c31f52b25"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a",
+    "outcome": "catalogued",
+    "title": "Org design around goals, not ideals",
+    "date": "2018-12-05",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a",
+        "publication": "3Box on Medium",
+        "date": "2018-12-05",
+        "date_observations": [
+          {
+            "date": "2018-12-05",
+            "sources": [
+              "https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a",
+              "https://web.archive.org/web/20190118055713id_/https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "https://web.archive.org/web/20190118055713id_/https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+          "https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a",
+          "https://web.archive.org/web/20190118055713id_/https://medium.com/3box/org-design-around-goals-not-ideals-dfab0ad72f6a"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/shareable-public-profiles-94387c0d641e",
+    "outcome": "catalogued",
+    "title": "Shareable Public Profiles",
+    "date": "2019-01-28",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://medium.com/3box/shareable-public-profiles-94387c0d641e",
+        "publication": "3Box on Medium",
+        "date": "2019-01-28",
+        "date_observations": [
+          {
+            "date": "2019-01-28",
+            "sources": [
+              "https://medium.com/3box/shareable-public-profiles-94387c0d641e",
+              "https://web.archive.org/web/20201108001331id_/https://medium.com/3box/shareable-public-profiles-94387c0d641e"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "https://web.archive.org/web/20201108001331id_/https://medium.com/3box/shareable-public-profiles-94387c0d641e",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+          "https://medium.com/3box/shareable-public-profiles-94387c0d641e",
+          "https://web.archive.org/web/20201108001331id_/https://medium.com/3box/shareable-public-profiles-94387c0d641e"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783",
+    "outcome": "catalogued",
+    "title": "The Distributed Download – Build Party",
+    "date": "2019-04-11",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783",
+        "publication": "3Box on Medium",
+        "date": "2019-04-11",
+        "date_observations": [
+          {
+            "date": "2019-04-11",
+            "sources": [
+              "https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783",
+              "https://web.archive.org/web/20230108231104id_/https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "https://web.archive.org/web/20230108231104id_/https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+          "https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783",
+          "https://web.archive.org/web/20230108231104id_/https://medium.com/3box/the-distributed-download-build-party-daf4d7b7c783"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web",
+    "outcome": "catalogued",
+    "title": "Launching developer tools for Filecoin",
+    "date": "2020-01-23",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web",
+        "publication": "Textile historical blog",
+        "date": "2020-01-23",
+        "date_observations": [
+          {
+            "date": "2020-01-23",
+            "sources": [
+              "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web",
+              "https://web.archive.org/web/20210301032016id_/https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210301032016id_/https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web",
+          "https://web.archive.org/web/20210301032016id_/https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/early-stage-startup-planning-in-uncertain-times",
+    "outcome": "catalogued",
+    "title": "Early-stage startup planning in uncertain times",
+    "date": "2020-03-23",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/early-stage-startup-planning-in-uncertain-times",
+        "publication": "Textile historical blog",
+        "date": "2020-03-23",
+        "date_observations": [
+          {
+            "date": "2020-03-23",
+            "sources": [
+              "https://blog.textile.io/early-stage-startup-planning-in-uncertain-times",
+              "https://web.archive.org/web/20210306005521id_/https://blog.textile.io/early-stage-startup-planning-in-uncertain-times/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210306005521id_/https://blog.textile.io/early-stage-startup-planning-in-uncertain-times/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/early-stage-startup-planning-in-uncertain-times",
+          "https://web.archive.org/web/20210306005521id_/https://blog.textile.io/early-stage-startup-planning-in-uncertain-times/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/early-stage-startup-planning-in-uncertain-times-52b2b9f8839b",
+        "publication": "Textile on Medium",
+        "date": "2020-03-26",
+        "date_observations": [
+          {
+            "date": "2020-03-26",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-03-26",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill",
+          "https://medium.com/textileio/early-stage-startup-planning-in-uncertain-times-52b2b9f8839b"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public RSS feed",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories",
+    "outcome": "catalogued",
+    "title": "DistributedTown wins Textile awards in Apollo and EthOnline categories",
+    "date": "2020-11-06",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories",
+        "publication": "Textile historical blog",
+        "date": "2020-11-06",
+        "date_observations": [
+          {
+            "date": "2020-11-06",
+            "sources": [
+              "https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories",
+              "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories",
+          "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/ethden-2020-textile-bounty-resources",
+    "outcome": "catalogued",
+    "title": "Ethden 2020 Textile Bounty Resources",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ethden-2020-textile-bounty-resources",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ethden-2020-textile-bounty-resources",
+          "https://web.archive.org/web/20210301034533id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+          "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile",
+    "outcome": "catalogued",
+    "title": "EthDen: Publish dynamic IPFS buckets on Textile (easiest Bounty here)",
+    "date": "2020-02-14",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile",
+        "publication": "Textile historical blog",
+        "date": "2020-02-14",
+        "date_observations": [
+          {
+            "date": "2020-02-14",
+            "sources": [
+              "https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile",
+              "https://web.archive.org/web/20210301035435id_/https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210301035435id_/https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile",
+          "https://web.archive.org/web/20210301035435id_/https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/ethden-publish-dynamic-ipfs-buckets-on-textile-easiest-bounty-here-5fd6b0b59b27",
+        "publication": "Textile on Medium",
+        "date": "2020-02-14",
+        "date_observations": [
+          {
+            "date": "2020-02-14",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-02-14",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": null,
+        "archive_url": null,
+        "sources": [
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill"
+        ],
+        "evidence": [
+          "public RSS feed"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets",
+    "outcome": "catalogued",
+    "title": "EthDen: Using CI to publish your webpage using IPFS and Textile Buckets",
+    "date": "2020-02-16",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets",
+        "publication": "Textile historical blog",
+        "date": "2020-02-16",
+        "date_observations": [
+          {
+            "date": "2020-02-16",
+            "sources": [
+              "https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets",
+              "https://web.archive.org/web/20210121090627id_/https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210121090627id_/https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets",
+          "https://web.archive.org/web/20210121090627id_/https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets-33a0a0b89299",
+        "publication": "Textile on Medium",
+        "date": "2020-02-16",
+        "date_observations": [
+          {
+            "date": "2020-02-16",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-02-16",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill",
+          "https://medium.com/textileio/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets-33a0a0b89299"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public RSS feed",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/ethonline-tonic-winner",
+    "outcome": "catalogued",
+    "title": "Tonic: Honorable mention for exciting use of Threads",
+    "date": "2020-11-05",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ethonline-tonic-winner",
+        "publication": "Textile historical blog",
+        "date": "2020-11-05",
+        "date_observations": [
+          {
+            "date": "2020-11-05",
+            "sources": [
+              "https://blog.textile.io/ethonline-tonic-winner",
+              "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ethonline-tonic-winner",
+          "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/explore",
+    "classification": "non-article",
+    "reason": "Archived route renders the publication landing page, without article metadata.",
+    "sources": [
+      "https://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "https://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "http://web.archive.org/web/20260124144151/https://blog.textile.io/explore",
+      "http://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "https://web.archive.org/web/20260124144151/https://blog.textile.io/explore"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-developer-tools-concepts",
+    "outcome": "catalogued",
+    "title": "Powergate: Filecoin Developer Tools",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-developer-tools-concepts",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-developer-tools-concepts",
+          "https://web.archive.org/web/20210122221710id_/https://blog.textile.io/filecoin-developer-tools-concepts/",
+          "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-powergate-progress-update-for-july-21",
+    "outcome": "catalogued",
+    "title": "Filecoin Powergate progress update for July 21",
+    "date": "2020-07-21",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-powergate-progress-update-for-july-21",
+        "publication": "Textile historical blog",
+        "date": "2020-07-21",
+        "date_observations": [
+          {
+            "date": "2020-07-21",
+            "sources": [
+              "https://blog.textile.io/filecoin-powergate-progress-update-for-july-21",
+              "https://web.archive.org/web/20210121091701id_/https://blog.textile.io/filecoin-powergate-progress-update-for-july-21/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210121091701id_/https://blog.textile.io/filecoin-powergate-progress-update-for-july-21/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-powergate-progress-update-for-july-21",
+          "https://web.archive.org/web/20210121091701id_/https://blog.textile.io/filecoin-powergate-progress-update-for-july-21/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-10-february",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 10 February",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-10-february",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-10-february",
+          "https://web.archive.org/web/20210301034339id_/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+          "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-09-march",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 09 March",
+    "date": "2020-03-10",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-09-march",
+        "publication": "Textile historical blog",
+        "date": "2020-03-10",
+        "date_observations": [
+          {
+            "date": "2020-03-10",
+            "sources": [
+              "https://blog.textile.io/filecoin-tools-progress-update-09-march",
+              "https://web.archive.org/web/20210121081819id_/https://blog.textile.io/filecoin-tools-progress-update-09-march/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20210121081819id_/https://blog.textile.io/filecoin-tools-progress-update-09-march/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-09-march",
+          "https://web.archive.org/web/20210121081819id_/https://blog.textile.io/filecoin-tools-progress-update-09-march/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/filecoin-tools-progress-update-09-march-f1cfbeba28e7",
+        "publication": "Textile on Medium",
+        "date": "2020-03-10",
+        "date_observations": [
+          {
+            "date": "2020-03-10",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-03-10",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": null,
+        "archive_url": null,
+        "sources": [
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill"
+        ],
+        "evidence": [
+          "public RSS feed"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 13 January",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-13-january",
+          "https://web.archive.org/web/20211025033049id_/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+          "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-24-february",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 24 February",
+    "date": "2020-02-24",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-24-february",
+        "publication": "Textile historical blog",
+        "date": "2020-02-24",
+        "date_observations": [
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://blog.textile.io/filecoin-tools-progress-update-24-february",
+              "https://web.archive.org/web/20220121101723id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20220121101723id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-24-february",
+          "https://web.archive.org/web/20220121101723id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/filecoin-tools-progress-update-24-february-ceae54052423",
+        "publication": "Textile on Medium",
+        "date": "2020-02-24",
+        "date_observations": [
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": null,
+        "archive_url": null,
+        "sources": [
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill"
+        ],
+        "evidence": [
+          "public RSS feed"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-26-march",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 26 March",
+    "date": "2020-03-26",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-26-march",
+        "publication": "Textile historical blog",
+        "date": "2020-03-26",
+        "date_observations": [
+          {
+            "date": "2020-03-26",
+            "sources": [
+              "https://blog.textile.io/filecoin-tools-progress-update-26-march",
+              "https://web.archive.org/web/20211025032205id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025032205id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-26-march",
+          "https://web.archive.org/web/20211025032205id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 27 January",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-27-january",
+          "https://web.archive.org/web/20211025045727id_/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+          "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-june-2",
+    "outcome": "catalogued",
+    "title": "Filecoin Powergate progress update for June 2",
+    "date": "2020-06-02",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-june-2",
+        "publication": "Textile historical blog",
+        "date": "2020-06-02",
+        "date_observations": [
+          {
+            "date": "2020-06-02",
+            "sources": [
+              "https://blog.textile.io/filecoin-tools-progress-update-june-2",
+              "https://web.archive.org/web/20220121110815id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20220121110815id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20210104193516id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/",
+          "https://web.archive.org/web/20211025031720id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "https://blog.textile.io/filecoin-tools-progress-update-june-2",
+          "https://web.archive.org/web/20220121110815id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-8-april",
+    "outcome": "catalogued",
+    "title": "Filecoin tools progress update: 8 April",
+    "date": "2020-04-08",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/filecoin-tools-progress-update-8-april",
+        "publication": "Textile historical blog",
+        "date": "2020-04-08",
+        "date_observations": [
+          {
+            "date": "2020-04-08",
+            "sources": [
+              "https://blog.textile.io/filecoin-tools-progress-update-8-april",
+              "https://web.archive.org/web/20211025041231id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025041231id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/filecoin-tools-progress-update-8-april",
+          "https://web.archive.org/web/20211025041231id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders",
+    "outcome": "catalogued",
+    "title": "Textile Buckets: Dynamic data storage and management for IPFS",
+    "date": "2020-02-24",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders",
+        "publication": "Textile historical blog",
+        "date": "2020-02-24",
+        "date_observations": [
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders",
+              "https://web.archive.org/web/20211025052107id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025052107id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders",
+          "https://web.archive.org/web/20211025052107id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/textile-buckets-dynamic-data-storage-and-management-for-ipfs-2209685398e8",
+        "publication": "Textile on Medium",
+        "date": "2020-02-24",
+        "date_observations": [
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-02-24",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill",
+          "https://medium.com/textileio/textile-buckets-dynamic-data-storage-and-management-for-ipfs-2209685398e8"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public RSS feed",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer",
+    "outcome": "catalogued",
+    "title": "Hack the Rainbow: building a NEAR-Textile Indexer",
+    "date": "2020-10-28",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer",
+        "publication": "Textile historical blog",
+        "date": "2020-10-28",
+        "date_observations": [
+          {
+            "date": "2020-10-28",
+            "sources": [
+              "https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer",
+              "https://web.archive.org/web/20211025051303id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025051303id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer",
+          "https://web.archive.org/web/20211025051303id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects",
+    "outcome": "catalogued",
+    "title": "HackFS — Showcasing Textile winners!",
+    "date": "2020-08-18",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects",
+        "publication": "Textile historical blog",
+        "date": "2020-08-18",
+        "date_observations": [
+          {
+            "date": "2020-08-18",
+            "sources": [
+              "https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects",
+              "https://web.archive.org/web/20211025045945id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025045945id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects",
+          "https://web.archive.org/web/20211025045945id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/hosted-powergate",
+    "classification": "non-article",
+    "reason": "Hosted Powergate request form; the service announcement is a separate indexed article.",
+    "sources": [
+      "http://web.archive.org/web/20200817210501id_/https://blog.textile.io/hosted-powergate/"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/integrating-powergate",
+    "outcome": "catalogued",
+    "title": "Integrating Powergate:  Intro to the Powergate JavaScript Client",
+    "date": "2020-06-15",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/integrating-powergate",
+        "publication": "Textile historical blog",
+        "date": "2020-06-15",
+        "date_observations": [
+          {
+            "date": "2020-06-15",
+            "sources": [
+              "https://blog.textile.io/integrating-powergate",
+              "https://web.archive.org/web/20220121120956id_/https://blog.textile.io/integrating-powergate/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20220121120956id_/https://blog.textile.io/integrating-powergate/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20210104193516id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "http://web.archive.org/web/20210306014248id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/",
+          "https://web.archive.org/web/20210121081819id_/https://blog.textile.io/filecoin-tools-progress-update-09-march/",
+          "https://web.archive.org/web/20211025032256id_/https://blog.textile.io/introducing-embeddable-textile/",
+          "http://web.archive.org/web/20211025030920/https://blog.textile.io/remote-for-small-teams-during-coronavirus/",
+          "http://web.archive.org/web/20221201063548/https://blog.textile.io/sunsetting-the-auction-api/",
+          "http://web.archive.org/web/20210121080418id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/",
+          "https://web.archive.org/web/20211025041231id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/",
+          "http://web.archive.org/web/20211025043612/https://blog.textile.io/threaddb-for-javascript-alpha-preview/",
+          "http://web.archive.org/web/20210121092059id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/",
+          "https://web.archive.org/web/20211025032629id_/https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "http://web.archive.org/web/20210121071442id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/",
+          "http://web.archive.org/web/20211025050415/https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate/",
+          "http://web.archive.org/web/20210125150531id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/",
+          "https://web.archive.org/web/20211025035605id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/",
+          "https://web.archive.org/web/20211025045945id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/",
+          "https://web.archive.org/web/20220121101723id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+          "http://web.archive.org/web/20211025031427/https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets/",
+          "https://web.archive.org/web/20211025052107id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/",
+          "http://web.archive.org/web/20211025043338/https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week/",
+          "http://web.archive.org/web/20210301042840id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/",
+          "http://web.archive.org/web/20220128165835/https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p/",
+          "https://web.archive.org/web/20211025051303id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/",
+          "http://web.archive.org/web/20210121074801id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/",
+          "https://web.archive.org/web/20210121091701id_/https://blog.textile.io/filecoin-powergate-progress-update-for-july-21/",
+          "http://web.archive.org/web/20210121071732id_/https://blog.textile.io/introducing-embeddable-textile/",
+          "https://web.archive.org/web/20220121110815id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/",
+          "https://web.archive.org/web/20211025032205id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/",
+          "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/",
+          "https://web.archive.org/web/20211025031720id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "http://web.archive.org/web/20211025043925/https://blog.textile.io/textile-threads-progress-report-for-7-april/",
+          "https://web.archive.org/web/20210301032016id_/https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "https://web.archive.org/web/20210301035435id_/https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/",
+          "http://web.archive.org/web/20211025043415/https://blog.textile.io/the-ten-things-you-can-do-with/",
+          "http://web.archive.org/web/20210121070438id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+          "http://web.archive.org/web/20210121072524id_/https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "http://web.archive.org/web/20220126165019/https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "https://blog.textile.io/integrating-powergate",
+          "https://web.archive.org/web/20220121120956id_/https://blog.textile.io/integrating-powergate/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/introducing-embeddable-textile",
+    "outcome": "catalogued",
+    "title": "Introducing Embeddable Textile",
+    "date": "2019-10-23",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/introducing-embeddable-textile",
+        "publication": "Textile historical blog",
+        "date": "2019-10-23",
+        "date_observations": [
+          {
+            "date": "2019-10-23",
+            "sources": [
+              "https://blog.textile.io/introducing-embeddable-textile",
+              "https://web.archive.org/web/20211025032256id_/https://blog.textile.io/introducing-embeddable-textile/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025032256id_/https://blog.textile.io/introducing-embeddable-textile/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/introducing-embeddable-textile",
+          "https://web.archive.org/web/20211025032256id_/https://blog.textile.io/introducing-embeddable-textile/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-threads-protocol",
+    "outcome": "catalogued",
+    "title": "A protocol & event-sourced database for decentralized user-siloed data",
+    "date": "2019-12-18",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/introducing-textiles-threads-protocol",
+        "publication": "Textile historical blog",
+        "date": "2019-12-18",
+        "date_observations": [
+          {
+            "date": "2019-12-18",
+            "sources": [
+              "https://blog.textile.io/introducing-textiles-threads-protocol",
+              "https://web.archive.org/web/20211025032629id_/https://blog.textile.io/introducing-textiles-threads-protocol/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025032629id_/https://blog.textile.io/introducing-textiles-threads-protocol/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20210306014248id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/",
+          "https://web.archive.org/web/20211025032256id_/https://blog.textile.io/introducing-embeddable-textile/",
+          "https://web.archive.org/web/20210121090627id_/https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets/",
+          "http://web.archive.org/web/20211025030920/https://blog.textile.io/remote-for-small-teams-during-coronavirus/",
+          "https://web.archive.org/web/20220121120956id_/https://blog.textile.io/integrating-powergate/",
+          "http://web.archive.org/web/20210121080418id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/",
+          "https://web.archive.org/web/20211025041231id_/https://blog.textile.io/filecoin-tools-progress-update-8-april/",
+          "http://web.archive.org/web/20211025043612/https://blog.textile.io/threaddb-for-javascript-alpha-preview/",
+          "http://web.archive.org/web/20210121092059id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/",
+          "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/",
+          "http://web.archive.org/web/20210104193519id_/https://blog.textile.io/integrating-powergate/",
+          "http://web.archive.org/web/20211025050415/https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate/",
+          "https://web.archive.org/web/20210306005521id_/https://blog.textile.io/early-stage-startup-planning-in-uncertain-times/",
+          "http://web.archive.org/web/20210125150531id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/",
+          "https://web.archive.org/web/20211025035605id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/",
+          "https://web.archive.org/web/20211025045945id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/",
+          "https://web.archive.org/web/20220121101723id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+          "http://web.archive.org/web/20211025031427/https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets/",
+          "https://web.archive.org/web/20211025052107id_/https://blog.textile.io/first-look-at-textile-buckets-dynamic-ipfs-folders/",
+          "http://web.archive.org/web/20210301042840id_/https://blog.textile.io/hackfs-showcasing-some-winning-textile-projects/",
+          "http://web.archive.org/web/20220128165835/https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p/",
+          "https://web.archive.org/web/20211025051303id_/https://blog.textile.io/hack-the-rainbow-building-a-near-textile-indexer/",
+          "http://web.archive.org/web/20210121074801id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/",
+          "https://web.archive.org/web/20210121091701id_/https://blog.textile.io/filecoin-powergate-progress-update-for-july-21/",
+          "http://web.archive.org/web/20210121071732id_/https://blog.textile.io/introducing-embeddable-textile/",
+          "https://web.archive.org/web/20220121110815id_/https://blog.textile.io/filecoin-tools-progress-update-june-2/",
+          "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/",
+          "http://web.archive.org/web/20211025043925/https://blog.textile.io/textile-threads-progress-report-for-7-april/",
+          "https://web.archive.org/web/20210301035435id_/https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/",
+          "http://web.archive.org/web/20210121070438id_/https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+          "http://web.archive.org/web/20220126165019/https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "https://blog.textile.io/introducing-textiles-threads-protocol",
+          "https://web.archive.org/web/20211025032629id_/https://blog.textile.io/introducing-textiles-threads-protocol/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+    "outcome": "catalogued",
+    "title": "IPFS Cluster Peer Installer for EC2",
+    "date": "2018-04-13",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+        "publication": "Textile historical blog",
+        "date": "2018-04-13",
+        "date_observations": [
+          {
+            "date": "2018-04-13",
+            "sources": [
+              "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+              "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+          "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/ipfs-cluster-peer-installer-for-ec2-ef2e4bfb1a74",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/ipfs-cluster-peer-installer-for-ec2-ef2e4bfb1a74"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite",
+    "outcome": "catalogued",
+    "title": "Cross-platform IPFS Lite: JS, Android, iOS, and gRPC",
+    "date": "2019-11-13",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite",
+        "publication": "Textile historical blog",
+        "date": "2019-11-13",
+        "date_observations": [
+          {
+            "date": "2019-11-13",
+            "sources": [
+              "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite",
+              "https://web.archive.org/web/20211025031720id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025031720id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://web.archive.org/web/20210121081819id_/https://blog.textile.io/filecoin-tools-progress-update-09-march/",
+          "https://web.archive.org/web/20210121090627id_/https://blog.textile.io/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets/",
+          "https://web.archive.org/web/20220121120956id_/https://blog.textile.io/integrating-powergate/",
+          "http://web.archive.org/web/20210104193519id_/https://blog.textile.io/integrating-powergate/",
+          "https://web.archive.org/web/20210301032016id_/https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite",
+          "https://web.archive.org/web/20211025031720id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/join-newsletter",
+    "classification": "non-article",
+    "reason": "Newsletter signup page.",
+    "sources": [
+      null
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit",
+    "outcome": "catalogued",
+    "title": "Learn more about Threads and the Powergate from the IPFS Pinning Summit.",
+    "date": "2020-05-15",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit",
+        "publication": "Textile historical blog",
+        "date": "2020-05-15",
+        "date_observations": [
+          {
+            "date": "2020-05-15",
+            "sources": [
+              "https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit",
+              "https://web.archive.org/web/20211025035605id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20211025035605id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit",
+          "https://web.archive.org/web/20211025035605id_/https://blog.textile.io/learn-more-about-threads-and-the-powergate-from-the-ipfs-pinning-summit/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/new",
+    "classification": "non-article",
+    "reason": "Archived route renders the publication landing page, without article metadata.",
+    "sources": [
+      "http://web.archive.org/web/20251214081922/https://blog.textile.io/new",
+      "http://web.archive.org/web/20251214081922id_/https://blog.textile.io/new"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates",
+    "outcome": "catalogued",
+    "title": "Prepare to launch: easy access to Filecoin with free Powergate instances",
+    "date": "2020-08-27",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates",
+        "publication": "Textile historical blog",
+        "date": "2020-08-27",
+        "date_observations": [
+          {
+            "date": "2020-08-27",
+            "sources": [
+              "https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates",
+              "http://web.archive.org/web/20211025043257/https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043257/https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates",
+          "http://web.archive.org/web/20211025043257/https://blog.textile.io/prepare-to-launch-expanding-free-access-to-filecoin-through-hosted-powergates/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/partnering-with-rtrade",
+    "outcome": "catalogued",
+    "title": "RTrade Technologies partners with Textile to make it easier for teams to deploy cafes.",
+    "date": "2019-09-04",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/partnering-with-rtrade",
+        "publication": "Textile historical blog",
+        "date": "2019-09-04",
+        "date_observations": [
+          {
+            "date": "2019-09-04",
+            "sources": [
+              "https://blog.textile.io/partnering-with-rtrade",
+              "http://web.archive.org/web/20191118211540/https://blog.textile.io/partnering-with-rtrade/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20191118211540/https://blog.textile.io/partnering-with-rtrade/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/partnering-with-rtrade",
+          "http://web.archive.org/web/20191118211540/https://blog.textile.io/partnering-with-rtrade/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets",
+    "outcome": "catalogued",
+    "title": "Publishing IPFS and IPNS links from React Native using Textile Buckets",
+    "date": "2020-05-18",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets",
+        "publication": "Textile historical blog",
+        "date": "2020-05-18",
+        "date_observations": [
+          {
+            "date": "2020-05-18",
+            "sources": [
+              "https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets",
+              "http://web.archive.org/web/20211025031427/https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025031427/https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20210104193516id_/https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets",
+          "http://web.archive.org/web/20211025031427/https://blog.textile.io/publishing-ipfs-and-ipns-links-from-react-native-using-textile-buckets/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/remote-for-small-teams-during-coronavirus",
+    "outcome": "catalogued",
+    "title": "Remote for small teams: work in the time of coronavirus",
+    "date": "2020-03-12",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/remote-for-small-teams-during-coronavirus",
+        "publication": "Textile historical blog",
+        "date": "2020-03-12",
+        "date_observations": [
+          {
+            "date": "2020-03-12",
+            "sources": [
+              "https://blog.textile.io/remote-for-small-teams-during-coronavirus",
+              "http://web.archive.org/web/20211025030920/https://blog.textile.io/remote-for-small-teams-during-coronavirus/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025030920/https://blog.textile.io/remote-for-small-teams-during-coronavirus/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/remote-for-small-teams-during-coronavirus",
+          "http://web.archive.org/web/20211025030920/https://blog.textile.io/remote-for-small-teams-during-coronavirus/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/remote-for-small-teams-work-in-the-time-of-coronavirus-7b8253a1ce89",
+        "publication": "Textile on Medium",
+        "date": "2020-03-12",
+        "date_observations": [
+          {
+            "date": "2020-03-12",
+            "sources": [
+              "https://medium.com/feed/textileio"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          },
+          {
+            "date": "2020-03-12",
+            "sources": [
+              "https://medium.com/feed/@andrewxhill"
+            ],
+            "evidence": "public RSS feed",
+            "record_file": "medium-rss-articles.json"
+          }
+        ],
+        "http_status": null,
+        "archive_url": null,
+        "sources": [
+          "https://medium.com/feed/textileio",
+          "https://medium.com/feed/@andrewxhill"
+        ],
+        "evidence": [
+          "public RSS feed"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/sunsetting-the-auction-api",
+    "outcome": "catalogued",
+    "title": "Sunsetting the Auction API",
+    "date": "2022-11-23",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/sunsetting-the-auction-api",
+        "publication": "Textile historical blog",
+        "date": "2022-11-23",
+        "date_observations": [
+          {
+            "date": "2022-11-23",
+            "sources": [
+              "https://blog.textile.io/sunsetting-the-auction-api",
+              "http://web.archive.org/web/20221201063548/https://blog.textile.io/sunsetting-the-auction-api/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20221201063548/https://blog.textile.io/sunsetting-the-auction-api/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/sunsetting-the-auction-api",
+          "http://web.archive.org/web/20221201063548/https://blog.textile.io/sunsetting-the-auction-api/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/tableland-is-coming-build-web3-with-sql",
+    "outcome": "catalogued",
+    "title": "Tableland is coming—build Web3 with SQL.",
+    "date": "2022-02-14",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/tableland-is-coming-build-web3-with-sql",
+        "publication": "Textile historical blog",
+        "date": "2022-02-14",
+        "date_observations": [
+          {
+            "date": "2022-02-14",
+            "sources": [
+              "https://blog.textile.io/tableland-is-coming-build-web3-with-sql",
+              "http://web.archive.org/web/20220906042757/https://blog.textile.io/tableland-is-coming-build-web3-with-sql/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220906042757/https://blog.textile.io/tableland-is-coming-build-web3-with-sql/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/tableland-is-coming-build-web3-with-sql",
+          "http://web.archive.org/web/20220906042757/https://blog.textile.io/tableland-is-coming-build-web3-with-sql/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/team-chat-guidelines",
+    "outcome": "catalogued",
+    "title": "Team chat guidelines",
+    "date": null,
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/team-chat-guidelines",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/team-chat-guidelines",
+          "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/textile-threads-progress-report-for-7-april",
+    "outcome": "catalogued",
+    "title": "Textile Threads: Progress report for 7 April",
+    "date": "2020-04-07",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textile-threads-progress-report-for-7-april",
+        "publication": "Textile historical blog",
+        "date": "2020-04-07",
+        "date_observations": [
+          {
+            "date": "2020-04-07",
+            "sources": [
+              "https://blog.textile.io/textile-threads-progress-report-for-7-april",
+              "http://web.archive.org/web/20211025043925/https://blog.textile.io/textile-threads-progress-report-for-7-april/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043925/https://blog.textile.io/textile-threads-progress-report-for-7-april/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/textile-threads-progress-report-for-7-april",
+          "http://web.archive.org/web/20211025043925/https://blog.textile.io/textile-threads-progress-report-for-7-april/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p",
+    "outcome": "catalogued",
+    "title": "Textile's primer on libp2p, part 2 (or why we really ❤️ libp2p)",
+    "date": "2019-12-12",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p",
+        "publication": "Textile historical blog",
+        "date": "2019-12-12",
+        "date_observations": [
+          {
+            "date": "2019-12-12",
+            "sources": [
+              "https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p",
+              "http://web.archive.org/web/20220128165835/https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220128165835/https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p",
+          "http://web.archive.org/web/20220128165835/https://blog.textile.io/textiles-primer-on-libp2p-part-2-or-why-we-really-libp2p/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week",
+    "outcome": "catalogued",
+    "title": "The launch you don't want to miss: Filecoin Liftoff Week",
+    "date": "2020-10-15",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week",
+        "publication": "Textile historical blog",
+        "date": "2020-10-15",
+        "date_observations": [
+          {
+            "date": "2020-10-15",
+            "sources": [
+              "https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week",
+              "http://web.archive.org/web/20211025043338/https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043338/https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week",
+          "http://web.archive.org/web/20211025043338/https://blog.textile.io/the-launch-you-dont-want-to-miss-filecoin-liftoff-week/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet",
+    "outcome": "catalogued",
+    "title": "The Textile Hub joins Filecoin Mainnet",
+    "date": "2020-10-16",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet",
+        "publication": "Textile historical blog",
+        "date": "2020-10-16",
+        "date_observations": [
+          {
+            "date": "2020-10-16",
+            "sources": [
+              "https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet",
+              "http://web.archive.org/web/20211025043531/https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043531/https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet",
+          "http://web.archive.org/web/20211025043531/https://blog.textile.io/the-textile-hub-joins-filecoin-mainnet/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/the-ten-things-you-can-do-with",
+    "outcome": "catalogued",
+    "title": "So many hackathons, so many ideas: here are 10 great ways to use Textile in your project",
+    "date": "2020-09-26",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/the-ten-things-you-can-do-with",
+        "publication": "Textile historical blog",
+        "date": "2020-09-26",
+        "date_observations": [
+          {
+            "date": "2020-09-26",
+            "sources": [
+              "https://blog.textile.io/the-ten-things-you-can-do-with",
+              "http://web.archive.org/web/20211025043415/https://blog.textile.io/the-ten-things-you-can-do-with/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043415/https://blog.textile.io/the-ten-things-you-can-do-with/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/the-ten-things-you-can-do-with",
+          "http://web.archive.org/web/20211025043415/https://blog.textile.io/the-ten-things-you-can-do-with/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/threaddb-for-javascript-alpha-preview",
+    "outcome": "catalogued",
+    "title": "ThreadDB for Javascript — Alpha Preview",
+    "date": "2020-11-11",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/threaddb-for-javascript-alpha-preview",
+        "publication": "Textile historical blog",
+        "date": "2020-11-11",
+        "date_observations": [
+          {
+            "date": "2020-11-11",
+            "sources": [
+              "https://blog.textile.io/threaddb-for-javascript-alpha-preview",
+              "http://web.archive.org/web/20211025043612/https://blog.textile.io/threaddb-for-javascript-alpha-preview/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025043612/https://blog.textile.io/threaddb-for-javascript-alpha-preview/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/threaddb-for-javascript-alpha-preview",
+          "http://web.archive.org/web/20211025043612/https://blog.textile.io/threaddb-for-javascript-alpha-preview/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders\\",
+    "classification": "malformed-route",
+    "reason": "Backslash appended to an already indexed article path. Preserved as a rejected crawler route, not an article edition.",
+    "sources": [
+      "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "malformed-route"
+  },
+  {
+    "url": "https://blog.textile.io/understanding-filecoins-economy-part-i",
+    "outcome": "catalogued",
+    "title": "A path to demand  — Understanding Filecoinʼs Economy, Part I",
+    "date": "2020-08-28",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/understanding-filecoins-economy-part-i",
+        "publication": "Textile historical blog",
+        "date": "2020-08-28",
+        "date_observations": [
+          {
+            "date": "2020-08-28",
+            "sources": [
+              "https://blog.textile.io/understanding-filecoins-economy-part-i",
+              "http://web.archive.org/web/20220126165019/https://blog.textile.io/understanding-filecoins-economy-part-i/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220126165019/https://blog.textile.io/understanding-filecoins-economy-part-i/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://web.archive.org/web/20211025032629id_/https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "http://web.archive.org/web/20210121071442id_/https://blog.textile.io/filecoin-tools-progress-update-26-march/",
+          "https://web.archive.org/web/20210110150649id_/https://blog.textile.io/distributedtown-wins-textile-awards-in-both-apollo-and-ethonline-categories/",
+          "http://web.archive.org/web/20210104193519id_/https://blog.textile.io/integrating-powergate/",
+          "https://web.archive.org/web/20210306005521id_/https://blog.textile.io/early-stage-startup-planning-in-uncertain-times/",
+          "https://web.archive.org/web/20210110150643id_/https://blog.textile.io/ethonline-tonic-winner/",
+          "http://web.archive.org/web/20210121072524id_/https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "https://blog.textile.io/understanding-filecoins-economy-part-i",
+          "http://web.archive.org/web/20220126165019/https://blog.textile.io/understanding-filecoins-economy-part-i/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived publication listing",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate",
+    "outcome": "catalogued",
+    "title": "Video on Filecoin: exploring the Voodfy project built with Powergate",
+    "date": "2020-11-17",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate",
+        "publication": "Textile historical blog",
+        "date": "2020-11-17",
+        "date_observations": [
+          {
+            "date": "2020-11-17",
+            "sources": [
+              "https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate",
+              "http://web.archive.org/web/20211025050415/https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025050415/https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate",
+          "http://web.archive.org/web/20211025050415/https://blog.textile.io/video-on-filecoin-using-voodfy-project-and-powergate/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/weatherxm-textile-depin-data-storage,-retrieval,-and-rewards-computation",
+    "outcome": "catalogued",
+    "title": "WeatherXM + Textile: DePIN Data Storage, Retrieval, & Rewards Computation",
+    "date": "2024-03-11",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/weatherxm-textile-depin-data-storage,-retrieval,-and-rewards-computation",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20240518193723/https://blog.textile.io/weatherxm-textile-depin-data-storage,-retrieval,-and-rewards-computation",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20240518193723/https://blog.textile.io/weatherxm-textile-depin-data-storage,-retrieval,-and-rewards-computation"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://paragraph.com/@tableland-2/weatherxm-textile-depin-data-storage-retrieval-rewards-computation",
+        "publication": "Tableland Mirror / Paragraph",
+        "date": "2024-03-11",
+        "date_observations": [
+          {
+            "date": "2024-03-11",
+            "sources": [
+              "https://paragraph.com/@tableland-2"
+            ],
+            "evidence": null,
+            "record_file": "mirror-articles.json"
+          },
+          {
+            "date": "2024-03-11",
+            "sources": [
+              "https://paragraph.com/@tableland-2/"
+            ],
+            "evidence": "public publication listing",
+            "record_file": "paragraph-listing-articles.json"
+          }
+        ],
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://paragraph.com/@tableland-2",
+          "https://paragraph.com/@tableland-2/"
+        ],
+        "evidence": [
+          "public publication listing"
+        ]
+      },
+      {
+        "url": "https://blog.textile.io/weatherxm-textile-depin-data-storage",
+        "publication": "Textile / Tableland / Basin",
+        "date": "2024-04-08",
+        "date_observations": [
+          {
+            "date": "2024-04-08",
+            "sources": [
+              "https://blog.textile.io/sitemap.xml + pagination + RSS"
+            ],
+            "evidence": null,
+            "record_file": "paragraph-articles.json"
+          },
+          {
+            "date": "2024-04-08",
+            "sources": [
+              "https://blog.textile.io/p/2"
+            ],
+            "evidence": "public publication listing",
+            "record_file": "paragraph-listing-articles.json"
+          }
+        ],
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://blog.textile.io/sitemap.xml + pagination + RSS",
+          "https://blog.textile.io/p/2"
+        ],
+        "evidence": [
+          "public publication listing"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/wfil-best-protoco-bridge-apollo",
+    "outcome": "catalogued",
+    "title": "Wrapped Filecoin: Winner of Textile's best protocol bridge at Apollo",
+    "date": "2020-11-09",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/wfil-best-protoco-bridge-apollo",
+        "publication": "Textile historical blog",
+        "date": "2020-11-09",
+        "date_observations": [
+          {
+            "date": "2020-11-09",
+            "sources": [
+              "http://web.archive.org/web/20210101/https://blog.textile.io/wfil-best-protoco-bridge-apollo/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-extra-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20201220193142/https://blog.textile.io/wfil-best-protoco-bridge-apollo/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20210101/https://blog.textile.io/wfil-best-protoco-bridge-apollo/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://blog.textile.io/width=1080",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1080",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=1200",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1200",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=1920",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1920",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=16",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=16",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=128",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=128",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=20",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=20",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=24",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=24",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=2048",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=2048",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=256",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=256",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=384",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=384",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=32",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=32",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=3840",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=3840",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=40",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=40",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=48",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=48",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=64",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=64",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=750",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=750",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=640",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=640",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/wxm-w3bstream-risc0-poc\\",
+    "classification": "malformed-route",
+    "reason": "Backslash appended to an already indexed article path. Preserved as a rejected crawler route, not an article edition.",
+    "sources": [
+      "https://blog.textile.io/wxm-w3bstream-risc0-poc"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "malformed-route"
+  },
+  {
+    "url": "https://blog.textile.io/width=828",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=828",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://blog.textile.io/width=96",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=96",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15",
+    "outcome": "non-article"
+  },
+  {
+    "url": "https://medium.com/textileio/altconf-2019-adding-ipfs-to-your-apps-2af9ba212e1d",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/in-the-news-9f5f06cd6e6a",
+    "outcome": "catalogued",
+    "title": "In the news…",
+    "date": "2018-09-11",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/in-the-news-",
+        "publication": "Textile historical blog",
+        "date": "2018-09-11",
+        "date_observations": [
+          {
+            "date": "2018-09-11",
+            "sources": [
+              "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/",
+        "sources": [
+          "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/in-the-news-9f5f06cd6e6a",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/in-the-news-9f5f06cd6e6a"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/introducing-the-textile-android-sdk-dd20eca0c19a",
+    "outcome": "catalogued",
+    "title": "Introducing the Textile Android SDK",
+    "date": "2019-06-10",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/introducing-the-textile-android-sdk",
+        "publication": "Textile historical blog",
+        "date": "2019-06-10",
+        "date_observations": [
+          {
+            "date": "2019-06-10",
+            "sources": [
+              "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/",
+        "sources": [
+          "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/",
+          "https://web.archive.org/web/20200227081204id_/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934id_/https://blog.textile.io/page/5/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/introducing-the-textile-android-sdk-dd20eca0c19a",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/introducing-the-textile-android-sdk-dd20eca0c19a"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/introducing-textile-88bc696caae4",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+    "outcome": "catalogued",
+    "title": "Introducing the Textile SDK for iOS",
+    "date": "2019-05-28",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/introducing-the-textile-sdk-for-ios",
+        "publication": "Textile historical blog",
+        "date": null,
+        "date_observations": [],
+        "http_status": 404,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/",
+          "https://web.archive.org/web/20200227081204id_/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934id_/https://blog.textile.io/page/5/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+        "publication": "Textile on Medium",
+        "date": "2019-05-28",
+        "date_observations": [
+          {
+            "date": "2019-05-28",
+            "sources": [
+              "https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+              "http://web.archive.org/web/20220906060238/https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 403,
+        "archive_url": "http://web.archive.org/web/20220906060238/https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+          "http://web.archive.org/web/20220906060238/https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/ipfs-cluster-peer-installer-for-ec2-ef2e4bfb1a74",
+    "outcome": "catalogued",
+    "title": "IPFS Cluster Peer Installer for EC2",
+    "date": "2018-04-13",
+    "new_work": true,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+        "publication": "Textile historical blog",
+        "date": "2018-04-13",
+        "date_observations": [
+          {
+            "date": "2018-04-13",
+            "sources": [
+              "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+              "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/"
+            ],
+            "evidence": "archived article",
+            "record_file": "recovery-pass-2-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/",
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2",
+          "https://web.archive.org/web/20191118220322id_/https://blog.textile.io/ipfs-cluster-peer-installer-for-ec2/"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/ipfs-cluster-peer-installer-for-ec2-ef2e4bfb1a74",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/ipfs-cluster-peer-installer-for-ec2-ef2e4bfb1a74"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/setsdk-pod-available-on-cocoapods-484b60dcda8b",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/sneak-peak-data-goes-bang-episode-1-a-newsletter-about-personal-data-7365aa93d97b",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/textile-presents-at-first-ever-ai-and-ipfs-summit-in-china-f5b69a013b15",
+    "outcome": "catalogued",
+    "title": "Textile presents at first ever “AI and IPFS Summit” in China",
+    "date": "2018-08-30",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china",
+        "publication": "Textile historical blog",
+        "date": "2018-08-30",
+        "date_observations": [
+          {
+            "date": "2018-08-30",
+            "sources": [
+              "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+        "sources": [
+          "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/textile-presents-at-first-ever-ai-and-ipfs-summit-in-china-f5b69a013b15",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/textile-presents-at-first-ever-ai-and-ipfs-summit-in-china-f5b69a013b15"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/textile-update-august-2018-39cdf1bd9e28",
+    "outcome": "catalogued",
+    "title": "Textile Update | August 2018",
+    "date": "2018-08-21",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textile-update---august-2018",
+        "publication": "Textile historical blog",
+        "date": "2018-08-21",
+        "date_observations": [
+          {
+            "date": "2018-08-21",
+            "sources": [
+              "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/",
+        "sources": [
+          "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/textile-update-august-2018-39cdf1bd9e28",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/textile-update-august-2018-39cdf1bd9e28"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/textiles-network-of-cafes-are-now-open-to-developers-4a6df3a04b4",
+    "outcome": "catalogued",
+    "title": "Textile’s network of cafes are now open to developers!",
+    "date": "2019-05-30",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-",
+        "publication": "Textile historical blog",
+        "date": "2019-05-30",
+        "date_observations": [
+          {
+            "date": "2019-05-30",
+            "sources": [
+              "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+        "sources": [
+          "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/",
+          "https://web.archive.org/web/20200227081204id_/https://blog.textile.io/page/3/",
+          "https://web.archive.org/web/20200829083934id_/https://blog.textile.io/page/5/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/textiles-network-of-cafes-are-now-open-to-developers-4a6df3a04b4",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/textiles-network-of-cafes-are-now-open-to-developers-4a6df3a04b4"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/textile-update-october-2018-e92a62eaf8a5",
+    "outcome": "catalogued",
+    "title": "Textile Update | October 2018",
+    "date": "2018-11-07",
+    "new_work": false,
+    "editions": [
+      {
+        "url": "https://blog.textile.io/textile-update---october-2018",
+        "publication": "Textile historical blog",
+        "date": "2018-11-07",
+        "date_observations": [
+          {
+            "date": "2018-11-07",
+            "sources": [
+              "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/"
+            ],
+            "evidence": "archived article",
+            "record_file": "undated-recovery-articles.json"
+          }
+        ],
+        "http_status": 404,
+        "archive_url": "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/",
+        "sources": [
+          "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/",
+          "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/"
+        ],
+        "evidence": [
+          "archived publication listing",
+          "CDX URL only; metadata unavailable",
+          "archived article"
+        ]
+      },
+      {
+        "url": "https://medium.com/textileio/textile-update-october-2018-e92a62eaf8a5",
+        "publication": "Textile on Medium",
+        "date": null,
+        "date_observations": [],
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+          "https://medium.com/textileio/textile-update-october-2018-e92a62eaf8a5"
+        ],
+        "evidence": [
+          "CDX URL only; metadata unavailable",
+          "public web reader"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/thanks-for-following-us-on-medium-d66d2fc7230d",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/what-to-expect-from-intelligent-apps-in-2018-dea1bf356c8f",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  },
+  {
+    "url": "https://medium.com/textileio/what-did-you-miss-at-the-first-context-intelligence-meetup-fdfe10e5285c",
+    "outcome": "unresolved",
+    "note": "Title, byline, and publication date not verified for this edition."
+  }
+]

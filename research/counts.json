@@ -1,22 +1,22 @@
 {
   "checked": "2026-10-15",
-  "distinct_articles": 458,
-  "edition_urls": 578,
+  "distinct_articles": 497,
+  "edition_urls": 634,
   "collections": {
     "Papers and workshops": 11,
     "Recall": 19,
-    "Ceramic / 3Box": 225,
-    "Textile / Tableland / Basin": 201,
+    "Ceramic / 3Box": 230,
+    "Textile / Tableland / Basin": 235,
     "Other team bylines": 2
   },
-  "url_only_candidates": 88,
-  "linked_blog_candidates": 233,
-  "linked_articles_with_metadata": 66,
-  "articles_without_publication_date": 17,
-  "outbound_urls": 2844,
+  "url_only_candidates": 7,
+  "linked_blog_candidates": 270,
+  "linked_articles_with_metadata": 74,
+  "articles_without_publication_date": 8,
+  "outbound_urls": 3419,
   "social_entries": 8,
   "social_post_urls": 11,
   "talk_sessions": 18,
-  "talk_recordings": 16,
+  "talk_recordings": 18,
   "talks_with_slides": 5
 }

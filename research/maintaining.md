@@ -20,6 +20,8 @@ The [second research pass](second-pass.md) documents GitHub/Gist discovery, reco
 
 The separate talks table is generated from `data/talks.json`. Each entry needs a direct recording or slide deck, primary-source speaker evidence where available, and a date basis distinguishing event dates from video/slide publication dates. Preserve YouTube video IDs and query parameters. Pair slides with a recording only when source evidence establishes the match. Keep publisher-only attribution when an individual speaker is not identified. Marketing, launch announcements, community calls, and event listings without a surviving recording or deck are excluded. [Talks research notes](talks.md) record selection decisions and remaining leads. Talk counts remain separate from writing and social counts.
 
+The second pass preserves its own retry cache under `.cache/recovery-pass-2/`. `retry_unresolved.py --refresh` deliberately refreshes that pass's responses without altering the first survey cache. Its input is the immutable 88-URL baseline in `research/recovery-pass-2/`; `recover_undated.py` similarly retains its original 20 candidates so a rerun cannot erase successful recoveries simply because the catalogue has improved.
+
 Collection entry points:
 
 ```sh
@@ -34,5 +36,19 @@ Collection entry points:
 .venv/bin/python scripts/linked.py
 .venv/bin/python scripts/build_index.py
 ```
+
+Second-pass collectors and reconciliation:
+
+```sh
+.venv/bin/python scripts/retry_unresolved.py
+.venv/bin/python scripts/harvest_recovery_cards.py
+.venv/bin/python scripts/recover_undated.py
+.venv/bin/python scripts/linked.py
+.venv/bin/python scripts/build_index.py
+.venv/bin/python scripts/audit_recovery.py
+.venv/bin/python scripts/validate.py
+```
+
+The recovery audit compares against commit `160ce4a`, which must be available locally. Run `git fetch --unshallow` first if using a shallow clone that omits it. Supplemental reads and route exclusions are preserved in `data/recovery-extra-articles.json`, `data/url-resolutions.json`, and the research ledger; collectors do not regenerate every supplemental observation.
 
 Some supplemental metadata was extracted with a web reader after ordinary HTTP reads failed. Those observations are retained in the checked-in web and reader JSON files; the collection scripts do not regenerate them. Bibliographic metadata and URLs are checked in. Cached article bodies, environments, and temporary downloads are ignored.

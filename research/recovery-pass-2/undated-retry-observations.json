@@ -1,0 +1,2822 @@
+[
+  {
+    "title": "import @textile: Textile Javascript gets ES Module support",
+    "url": "https://blog.textile.io/import-textile-es-modules",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/import-textile-es-modules/",
+        "final_url": "http://web.archive.org/web/20220121120459/https://blog.textile.io/import-textile-es-modules/",
+        "status": 200,
+        "title": "import @textile: Textile Javascript gets ES Module support",
+        "date": "2020-12-22",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "import @textile: Textile Javascript gets ES Module support",
+      "url": "https://blog.textile.io/import-textile-es-modules",
+      "canonical_url": "http://web.archive.org/web/20220121120459/https://blog.textile.io/import-textile-es-modules/",
+      "date": "2020-12-22",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220121120459/https://blog.textile.io/import-textile-es-modules/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220121120459/https://blog.textile.io/import-textile-es-modules/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/javascript/",
+          "text": "javascript"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=import%20%40textile%3A%20Textile%20Javascript%20gets%20ES%20Module%20support&url=https://blog.textile.io/import-textile-es-modules/",
+          "text": ""
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#Browser_support",
+          "text": "Support in major modern browsers is pretty good"
+        },
+        {
+          "url": "https://nodejs.org/en/blog/release/v12.17.0/",
+          "text": "Node.js v12.17.0 has also shipped with support for ECMAScript modules (without a flag"
+        },
+        {
+          "url": "https://github.com/textileio/js-examples/pull/45",
+          "text": "updating examples"
+        },
+        {
+          "url": "https://observablehq.com/@carsonfarmer/testing-textile-threads-imports",
+          "text": "notebooks and demos"
+        },
+        {
+          "url": "https://www.npmjs.com/package/@textile/hub",
+          "text": "NPMJS"
+        },
+        {
+          "url": "https://unpkg.com/",
+          "text": "UNPKG"
+        },
+        {
+          "url": "https://twitter.com/textileio?ref_src=twsrc%5Etfw",
+          "text": "@textileio"
+        },
+        {
+          "url": "https://t.co/ypyOIuyCiq",
+          "text": "https://t.co/ypyOIuyCiq"
+        },
+        {
+          "url": "https://twitter.com/textileio?ref_src=twsrc%5Etfw",
+          "text": "@textileio"
+        },
+        {
+          "url": "https://twitter.com/unpkg?ref_src=twsrc%5Etfw",
+          "text": "@unpkg"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1341155362959806464?ref_src=twsrc%5Etfw",
+          "text": "December 21, 2020"
+        },
+        {
+          "url": "https://exploringjs.com/es6/ch_modules.html",
+          "text": "Learn more about ES Modules"
+        },
+        {
+          "url": "https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/",
+          "text": "cartoon version"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client 2 years ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220121120459/https://blog.textile.io/import-textile-es-modules/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Threads V0.2 Community Update",
+    "url": "https://blog.textile.io/threads-v0-2-community-update",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/threads-v0-2-community-update/",
+        "final_url": "http://web.archive.org/web/20211025042101/https://blog.textile.io/threads-v0-2-community-update/",
+        "status": 200,
+        "title": "Threads V0.2 Community Update",
+        "date": "2019-10-11",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Threads V0.2 Community Update",
+      "url": "https://blog.textile.io/threads-v0-2-community-update",
+      "canonical_url": "http://web.archive.org/web/20211025042101/https://blog.textile.io/threads-v0-2-community-update/",
+      "date": "2019-10-11",
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025042101/https://blog.textile.io/threads-v0-2-community-update/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025042101/https://blog.textile.io/threads-v0-2-community-update/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://twitter.com/intent/tweet?text=Threads%20V0.2%20Community%20Update&url=https://blog.textile.io/threads-v0-2-community-update/",
+          "text": ""
+        },
+        {
+          "url": "https://docs.textile.io/concepts/threads/",
+          "text": "Threads"
+        },
+        {
+          "url": "https://blog.textile.io/building-the-firebase-for-crdts/",
+          "text": "flexible CRDT support"
+        },
+        {
+          "url": "https://zoom.us/meeting/register/07096e1998d2e26adc2040ba88984b7b",
+          "text": "https://zoom.us/meeting/register/07096e1998d2e26adc2040ba88984b7b"
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": "Andrew Hill"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/@andrewxhill",
+          "text": ""
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025042101/https://blog.textile.io/threads-v0-2-community-update/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "The IPFS / LibP2P Help Desk is coming to ETHBerlin",
+    "url": "https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+        "final_url": "http://web.archive.org/web/20220114000724/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+        "status": 200,
+        "title": "The IPFS / LibP2P Help Desk is coming to ETHBerlin",
+        "date": "2019-08-14",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "The IPFS / LibP2P Help Desk is coming to ETHBerlin",
+      "url": "https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin",
+      "canonical_url": "http://web.archive.org/web/20220114000724/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+      "date": "2019-08-14",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220114000724/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220114000724/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/community/",
+          "text": "community"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=The%20IPFS%20%2F%20LibP2P%20Help%20Desk%20is%20coming%20to%20ETHBerlin&url=https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+          "text": ""
+        },
+        {
+          "url": "https://github.com/obo20",
+          "text": "Matt Ober"
+        },
+        {
+          "url": "https://pinata.cloud/",
+          "text": "Pinata"
+        },
+        {
+          "url": "https://github.com/carsonfarmer",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": "Textile"
+        },
+        {
+          "url": "https://github.com/raulk",
+          "text": "Raúl Kripalani"
+        },
+        {
+          "url": "https://github.com/hsanjuan",
+          "text": "Héctor Sanjuán"
+        },
+        {
+          "url": "https://github.com/vasco-santos",
+          "text": "Vasco Santos"
+        },
+        {
+          "url": "https://medium.com/pinata/the-ipfs-libp2p-help-desk-is-coming-to-ethberlin-9754fadaf095",
+          "text": "here"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client 2 years ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220114000724/https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Textile’s network of cafes are now open to developers!",
+    "url": "https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+        "final_url": "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+        "status": 200,
+        "title": "Textile’s network of cafes are now open to developers!",
+        "date": "2019-05-30",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Textile’s network of cafes are now open to developers!",
+      "url": "https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-",
+      "canonical_url": "http://web.archive.org/web/20220121105625/https://medium.com/@andrewxhill/textiles-network-of-cafes-are-now-open-to-developers-4a6df3a04b4",
+      "date": "2019-05-30",
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/developers/",
+          "text": "developers"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Textile%E2%80%99s%20network%20of%20cafes%20are%20now%20open%20to%20developers!&url=https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+          "text": ""
+        },
+        {
+          "url": "https://docs.textile.io/concepts/cafes/",
+          "text": "Textile Cafes"
+        },
+        {
+          "url": "https://textile.photos/",
+          "text": "Textile Photos"
+        },
+        {
+          "url": "https://medium.com/textileio/textile-notes-a-minimalist-tool-for-your-creative-ideas-68b9357d5cd0",
+          "text": "Notes"
+        },
+        {
+          "url": "https://docs.textile.io/",
+          "text": "ever-improving documentation"
+        },
+        {
+          "url": "https://docs.textile.io/install/the-daemon/#initialize-a-cafe-peer",
+          "text": "run your own cafes"
+        },
+        {
+          "url": "https://docs.textile.io/concepts/cafes/#try-one",
+          "text": "register your application"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Zero-knowledge_proof",
+          "text": "zero-knowledge way"
+        },
+        {
+          "url": "https://github.com/textileio/go-textile/issues/684",
+          "text": "Web2 bridges"
+        },
+        {
+          "url": "https://github.com/textileio/go-textile/issues/449",
+          "text": "Filecoin support"
+        },
+        {
+          "url": "https://github.com/textileio/meta/issues/21",
+          "text": "developer tools"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "community slack channel"
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": "Andrew Hill"
+        },
+        {
+          "url": "https://blog.textile.io/author/sander/",
+          "text": "Sander Pick"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/@andrewxhill",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client 2 years ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220121105625/https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Textile presents at first ever “AI and IPFS Summit” in China",
+    "url": "https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+        "final_url": "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+        "status": 200,
+        "title": "Textile presents at first ever “AI and IPFS Summit” in China",
+        "date": "2018-08-30",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Textile presents at first ever “AI and IPFS Summit” in China",
+      "url": "https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china",
+      "canonical_url": "http://web.archive.org/web/20220121105545/https://medium.com/@carsonfarmer/textile-presents-at-first-ever-ai-and-ipfs-summit-in-china-f5b69a013b15",
+      "date": "2018-08-30",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/community/",
+          "text": "community"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Textile%20presents%20at%20first%20ever%20%E2%80%9CAI%20and%20IPFS%20Summit%E2%80%9D%20in%20China&url=https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+          "text": ""
+        },
+        {
+          "url": "http://ipfs.fund/",
+          "text": "IPFS.fund"
+        },
+        {
+          "url": "https://twitter.com/andrewxhill",
+          "text": "Andrew"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": "Textile"
+        },
+        {
+          "url": "https://textile.photos/",
+          "text": "Textile Photos"
+        },
+        {
+          "url": "https://www.ipfsfirst.com/",
+          "text": "IPFS.first"
+        },
+        {
+          "url": "https://medium.com/textileio",
+          "text": "other content"
+        },
+        {
+          "url": "https://textile.photos/join",
+          "text": "Textile Photos waitlist"
+        },
+        {
+          "url": "https://twitter.com/Textile01",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Slack"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ipfs/",
+          "text": "ipfs"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": "Cross-platform IPFS Lite: JS, Android, iOS, and gRPC 2 years ago • 5 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220121105545/https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Textile going virtual with EthDenver",
+    "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+        "final_url": "http://web.archive.org/web/20211205050550/https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+        "status": 200,
+        "title": "Textile going virtual with EthDenver",
+        "date": "2021-01-15",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Textile going virtual with EthDenver",
+      "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver",
+      "canonical_url": "http://web.archive.org/web/20211205050550/https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+      "date": "2021-01-15",
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211205050550/https://blog.textile.io/textile-going-virtual-at-ethdenver/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211205050550/https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Textile%20going%20virtual%20with%20EthDenver&url=https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://www.ethdenver.com/",
+          "text": "EthDenver"
+        },
+        {
+          "url": "https://ipfs.io/",
+          "text": "IPFS"
+        },
+        {
+          "url": "https://filecoin.io/",
+          "text": "Filecoin"
+        },
+        {
+          "url": "https://www.ethdenver.com/",
+          "text": "EthDenver"
+        },
+        {
+          "url": "https://www.ethdenver.com/",
+          "text": "https://www.ethdenver.com/"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": "Textile"
+        },
+        {
+          "url": "https://docs.textile.io/",
+          "text": "documentation"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Textile Slack"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Drop us a line"
+        },
+        {
+          "url": "https://twitter.com/EthereumDenver?ref_src=twsrc%5Etfw",
+          "text": "@EthereumDenver"
+        },
+        {
+          "url": "https://t.co/HubBB5ntVh",
+          "text": "https://t.co/HubBB5ntVh"
+        },
+        {
+          "url": "https://twitter.com/hashtag/ethereum?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#ethereum"
+        },
+        {
+          "url": "https://twitter.com/hashtag/filecoin?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#filecoin"
+        },
+        {
+          "url": "https://twitter.com/hashtag/hackathon?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#hackathon"
+        },
+        {
+          "url": "https://t.co/F9vQpus7sH",
+          "text": "pic.twitter.com/F9vQpus7sH"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1350140709609766913?ref_src=twsrc%5Etfw",
+          "text": "January 15, 2021"
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": "Andrew Hill"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/@andrewxhill",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client a year ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ipfs/",
+          "text": "ipfs"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": "Cross-platform IPFS Lite: JS, Android, iOS, and gRPC 2 years ago • 5 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211205050550/https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Textile Update | October 2018",
+    "url": "https://blog.textile.io/textile-update---october-2018",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/textile-update---october-2018/",
+        "final_url": "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/",
+        "status": 200,
+        "title": "Textile Update | October 2018",
+        "date": "2018-11-07",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Textile Update | October 2018",
+      "url": "https://blog.textile.io/textile-update---october-2018",
+      "canonical_url": "http://web.archive.org/web/20211025044047/https://medium.com/@carsonfarmer/textile-update-october-2018-e92a62eaf8a5",
+      "date": "2018-11-07",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/business/",
+          "text": "business"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Textile%20Update%20%7C%20October%202018&url=https://blog.textile.io/textile-update---october-2018/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/Textile01",
+          "text": "social media"
+        },
+        {
+          "url": "https://peepeth.com/carsonfarmer",
+          "text": "some"
+        },
+        {
+          "url": "https://peepeth.com/sander",
+          "text": "of us"
+        },
+        {
+          "url": "https://peepeth.com/andrewxhill",
+          "text": "are also"
+        },
+        {
+          "url": "https://peepeth.com/",
+          "text": "Peepeth"
+        },
+        {
+          "url": "https://medium.com/textileio",
+          "text": "our blog"
+        },
+        {
+          "url": "https://medium.com/textileio/the-5-steps-to-end-to-end-encrypted-photo-storage-and-sharing-45ad4aad6b14",
+          "text": "The 5 steps to end-to-end encrypted photo storage and sharing"
+        },
+        {
+          "url": "https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338",
+          "text": "A deeper look at the tech behind Textile’s Threads protocol"
+        },
+        {
+          "url": "https://tinyletter.com/ipfsnewsletter/archive",
+          "text": "regular spots in the IPFS community newsletter"
+        },
+        {
+          "url": "https://medium.com/nem-anz/dogecoin-minecraft-textile-photos-f67f6043cac3",
+          "text": "educational materials"
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PLhuBigpl7lqvIymGaM7A_VT4CYZW3R_4Q",
+          "text": "Lab Day videos"
+        },
+        {
+          "url": "https://textile.photos/",
+          "text": "Textile Photos"
+        },
+        {
+          "url": "https://github.com/textileio/textile-mobile",
+          "text": "front-end"
+        },
+        {
+          "url": "https://facebook.github.io/react-native/",
+          "text": "react native"
+        },
+        {
+          "url": "https://www.typescriptlang.org/",
+          "text": "TypeScript"
+        },
+        {
+          "url": "https://github.com/textileio/textile-go",
+          "text": "textile-go"
+        },
+        {
+          "url": "https://github.com/ipfs/go-ipfs/releases",
+          "text": "latest go-ipfs release (at the time)"
+        },
+        {
+          "url": "https://github.com/textileio/textile-go/projects/2",
+          "text": "backup and recovery"
+        },
+        {
+          "url": "https://medium.com/textileio",
+          "text": "our blog"
+        },
+        {
+          "url": "https://github.com/textileio",
+          "text": "GitHub repos"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "reach out on Slack"
+        },
+        {
+          "url": "https://twitter.com/Textile01",
+          "text": "your thoughts on Twitter"
+        },
+        {
+          "url": "https://www.textile.photos/#cta",
+          "text": "our waitlist"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/subscribe/post?u=5d6937984c33e82d45cf7961a&id=ed364a47a3",
+          "text": "our mailing list"
+        },
+        {
+          "url": "https://unsplash.com/@maddybakes?utm_source=medium&utm_medium=referral",
+          "text": "Maddy Baker"
+        },
+        {
+          "url": "https://unsplash.com/?utm_source=medium&utm_medium=referral",
+          "text": "Unsplash"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver 9 months ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": "A path to demand — Understanding Filecoinʼs Economy, Part I a year ago • 7 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025044047/https://blog.textile.io/textile-update---october-2018/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Textile Update | August 2018",
+    "url": "https://blog.textile.io/textile-update---august-2018",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/textile-update---august-2018/",
+        "final_url": "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/",
+        "status": 200,
+        "title": "Textile Update | August 2018",
+        "date": "2018-08-21",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Textile Update | August 2018",
+      "url": "https://blog.textile.io/textile-update---august-2018",
+      "canonical_url": "http://web.archive.org/web/20211025042220/https://medium.com/@carsonfarmer/textile-update-august-2018-39cdf1bd9e28",
+      "date": "2018-08-21",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/business/",
+          "text": "business"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Textile%20Update%20%7C%20August%202018&url=https://blog.textile.io/textile-update---august-2018/",
+          "text": ""
+        },
+        {
+          "url": "https://textile.photos/join",
+          "text": "our wait list"
+        },
+        {
+          "url": "https://medium.com/textileio/how-ipfs-peer-nodes-identify-each-other-on-the-distributed-web-8b5b6476aa5e",
+          "text": "public key and an IPNS profile"
+        },
+        {
+          "url": "https://github.com/textileio/textile-go",
+          "text": "the GitHub repo"
+        },
+        {
+          "url": "https://github.com/textileio/textile-mobile/issues",
+          "text": "accepting Issues"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gOzAYiT1Z4U&list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z",
+          "text": "whole series"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCQPmtkMrq8Owz9qWadZ7n1Q",
+          "text": "YouTube channel"
+        },
+        {
+          "url": "https://creativecommons.org/",
+          "text": "creative commons attribution license"
+        },
+        {
+          "url": "https://textile.photos/join",
+          "text": "our wait list"
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/textile-photos/id1366428460?ls=1&mt=8",
+          "text": "Apple"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.textile",
+          "text": "Google"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "hearing your feedback"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver 9 months ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": "A path to demand — Understanding Filecoinʼs Economy, Part I a year ago • 7 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025042220/https://blog.textile.io/textile-update---august-2018/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Team chat guidelines",
+    "url": "https://blog.textile.io/team-chat-guidelines",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/team-chat-guidelines/",
+        "final_url": "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/",
+        "status": 200,
+        "title": "Team chat guidelines",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Team chat guidelines",
+      "url": "https://blog.textile.io/team-chat-guidelines",
+      "canonical_url": "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel",
+          "text": "https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel"
+        },
+        {
+          "url": "http://www.nohello.com/",
+          "text": "nohello"
+        },
+        {
+          "url": "https://workplace.stackexchange.com/questions/119137/how-to-gently-enforce-nohello-to-a-coworker",
+          "text": "nohello"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220121113618/https://blog.textile.io/team-chat-guidelines/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Powergate: Filecoin Developer Tools",
+    "url": "https://blog.textile.io/filecoin-developer-tools-concepts",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/filecoin-developer-tools-concepts/",
+        "final_url": "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/",
+        "status": 200,
+        "title": "Powergate: Filecoin Developer Tools",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Powergate: Filecoin Developer Tools",
+      "url": "https://blog.textile.io/filecoin-developer-tools-concepts",
+      "canonical_url": "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://github.com/textileio/powergate/",
+          "text": "Powergate"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools",
+          "text": "open-source repository"
+        },
+        {
+          "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "text": "please read our blog post"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-09-march/",
+          "text": "https://blog.textile.io/filecoin-tools-progress-update-09-march/"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-24-february/",
+          "text": "https://blog.textile.io/filecoin-tools-progress-update-24-february/"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+          "text": "https://blog.textile.io/filecoin-tools-progress-update-10-february/"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+          "text": "https://blog.textile.io/filecoin-tools-progress-update-27-january/"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+          "text": "https://blog.textile.io/filecoin-tools-progress-update-13-january/"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus",
+          "text": "lotus"
+        },
+        {
+          "url": "https://ipfs.io/",
+          "text": "ipfs"
+        },
+        {
+          "url": "https://prometheus.io/",
+          "text": "Prometheus"
+        },
+        {
+          "url": "https://grpc.io/",
+          "text": "gRPC"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Protocol_Buffers",
+          "text": "protocol buffers"
+        },
+        {
+          "url": "https://opencensus.io/",
+          "text": "Opencensus"
+        },
+        {
+          "url": "https://prometheus.io/",
+          "text": "Prometheus"
+        },
+        {
+          "url": "https://grafana.com/",
+          "text": "Grafana"
+        },
+        {
+          "url": "https://github.com/google/cadvisor",
+          "text": "cAdvisor"
+        },
+        {
+          "url": "https://github.com/google/pprof",
+          "text": "pprof"
+        },
+        {
+          "url": "https://github.com/multiformats/cid",
+          "text": "CID"
+        },
+        {
+          "url": "https://ipld.io/",
+          "text": "IPLD"
+        },
+        {
+          "url": "https://filecoin-project.github.io/specs/",
+          "text": "car"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "join our Slack channel"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211124113147/https://blog.textile.io/filecoin-developer-tools-concepts/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Powergate v2.0.0 is here!",
+    "url": "https://blog.textile.io/powergate-v2-0-0-is-here",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/powergate-v2-0-0-is-here/",
+        "final_url": "http://web.archive.org/web/20211025032955/https://blog.textile.io/powergate-v2-0-0-is-here/",
+        "status": 200,
+        "title": "Powergate v2.0.0 is here!",
+        "date": "2021-01-22",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Powergate v2.0.0 is here!",
+      "url": "https://blog.textile.io/powergate-v2-0-0-is-here",
+      "canonical_url": "http://web.archive.org/web/20211025032955/https://blog.textile.io/powergate-v2-0-0-is-here/",
+      "date": "2021-01-22",
+      "authors": [
+        "Ignacio Hagopian"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025032955/https://blog.textile.io/powergate-v2-0-0-is-here/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025032955/https://blog.textile.io/powergate-v2-0-0-is-here/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Powergate%20v2.0.0%20is%20here!&url=https://blog.textile.io/powergate-v2-0-0-is-here/",
+          "text": ""
+        },
+        {
+          "url": "https://github.com/textileio/powergate/releases/tag/v2.0.0",
+          "text": "release notes"
+        },
+        {
+          "url": "https://semver.org/",
+          "text": "semantic-versioning"
+        },
+        {
+          "url": "https://filecoinproject.slack.com/",
+          "text": "Filecoin slack workspace"
+        },
+        {
+          "url": "https://github.com/textileio/powergate/commit/ea8d87a2b6bc24041f4115f799635c55e2be31ff#diff-a387cd7c843d336ad9213041ae8f5e21c0f35e5f452a4622fe34a1ee31eff1e6",
+          "text": "commit diff"
+        },
+        {
+          "url": "https://filecoin.tools/",
+          "text": "filecoin.tools"
+        },
+        {
+          "url": "https://spec.filecoin.io/#section-systems.filecoin_files.piece.data-representation",
+          "text": "DAG is transformed to a CAR file with some extra padding"
+        },
+        {
+          "url": "https://github.com/textileio/powergate/blob/develop/cmd/powcfg/transformations.go",
+          "text": "here"
+        },
+        {
+          "url": "https://github.com/textileio/powergate/tree/master/cmd/migrtest",
+          "text": "easier and safer migration testing"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/filecoin-project/slingshot/master/miners.json",
+          "text": "default URL"
+        },
+        {
+          "url": "https://deplatformer.io/",
+          "text": "Deplatformr"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/deplatformr/open-images/main/powergate/miners/miners.json",
+          "text": "customized list"
+        },
+        {
+          "url": "https://github.com/textileio/powergate/releases/tag/v2.0.0",
+          "text": "v2.0.0 release notes"
+        },
+        {
+          "url": "https://textile.io/#managed-infra",
+          "text": "https://textile.io/#managed-infra"
+        },
+        {
+          "url": "https://t.co/yk8xMCJiW7",
+          "text": "https://t.co/yk8xMCJiW7"
+        },
+        {
+          "url": "https://twitter.com/hashtag/filecoin?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#filecoin"
+        },
+        {
+          "url": "https://twitter.com/hashtag/releases?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#releases"
+        },
+        {
+          "url": "https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#opensource"
+        },
+        {
+          "url": "https://twitter.com/hashtag/storage?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#storage"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1352759665185099776?ref_src=twsrc%5Etfw",
+          "text": "January 22, 2021"
+        },
+        {
+          "url": "https://blog.textile.io/author/ignacio/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/ignacio/",
+          "text": "Ignacio Hagopian"
+        },
+        {
+          "url": "https://twitter.com/@ignaciohagopian",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver 9 months ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client a year ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025032955/https://blog.textile.io/powergate-v2-0-0-is-here/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+        "final_url": "http://web.archive.org/web/20211025035011/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+        "status": 200,
+        "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+        "date": "2020-08-14",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+      "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+      "canonical_url": "http://web.archive.org/web/20211025035011/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+      "date": "2020-08-14",
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025035011/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025035011/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/developers/",
+          "text": "developers"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Introducing%20the%20User%20Mailbox%20API%20-%20Send%20messages%20between%20any%20users%20or%20public%20key%20owners&url=https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+          "text": ""
+        },
+        {
+          "url": "https://docs.textile.io/users/",
+          "text": "User Mailboxes"
+        },
+        {
+          "url": "https://docs.textile.io/threads/",
+          "text": "Textile Threads"
+        },
+        {
+          "url": "https://docs.textile.io/tutorials/hub/pki-identities/",
+          "text": "private-key encryption"
+        },
+        {
+          "url": "https://docs.textile.io/#the-hub",
+          "text": "Textile Hub"
+        },
+        {
+          "url": "https://hackfs.com/",
+          "text": "HackFS"
+        },
+        {
+          "url": "https://docs.textile.io/buckets/",
+          "text": "Buckets"
+        },
+        {
+          "url": "https://fleek.co/",
+          "text": "Fleek"
+        },
+        {
+          "url": "https://blog.fleek.co/posts/daemon-release/",
+          "text": "Space Daemon"
+        },
+        {
+          "url": "https://docs.textile.io/users/",
+          "text": "Textile documentation"
+        },
+        {
+          "url": "https://textileio.github.io/js-hub/docs/hub.users.setupmailbox",
+          "text": "JavaScript client docs"
+        },
+        {
+          "url": "https://github.com/textileio/textile#using-the-mail-library",
+          "text": "Golang client overview"
+        },
+        {
+          "url": "https://docs.textile.io/tutorials/hub/pki-identities/",
+          "text": "ed25519 base keys"
+        },
+        {
+          "url": "https://github.com/textileio/go-threads/issues/419",
+          "text": "ticket on GitHub"
+        },
+        {
+          "url": "https://twitter.com/hashtag/HackFS?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#HackFS"
+        },
+        {
+          "url": "https://t.co/sRjWNKRCzm",
+          "text": "https://t.co/sRjWNKRCzm"
+        },
+        {
+          "url": "https://twitter.com/hashtag/ipfs?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#ipfs"
+        },
+        {
+          "url": "https://twitter.com/hashtag/libp2p?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#libp2p"
+        },
+        {
+          "url": "https://twitter.com/hashtag/dapps?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#dapps"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1294307745089216518?ref_src=twsrc%5Etfw",
+          "text": "August 14, 2020"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Textile Slack"
+        },
+        {
+          "url": "https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTY4YmFjMzRlZjFiNDc0NmI2N2JjMjk5YTAyMDUyODljODg3MGI0ZGRhZTI5ZDNkZTAyNjkyMzI1ODM1YjA1MWI",
+          "text": "f"
+        },
+        {
+          "url": "https://twitter.com/textileio",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection#b99696d8d7ddcbdccef9cddcc1cdd0d5dc97d0d6",
+          "text": "email"
+        },
+        {
+          "url": "https://calendly.com/andrewxhill/15min",
+          "text": "set up a quick call"
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": "Andrew Hill"
+        },
+        {
+          "url": "https://blog.textile.io/author/sander/",
+          "text": "Sander Pick"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/@andrewxhill",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver 9 months ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client a year ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025035011/https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Introducing the Textile Android SDK",
+    "url": "https://blog.textile.io/introducing-the-textile-android-sdk",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/introducing-the-textile-android-sdk/",
+        "final_url": "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/",
+        "status": 200,
+        "title": "Introducing the Textile Android SDK",
+        "date": "2019-06-10",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Introducing the Textile Android SDK",
+      "url": "https://blog.textile.io/introducing-the-textile-android-sdk",
+      "canonical_url": "http://web.archive.org/web/20211025033943/https://medium.com/@asutula/introducing-the-textile-android-sdk-dd20eca0c19a",
+      "date": "2019-06-10",
+      "authors": [
+        "Aaron Sutula"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/android/",
+          "text": "android"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Introducing%20the%20Textile%20Android%20SDK&url=https://blog.textile.io/introducing-the-textile-android-sdk/",
+          "text": ""
+        },
+        {
+          "url": "https://unsplash.com/@jupp?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit",
+          "text": "Jonathan Kemper"
+        },
+        {
+          "url": "https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit",
+          "text": "Unsplash"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": "Textile"
+        },
+        {
+          "url": "https://ipfs.io/",
+          "text": "IPFS"
+        },
+        {
+          "url": "https://medium.com/textileio/introducing-the-textile-sdk-for-ios-e180e5c16461",
+          "text": "recent iOS release"
+        },
+        {
+          "url": "https://github.com/textileio/android-textile/",
+          "text": "GitHub repo"
+        },
+        {
+          "url": "https://docs.textile.io/",
+          "text": "check out the docs"
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": "Aaron Sutula"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver 9 months ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client a year ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025033943/https://blog.textile.io/introducing-the-textile-android-sdk/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "In the news…",
+    "url": "https://blog.textile.io/in-the-news-",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/in-the-news-/",
+        "final_url": "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/",
+        "status": 200,
+        "title": "In the news…",
+        "date": "2018-09-11",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "In the news…",
+      "url": "https://blog.textile.io/in-the-news-",
+      "canonical_url": "http://web.archive.org/web/20220121120838/https://medium.com/@carsonfarmer/in-the-news-9f5f06cd6e6a",
+      "date": "2018-09-11",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/business/",
+          "text": "business"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=In%20the%20news%E2%80%A6&url=https://blog.textile.io/in-the-news-/",
+          "text": ""
+        },
+        {
+          "url": "https://www.theguardian.com/",
+          "text": "The Guardian"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/track/click?u=5d6937984c33e82d45cf7961a&id=bbbadcbca9&e=6e69e56da0",
+          "text": "Decentralisation: the next big step for the world wide web"
+        },
+        {
+          "url": "https://t.co/JP7xGsyCFq",
+          "text": "Check out some of the comments for a lively disussion"
+        },
+        {
+          "url": "https://www.textile.photos/",
+          "text": "Textile Photos"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.textile&hl=en_CA",
+          "text": "Play Store"
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/textile-photos/id1366428460?mt=8",
+          "text": "App Store"
+        },
+        {
+          "url": "https://textile.photos/join",
+          "text": "sign up"
+        },
+        {
+          "url": "https://awesome.ipfs.io/",
+          "text": "awesome list of IPFS-based apps, articles, tools, and videos"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/track/click?u=5d6937984c33e82d45cf7961a&id=69769f89c6&e=6e69e56da0",
+          "text": "GitHub"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/track/click?u=5d6937984c33e82d45cf7961a&id=1fbc965f12&e=6e69e56da0",
+          "text": "our blog"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/track/click?u=5d6937984c33e82d45cf7961a&id=8c7eb8c76d&e=6e69e56da0",
+          "text": "ticket here"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "reach out on Slack"
+        },
+        {
+          "url": "https://twitter.com/Textile01",
+          "text": "your thoughts on Twitter"
+        },
+        {
+          "url": "https://textile.photos/join",
+          "text": "waitlist"
+        },
+        {
+          "url": "https://textile.us14.list-manage.com/subscribe/post?u=5d6937984c33e82d45cf7961a&id=ed364a47a3",
+          "text": "our mailing list"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/privacy/",
+          "text": "privacy"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "A protocol & event-sourced database for decentralized user-siloed data 2 years ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/understanding-filecoins-economy-part-i/",
+          "text": "A path to demand — Understanding Filecoinʼs Economy, Part I a year ago • 7 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20220121120838/https://blog.textile.io/in-the-news-/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Filecoin tools progress update: 27 January",
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+        "final_url": "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+        "status": 200,
+        "title": "Filecoin tools progress update: 27 January",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Filecoin tools progress update: 27 January",
+      "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january",
+      "canonical_url": "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "text": "our announcement"
+        },
+        {
+          "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "text": "Project blog post"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-developer-tools-conecepts/",
+          "text": "Concepts and development areas"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+          "text": "Previous progress summary"
+        },
+        {
+          "url": "https://ipfs.io/",
+          "text": "IPFS"
+        },
+        {
+          "url": "https://grafana.com/",
+          "text": "Grafana"
+        },
+        {
+          "url": "http://40.117.82.59:8889/index/slashing",
+          "text": "slashing"
+        },
+        {
+          "url": "http://40.117.82.59:8889/index/miners",
+          "text": "miners"
+        },
+        {
+          "url": "http://40.117.82.59:8889/index/ask",
+          "text": "asks"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pulls",
+          "text": "developer CLI for the deal module"
+        },
+        {
+          "url": "https://lotus-archives.textile.io/",
+          "text": "lotus archive and recovery feed"
+        },
+        {
+          "url": "https://filecoinproject.slack.com/archives/CSG8QRE0K/p1579800067000600",
+          "text": "Filecoin Slack discussion"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/60",
+          "text": "fil-tools pull request"
+        },
+        {
+          "url": "https://github.com/textileio/filecoin/pull/48",
+          "text": "fil-tools pull request"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/pull/1155 ",
+          "text": "lotus pull request"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/68",
+          "text": "https://github.com/textileio/fil-tools/pull/68"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/issues/1122",
+          "text": "lotus pull request"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/pull/1084",
+          "text": "lotus pull request"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/62",
+          "text": "https://github.com/textileio/fil-tools/pull/62"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/issues/63",
+          "text": "https://github.com/textileio/fil-tools/issues/63"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/issues/1099",
+          "text": "https://github.com/filecoin-project/lotus/issues/1099"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Textile Slack"
+        },
+        {
+          "url": "https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTY4YmFjMzRlZjFiNDc0NmI2N2JjMjk5YTAyMDUyODljODg3MGI0ZGRhZTI5ZDNkZTAyNjkyMzI1ODM1YjA1MWI",
+          "text": "Filecoin Slack"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection#042b2b626d6861676b6d6a4470617c706d68612a6d6b",
+          "text": "email"
+        },
+        {
+          "url": "https://calendly.com/andrewxhill/filecoin",
+          "text": "setup a quick call here"
+        },
+        {
+          "url": "https://t.co/27lmwAQhOE",
+          "text": "https://t.co/27lmwAQhOE"
+        },
+        {
+          "url": "https://twitter.com/hashtag/dweb?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#dweb"
+        },
+        {
+          "url": "https://twitter.com/hashtag/developers?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#developers"
+        },
+        {
+          "url": "https://twitter.com/hashtag/filecoin?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#filecoin"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1221942177338515456?ref_src=twsrc%5Etfw",
+          "text": "January 27, 2020"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025045727/https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Filecoin tools progress update: 13 January",
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+        "final_url": "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+        "status": 200,
+        "title": "Filecoin tools progress update: 13 January",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Filecoin tools progress update: 13 January",
+      "url": "https://blog.textile.io/filecoin-tools-progress-update-13-january",
+      "canonical_url": "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/filecoin-developer-tools-conecepts/",
+          "text": "Review concepts and development areas"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools",
+          "text": "development repo"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/pull/1084",
+          "text": "pr"
+        },
+        {
+          "url": "https://github.com/ipfs/go-hamt-ipld/pull/39",
+          "text": "pr"
+        },
+        {
+          "url": "https://github.com/textileio/filecoin/pull/48",
+          "text": "pr"
+        },
+        {
+          "url": "https://github.com/textileio/filecoin/pull/40",
+          "text": "pr"
+        },
+        {
+          "url": "https://github.com/filecoin-project/lotus/pull/1084",
+          "text": "related to pr"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025033049/https://blog.textile.io/filecoin-tools-progress-update-13-january/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Filecoin tools progress update: 10 February",
+    "url": "https://blog.textile.io/filecoin-tools-progress-update-10-february",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+        "final_url": "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+        "status": 200,
+        "title": "Filecoin tools progress update: 10 February",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Filecoin tools progress update: 10 February",
+      "url": "https://blog.textile.io/filecoin-tools-progress-update-10-february",
+      "canonical_url": "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/filecoin-developer-tools-conecepts/",
+          "text": "comprehensive document covering the purpose and design of the fil-tools system"
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-developer-tools-conecepts/",
+          "text": "Overview, architecture, and key concepts."
+        },
+        {
+          "url": "https://blog.textile.io/filecoin-tools-progress-update-27-january/",
+          "text": "Previous progress summary"
+        },
+        {
+          "url": "https://blog.textile.io/developer-tools-for-filecoin-ipfs-web/",
+          "text": "Project blog post"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/70",
+          "text": "Prepare Grafana for community sharing"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/77",
+          "text": "gRPC APIs for slashing, reputation, and ask indices"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/80",
+          "text": "CLI for slashing, reputation, and ask indices"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/85",
+          "text": "and here"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/79",
+          "text": "Provide setup for running tests on a local devnet"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/101",
+          "text": "Retrieval module"
+        },
+        {
+          "url": "https://github.com/textileio/fil-tools/pull/103",
+          "text": "Retreival API and CLI"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Textile Slack"
+        },
+        {
+          "url": "https://join.slack.com/t/filecoinproject/shared_invite/enQtNTUwNTI1Mzk5MDYwLTY4YmFjMzRlZjFiNDc0NmI2N2JjMjk5YTAyMDUyODljODg3MGI0ZGRhZTI5ZDNkZTAyNjkyMzI1ODM1YjA1MWI",
+          "text": "Filecoin Slack"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection#6d42420b0401080e0204032d19081519040108430402",
+          "text": "email"
+        },
+        {
+          "url": "https://calendly.com/andrewxhill/filecoin",
+          "text": "setup a quick call here"
+        },
+        {
+          "url": "https://t.co/YegQmIyGEK",
+          "text": "https://t.co/YegQmIyGEK"
+        },
+        {
+          "url": "https://t.co/yqhOQ1Z7FD",
+          "text": "https://t.co/yqhOQ1Z7FD"
+        },
+        {
+          "url": "https://twitter.com/hashtag/dweb?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#dweb"
+        },
+        {
+          "url": "https://twitter.com/hashtag/filecoin?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#filecoin"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1227267327168659456?ref_src=twsrc%5Etfw",
+          "text": "February 11, 2020"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211025040633/https://blog.textile.io/filecoin-tools-progress-update-10-february/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Exploding IPFS data — enabling single use links, expiring links and more through a simple link shortening service.",
+    "url": "https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+        "final_url": "http://web.archive.org/web/20211205045633/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+        "status": 200,
+        "title": "Exploding IPFS data — enabling single use links, expiring links and more through a simple link shortening service.",
+        "date": "2019-10-18",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Exploding IPFS data — enabling single use links, expiring links and more through a simple link shortening service.",
+      "url": "https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete",
+      "canonical_url": "http://web.archive.org/web/20211205045633/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+      "date": "2019-10-18",
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "http://web.archive.org/web/20211205045633/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/"
+      ],
+      "http_status": null,
+      "final_url": "http://web.archive.org/web/20211205045633/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/cafes/",
+          "text": "cafes"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Exploding%20IPFS%20data%20%E2%80%94%20enabling%20single%20use%20links%2C%20expiring%20links%20and%20more%20through%20a%20simple%20link%20shortening%20service.&url=https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+          "text": ""
+        },
+        {
+          "url": "https://boom.fyi/",
+          "text": "https://boom.fyi/"
+        },
+        {
+          "url": "https://help.twitter.com/en/using-twitter/url-shortener",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://bitly.com/",
+          "text": "Bitly"
+        },
+        {
+          "url": "https://boom.fyi/",
+          "text": "https://boom.fyi/"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "https://slack.textile.io"
+        },
+        {
+          "url": "https://us-west-dev.textile.cafe/ipfs/QmVXhdE6GeMa28PPSwooz9GvaAs6s2y5tw78hMQgX6mSho?key=24k6zC3UTwPEXJicW4QZhLtKsVFUQEh6yMARy4d2rnTTZUnERLdDqBYw8qPGA",
+          "text": "https://us-west-dev.textile.cafe/ipfs/QmVXhdE6GeMa28PPSwooz9GvaAs6s2y5tw78hMQgX6mSho?key=24k6zC3UTwPEXJicW4QZhLtKsVFUQEh6yMARy4d2rnTTZUnERLdDqBYw8qPGA"
+        },
+        {
+          "url": "https://us-west-dev.textile.cafe/ipfs/QmVXhdE6GeMa28PPSwooz9GvaAs6s2y5tw78hMQgX6mSho?key=24k6zC3UTwPEXJicW4QZhLtKsVFUQEh6yMARy4d2rnTTZUnERLdDqBYw8qPGA",
+          "text": "https://us-west-dev.textile.cafe/ipfs/QmVXhdE6GeMa28PPSwooz9GvaAs6s2y5tw78hMQgX6mSho?key=24k6zC3UTwPEXJicW4QZhLtKsVFUQEh6yMARy4d2rnTTZUnERLdDqBYw8qPGA"
+        },
+        {
+          "url": "https://boom.fyi/q/jLDG1rcLrv75zqPJ",
+          "text": "https://boom.fyi/q/jLDG1rcLrv75zqPJ"
+        },
+        {
+          "url": "https://boom.fyi/",
+          "text": "https://boom.fyi/"
+        },
+        {
+          "url": "https://boom.fyi/",
+          "text": "https://boom.fyi/"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Slack"
+        },
+        {
+          "url": "https://twitter.com/textileio",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://t.co/ADSkkNmuqX",
+          "text": "https://t.co/ADSkkNmuqX"
+        },
+        {
+          "url": "https://twitter.com/hashtag/IPFS?src=hash&ref_src=twsrc%5Etfw",
+          "text": "#IPFS"
+        },
+        {
+          "url": "https://twitter.com/textileio/status/1185266823819718657?ref_src=twsrc%5Etfw",
+          "text": "October 18, 2019"
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": "Andrew Hill"
+        },
+        {
+          "url": "https://textile.io/",
+          "text": ""
+        },
+        {
+          "url": "https://twitter.com/@andrewxhill",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client a year ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ipfs/",
+          "text": "ipfs"
+        },
+        {
+          "url": "https://blog.textile.io/javascript-ios-android-grpc-ipfs-lite/",
+          "text": "Cross-platform IPFS Lite: JS, Android, iOS, and gRPC 2 years ago • 5 min read"
+        }
+      ],
+      "archive_url": "http://web.archive.org/web/20211205045633/https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Ethden 2020 Textile Bounty Resources",
+    "url": "https://blog.textile.io/ethden-2020-textile-bounty-resources",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+        "final_url": null,
+        "status": null,
+        "title": "",
+        "date": null,
+        "article_schema": false
+      },
+      {
+        "url": "https://web.archive.org/web/20220101id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+        "final_url": "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+        "status": 200,
+        "title": "Ethden 2020 Textile Bounty Resources",
+        "date": null,
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Ethden 2020 Textile Bounty Resources",
+      "url": "https://blog.textile.io/ethden-2020-textile-bounty-resources",
+      "canonical_url": "https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+      "date": null,
+      "authors": [
+        "Andrew Hill"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/"
+      ],
+      "http_status": null,
+      "final_url": "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://slack.textile.io",
+          "text": "public Slack group"
+        },
+        {
+          "url": "https://github.com/textileio/textile/releases",
+          "text": "GitHub releases page"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://blog.textile.io/cdn-cgi/l/email-protection",
+          "text": "[email protected]"
+        },
+        {
+          "url": "https://aaron.textile.cafe",
+          "text": "https://aaron.textile.cafe"
+        },
+        {
+          "url": "https://blog.textile.io/introducing-textiles-threads-protocol/",
+          "text": "Threads Whitepaper"
+        },
+        {
+          "url": "https://github.com/textileio/js-textile",
+          "text": "js-textile"
+        },
+        {
+          "url": "https://github.com/textileio/dart-textile",
+          "text": "dart-textile"
+        },
+        {
+          "url": "https://github.com/textileio/js-todo-demo",
+          "text": "todo list"
+        },
+        {
+          "url": "https://github.com/textileio/js-foldersync",
+          "text": "folder sync"
+        },
+        {
+          "url": "https://github.com/textileio/go-threads/releases",
+          "text": "https://github.com/textileio/go-threads/releases"
+        }
+      ],
+      "archive_url": "https://web.archive.org/web/20211025040833id_/https://blog.textile.io/ethden-2020-textile-bounty-resources/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  },
+  {
+    "title": "Easy integrations with Textile Thread streams",
+    "url": "https://blog.textile.io/easy-integrations-with-textile-thread-streams",
+    "attempts": [
+      {
+        "url": "http://web.archive.org/web/20220101/https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+        "final_url": null,
+        "status": null,
+        "title": "",
+        "date": null,
+        "article_schema": false
+      },
+      {
+        "url": "https://web.archive.org/web/20220101id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+        "final_url": "https://web.archive.org/web/20220121121400id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+        "status": 200,
+        "title": "Easy integrations with Textile Thread streams",
+        "date": "2018-12-04",
+        "article_schema": true
+      }
+    ],
+    "article": {
+      "title": "Easy integrations with Textile Thread streams",
+      "url": "https://blog.textile.io/easy-integrations-with-textile-thread-streams",
+      "canonical_url": "https://medium.com/@carsonfarmer/easy-integrations-with-textile-thread-streams-7f1e3ce5c9b4",
+      "date": "2018-12-04",
+      "authors": [
+        "Carson Farmer"
+      ],
+      "publication": "Textile historical blog",
+      "sources": [
+        "https://web.archive.org/web/20220121121400id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/"
+      ],
+      "http_status": null,
+      "final_url": "https://web.archive.org/web/20220121121400id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+      "checked": "2026-10-15",
+      "links": [
+        {
+          "url": "https://blog.textile.io/tag/developers/",
+          "text": "developers"
+        },
+        {
+          "url": "https://twitter.com/intent/tweet?text=Easy%20integrations%20with%20Textile%20Thread%20streams&url=https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+          "text": ""
+        },
+        {
+          "url": "https://docs.textile.io/a-tour-of-textile/",
+          "text": "Tour of Textile"
+        },
+        {
+          "url": "https://medium.com/textileio/quick-look-textile-files-and-schemas-36e9d131f229",
+          "text": "Last week we introduced"
+        },
+        {
+          "url": "https://ipfs.io/ipfs/QmNmjwFJUkEuQDj575W9j7oJYAtvf88d7HXzRCJ2xjvDKX",
+          "text": "JSON schema"
+        },
+        {
+          "url": "https://twitter.com/IPFSbot?ref_src=twsrc%5Etfw",
+          "text": "@IPFSbot"
+        },
+        {
+          "url": "https://twitter.com/Textile01?ref_src=twsrc%5Etfw",
+          "text": "@Textile01"
+        },
+        {
+          "url": "https://t.co/L8SqXfcKYt",
+          "text": "pic.twitter.com/L8SqXfcKYt"
+        },
+        {
+          "url": "https://twitter.com/sanderpick/status/1068279840946585600?ref_src=twsrc%5Etfw",
+          "text": "November 29, 2018"
+        },
+        {
+          "url": "https://github.com/genuinetools/weather/pull/60",
+          "text": "command line"
+        },
+        {
+          "url": "https://ipfs.io/ipfs/QmQSEa4yetmPHGVrK7w5DVZSxrEFBwyFW12bUKVhfYjNLn",
+          "text": "this schema"
+        },
+        {
+          "url": "https://medium.com/textileio/quick-look-textile-files-and-schemas-36e9d131f229",
+          "text": "read our last post"
+        },
+        {
+          "url": "https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338",
+          "text": "written about already"
+        },
+        {
+          "url": "https://slack.com/",
+          "text": "Slack"
+        },
+        {
+          "url": "https://medium.com/textileio/quick-look-textile-files-and-schemas-36e9d131f229#334d",
+          "text": "follow the setup steps from our previous post"
+        },
+        {
+          "url": "https://api.slack.com/incoming-webhooks#getting-started",
+          "text": "follow the directions in their ‘getting started’ docs"
+        },
+        {
+          "url": "https://api.slack.com/docs/slack-button#register_your_slack_app",
+          "text": "Slack app"
+        },
+        {
+          "url": "https://curl.haxx.se/",
+          "text": "curl"
+        },
+        {
+          "url": "https://stedolan.github.io/jq/",
+          "text": "jq"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pipeline_%28Unix%29",
+          "text": "unix style command piping"
+        },
+        {
+          "url": "https://ngrok.com/",
+          "text": "ngrok"
+        },
+        {
+          "url": "https://dashboard.ngrok.com/get-started",
+          "text": "Setup is super easy"
+        },
+        {
+          "url": "https://dashboard.ngrok.com/get-started",
+          "text": "Download ngrok"
+        },
+        {
+          "url": "https://stedolan.github.io/jq/manual/",
+          "text": "jq filters etc"
+        },
+        {
+          "url": "https://argbash.io/",
+          "text": "Argbash"
+        },
+        {
+          "url": "https://ipfs.io/ipfs/QmWPfNFVM5Yy9fWsxkUKAs8eD3kAvRUMQKBafb7y2a5cJ6",
+          "text": "grab it from here"
+        },
+        {
+          "url": "https://twitter.com/Textile01",
+          "text": "Twitter"
+        },
+        {
+          "url": "https://slack.textile.io/",
+          "text": "Slack"
+        },
+        {
+          "url": "https://github.com/textileio",
+          "text": "GitHub repos"
+        },
+        {
+          "url": "https://www.textile.photos/#cta",
+          "text": "don’t miss out on signing up for our waitlist"
+        },
+        {
+          "url": "https://textile.photos/",
+          "text": "Textile Photos"
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/carson/",
+          "text": "Carson Farmer"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/andrewxhill/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/ethereum/",
+          "text": "ethereum"
+        },
+        {
+          "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver/",
+          "text": "Textile going virtual with EthDenver a year ago • 2 min read"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/filecoin/",
+          "text": "filecoin"
+        },
+        {
+          "url": "https://blog.textile.io/integrating-powergate/",
+          "text": "Integrating Powergate: Intro to the Powergate JavaScript Client 2 years ago • 11 min read"
+        },
+        {
+          "url": "https://blog.textile.io/adding-filecoin-support-to-near-dapp/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/author/aaron/",
+          "text": ""
+        },
+        {
+          "url": "https://blog.textile.io/tag/tutorials/",
+          "text": "tutorials"
+        },
+        {
+          "url": "https://blog.textile.io/adding-filecoin-support-to-near-dapp/",
+          "text": "Adding Filecoin support to your NEAR dApp, the easy way 6 months ago • 5 min read"
+        }
+      ],
+      "archive_url": "https://web.archive.org/web/20220121121400id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/",
+      "archive_status": 200,
+      "evidence": "archived article"
+    }
+  }
+]

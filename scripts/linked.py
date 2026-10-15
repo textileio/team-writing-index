@@ -2,13 +2,16 @@
 import json,re,collections
 from urllib.parse import urlsplit,urlunsplit
 from research import ROOT,fetch,batch,metadata,cleanurl
+from build_index import key
 
 def main():
     inputs=[]
-    for p in (ROOT/'data').glob('*articles*.json'):
+    resolutions=ROOT/'data/url-resolutions.json'
+    excluded={key(a['url']) for a in json.loads(resolutions.read_text()) if a['classification'] in ['non-article','malformed-route']} if resolutions.exists() else set()
+    for p in sorted((ROOT/'data').glob('*articles*.json')):
         if p.name=='linked-articles.json':continue
         for a in json.loads(p.read_text()):
-            if a.get('title') and a.get('links'):inputs.append(a)
+            if a.get('title') and a.get('links') and key(a['url']) not in excluded:inputs.append(a)
     outbound={}
     for a in inputs:
         for l in a.get('links',[]):

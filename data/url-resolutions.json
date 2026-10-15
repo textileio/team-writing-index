@@ -1,0 +1,270 @@
+[
+  {
+    "url": "https://blog.textile.io/explore",
+    "classification": "non-article",
+    "reason": "Archived route renders the publication landing page, without article metadata.",
+    "sources": [
+      "https://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "https://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "http://web.archive.org/web/20260124144151/https://blog.textile.io/explore",
+      "http://web.archive.org/web/20260124144151id_/https://blog.textile.io/explore",
+      "https://web.archive.org/web/20260124144151/https://blog.textile.io/explore"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/hosted-powergate",
+    "classification": "non-article",
+    "reason": "Hosted Powergate request form; the service announcement is a separate indexed article.",
+    "sources": [
+      "http://web.archive.org/web/20200817210501id_/https://blog.textile.io/hosted-powergate/"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/join-newsletter",
+    "classification": "non-article",
+    "reason": "Newsletter signup page.",
+    "sources": [
+      null
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/new",
+    "classification": "non-article",
+    "reason": "Archived route renders the publication landing page, without article metadata.",
+    "sources": [
+      "http://web.archive.org/web/20251214081922/https://blog.textile.io/new",
+      "http://web.archive.org/web/20251214081922id_/https://blog.textile.io/new"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders\\",
+    "classification": "malformed-route",
+    "reason": "Backslash appended to an already indexed article path. Preserved as a rejected crawler route, not an article edition.",
+    "sources": [
+      "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=1080",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1080",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=1200",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1200",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=128",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=128",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=16",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=16",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=1920",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=1920",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=20",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=20",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=2048",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=2048",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=24",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=24",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=256",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=256",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=32",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=32",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=384",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=384",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=3840",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=3840",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=40",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=40",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=48",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=48",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=64",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=64",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=640",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=640",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=750",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=750",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=828",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=828",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/width=96",
+    "classification": "non-article",
+    "reason": "Width-parameter route absent from post inventories; live read returns 404. A replay of width=1080 renders the publication landing page without article metadata; exclusion of the other width variants is a route-pattern inference.",
+    "sources": [
+      "https://blog.textile.io/width=96",
+      "https://blog.textile.io/sitemap.xml",
+      "http://web.archive.org/web/20260201202348/https://blog.textile.io/width=1080"
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/wxm-w3bstream-risc0-poc\\",
+    "classification": "malformed-route",
+    "reason": "Backslash appended to an already indexed article path. Preserved as a rejected crawler route, not an article edition.",
+    "sources": [
+      "https://blog.textile.io/wxm-w3bstream-risc0-poc"
+    ],
+    "checked": "2026-10-15"
+  }
+]

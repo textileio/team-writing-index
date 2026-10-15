@@ -78,6 +78,11 @@ def metadata(result,group,source):
     if not any(authors):authors=[meta('author')] if meta('author') else []
     canonical=soup.find('link',rel='canonical')
     title=ld.get('headline') or meta('og:title') or (soup.h1.get_text(' ',strip=True) if soup.h1 else '')
+    # Older Medium JSON-LD sometimes uses the SEO page title as its headline.
+    # Prefer the visible heading only when it corroborates that exact prefix.
+    if soup.h1 and title.endswith(' - Medium'):
+        heading=' '.join(soup.h1.get_text(' ',strip=True).split())
+        if ' '.join(title.split()).startswith(heading+' - '):title=heading
     date=ld.get('datePublished') or meta('article:published_time')
     text=rsc(soup)
     if not date:

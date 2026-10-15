@@ -1,17 +1,17 @@
 """Build Markdown indexes and a deduplicated bibliography from collected metadata."""
 import collections,datetime as dt,html,json,re,unicodedata
 from pathlib import Path
-from urllib.parse import urlsplit,urlunsplit,quote
+from urllib.parse import urlsplit,urlunsplit,quote,unquote
 ROOT=Path(__file__).resolve().parents[1]
 DAY='2026-10-15'
 
 def normal(u):
     u=re.sub(r'^https?://web\.archive\.org/web/\d+(?:[a-z_]+)?/','',u)
     p=urlsplit(u)
-    return urlunsplit(('https',p.netloc.lower(),p.path.rstrip('/') or '/','',''))
+    return urlunsplit(('https',p.netloc.lower(),unquote(p.path).rstrip('/') or '/','',''))
 def key(u):
     u=normal(u)
-    if 'medium.com/' in u:
+    if urlsplit(u).netloc=='medium.com':
         m=re.search(r'([a-f0-9]{8,16})$',urlsplit(u).path)
         if m:return 'medium:'+m[1]
     return u
@@ -21,15 +21,18 @@ def esc(s):return html.unescape(str(s or '')).replace('|','\\|').replace('[','\\
 def link(label,u):return '['+esc(label)+']('+quote(u,safe=':/?=&%#@,;+$!~*-._')+')'
 
 def valid(a):
-    return bool(a.get('title')) and not a['title'].startswith(('500:','404:')) and bool(a.get('date') or 'listing' in a.get('evidence',''))
+    return bool(a.get('title')) and not a['title'].startswith(('500:','404:')) and bool(a.get('date') or 'listing' in a.get('evidence','') or a.get('evidence') in ['archived article','live article'])
 
 def main():
     raw=[]
+    resolutions_path=ROOT/'data/url-resolutions.json'
+    resolutions=json.loads(resolutions_path.read_text()) if resolutions_path.exists() else []
+    excluded={key(a['url']) for a in resolutions if a['classification'] in ['non-article','malformed-route']}
     for p in sorted((ROOT/'data').glob('*articles*.json')):
         if p.name in ['linked-articles.json','catalogue-articles.json']:continue
         for a in json.loads(p.read_text()):
             a['_file']=p.name
-            if a.get('url'):raw.append(a)
+            if a.get('url') and key(a['url']) not in excluded:raw.append(a)
     linked=json.loads((ROOT/'data/linked-articles.json').read_text()) if (ROOT/'data/linked-articles.json').exists() else []
     staff={'Carson Farmer','Andrew Hill','Sander Pick','Aaron Sutula','Ignacio Hagopian','Merlin Ran','Michael Sena','Danny Zuckerman','Daniel Zuckerman','Mark Krasner','Timothy Lim','Joel Torstensson','Christian Lundkvist','3Box Labs'}
     for a in linked:
@@ -73,8 +76,11 @@ def main():
         best=max(good,key=score)
         editions={}
         for a in items:
-            u=normal(a['url']);entry=editions.setdefault(u,{'url':u,'publication':a.get('publication'),'date':None,'http_status':None,'archive_url':None,'sources':[],'evidence':[]})
-            if valid(a) and a.get('date'):entry['date']=a['date']
+            u=normal(a['url']);entry=editions.setdefault(u,{'url':u,'publication':a.get('publication'),'date':None,'date_observations':[],'http_status':None,'archive_url':None,'sources':[],'evidence':[]})
+            if valid(a) and a.get('date'):
+                entry['date']=a['date']
+                observation={'date':a['date'],'sources':a.get('sources',[]),'evidence':a.get('evidence'),'record_file':a['_file']}
+                if observation not in entry['date_observations']:entry['date_observations'].append(observation)
             if a.get('http_status') is not None:entry['http_status']=a['http_status']
             if a.get('archive_url') and (valid(a) or a.get('archive_status')==200):entry['archive_url']=a['archive_url']
             for source in a.get('sources',[]):
@@ -123,7 +129,13 @@ def main():
     mainlines += ['']
     related=[a for a in catalogue if a['collection']=='Ceramic / 3Box']
     mainlines += ['### Ceramic / 3Box','',str(len(related))+' distinct articles in the separate [Ceramic / 3Box historical index](indexes/ceramic-3box.md).','']
-    mainlines += ['## Talks and workshops','',f'**{len(talks)} technical sessions**: {sum(bool(a["video_url"]) for a in talks)} recordings and {sum(not a["video_url"] for a in talks)} presentations with slides only. Direct recordings and slide decks are linked below. Dates marked **video** or **slides** are publication dates; unmarked dates are verified event dates.','', 'Conference presentations, developer workshops, and substantial code walkthroughs. Marketing, token announcements, highlights, community calls, and short previews are excluded. A few code walkthroughs are published on Recall Network; the source does not name their individual presenters, so they retain channel attribution. [Research and selection notes](research/talks.md) · [structured session records](data/talks.json).','', '| Date | Presentation / workshop | Speakers | Event / subject | Video | Slides / materials |','| --- | --- | --- | --- | --- | --- |']
+    recordings=sum(bool(a['video_url']) for a in talks)
+    slides_only=len(talks)-recordings
+    talk_summary=f'**{len(talks)} technical sessions**: {recordings} recordings'
+    if slides_only:
+        talk_summary+=f' and {slides_only} presentations with slides only'
+    talk_summary+=f'; {sum(bool(a["slides_url"]) for a in talks)} sessions include slides.'
+    mainlines += ['## Talks and workshops','',talk_summary+' Direct recordings and slide decks are linked below. Dates marked **video** or **slides** are publication dates; unmarked dates are verified event dates.','', 'Conference presentations, developer workshops, and substantial code walkthroughs. Marketing, token announcements, highlights, community calls, and short previews are excluded. A few code walkthroughs are published on Recall Network; the source does not name their individual presenters, so they retain channel attribution. [Research and selection notes](research/talks.md) · [structured session records](data/talks.json).','', '| Date | Presentation / workshop | Speakers | Event / subject | Video | Slides / materials |','| --- | --- | --- | --- | --- | --- |']
     for a in sorted(talks,key=lambda x:(x['date'],x['title']),reverse=True):
         date=a['date']+({'video publication':' (video)','slides publication':' (slides)'}.get(a['date_basis'],''))
         speakers=', '.join(a['speakers']) or 'Not individually credited ('+a['publisher']+')'
@@ -147,7 +159,7 @@ def main():
         label=label[:180]
         lines.append('| '+esc(label)+' | '+link(urlsplit(a['url']).netloc,a['url'])+' | '+esc(', '.join(a.get('authors',[])) or 'Unknown')+' | '+(a.get('date') or 'Unverified')+'; HTTP '+str(a.get('http_status') or 'unavailable')+' | '+'; '.join(link('source '+str(i+1),u) for i,u in enumerate(a.get('linked_from',[])))+' |')
     (ROOT/'indexes/linked-reading.md').write_text('\n'.join(lines)+'\n')
-    lines=['# Historical URLs awaiting article metadata','', 'These article-shaped URLs were captured in Internet Archive CDX, but a title and byline could not yet be confirmed from accessible article or listing content. They remain candidates and are excluded from confirmed article counts. Capture dates below are not publication dates.','', '| Original URL | Archive capture | Reading link |','| --- | --- | --- |']
+    lines=['# Historical URLs awaiting article metadata','', 'These article-shaped URLs were captured in Internet Archive CDX, but article metadata could not yet be confirmed from accessible article or listing content. They remain candidates and are excluded from confirmed article counts. Capture dates below are not publication dates. Some may be editions of articles already indexed.','', 'See the [second-pass recovery report](../research/recovery-pass-2/report.md) for the outcome of all 88 original candidates, including routes excluded as non-articles.','', '| Original URL | Archive capture | Reading link |','| --- | --- | --- |']
     cdx={normal(x['original']):x for x in json.loads((ROOT/'research/textile-wayback-cdx.json').read_text())}
     for a in sorted(unresolved,key=lambda x:x['url']):
         cap=cdx.get(normal(a['url']),{}).get('timestamp') or (re.search(r'/web/(\d{14})',a.get('archive_url') or '').group(1) if re.search(r'/web/(\d{14})',a.get('archive_url') or '') else 'Unknown')

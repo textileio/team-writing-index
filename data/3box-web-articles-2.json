@@ -63,8 +63,8 @@
   },
   {
     "url": "https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85",
-    "title": "IDX: A Devkit for Open Identity. The future of Web3 identity has arrived",
-    "date": "2021-05-10",
+    "title": "IDX: A Devkit for Open Identity",
+    "date": "2020-10-23",
     "authors": [
       "Michael Sena"
     ],
@@ -75,6 +75,7 @@
     "http_status": null,
     "evidence": "public web reader search result",
     "checked": "2026-10-15",
-    "links": []
+    "links": [],
+    "correction_note": "Re-read article header: Oct 23, 2020. Earlier extraction incorrectly used the publication footer date May 10, 2021."
   }
 ]

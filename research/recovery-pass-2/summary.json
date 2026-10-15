@@ -1,0 +1,61 @@
+{
+  "checked": "2026-10-15",
+  "baseline_commit": "160ce4a7de47ae9f4da8fdcda208a13a23628f30",
+  "baseline_candidates": 88,
+  "outcomes": {
+    "catalogued": 56,
+    "non-article": 23,
+    "malformed-route": 2,
+    "unresolved": 7
+  },
+  "new_works": 40,
+  "new_works_by_collection": {
+    "Textile / Tableland / Basin": 35,
+    "Ceramic / 3Box": 5
+  },
+  "baseline_entries_merged": [
+    {
+      "title": "Easy integrations with Textile Thread streams",
+      "prior_entries": [
+        {
+          "title": "Easy integrations with Textile Thread subscriptions",
+          "date": "2018-12-04"
+        },
+        {
+          "title": "Easy integrations with Textile Thread streams",
+          "date": null
+        }
+      ],
+      "evidence": [
+        "https://medium.com/textileio/easy-integrations-with-textile-thread-streams-7f1e3ce5c9b4",
+        "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+        "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey",
+        "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/",
+        "https://web.archive.org/web/20220121121400id_/https://blog.textile.io/easy-integrations-with-textile-thread-streams/"
+      ]
+    }
+  ],
+  "net_article_increase": 39,
+  "counts": {
+    "checked": "2026-10-15",
+    "distinct_articles": 497,
+    "edition_urls": 634,
+    "collections": {
+      "Papers and workshops": 11,
+      "Recall": 19,
+      "Ceramic / 3Box": 230,
+      "Textile / Tableland / Basin": 235,
+      "Other team bylines": 2
+    },
+    "url_only_candidates": 7,
+    "linked_blog_candidates": 270,
+    "linked_articles_with_metadata": 74,
+    "articles_without_publication_date": 8,
+    "outbound_urls": 3419,
+    "social_entries": 8,
+    "social_post_urls": 11,
+    "talk_sessions": 18,
+    "talk_recordings": 18,
+    "talks_with_slides": 5
+  }
+}

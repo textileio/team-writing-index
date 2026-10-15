@@ -1,6 +1,6 @@
 # Technical talks and workshops
 
-Research date: **2026-10-15**. The [table in README](../README.md#talks-and-workshops) contains **18 sessions: 16 recordings and two presentations with slides only**. Five sessions have slide decks. Records and evidence are in [talks.json](../data/talks.json); sessions are counted separately from writing and X posts.
+Research date: **2026-10-15**. The [table in README](../README.md#talks-and-workshops) contains **18 recorded sessions**, five with slide decks. Records and evidence are in [talks.json](../data/talks.json); sessions are counted separately from writing and X posts.
 
 ## Selection
 
@@ -19,6 +19,7 @@ Excluded token launches, airdrop instructions, promotional keynotes and teasers,
 | [Carson's Buckets/Threads notes](https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3) | Matching public *Getting started with Textile* slides. Followed the original short link into the public Google Slides presentation and checked its title and HTTP 200 response. |
 | [IPFS Camp organizer source](https://github.com/ipfs/camp/blob/master/README.md) | The full *Building DApps with Textile* workshop, its PDF slides, and trainer credits for Ben Lupton, Carson Farmer, and Andrew Hill. The source links some short poster/deep-dive summaries too; those are not substituted for full talks. |
 | [IPFS Web3 Weekend recap](https://blog.ipfs.tech/2021-06-08-web3-weekend/) | Andrew and Carson's recorded IPFS/Filecoin workshop. The recap embeds it under two subject headings; it is counted once. |
+| [IPFS Pinning Summit recap](https://blog.ipfs.tech/2020-05-13-ipfs-pinning-summit-recap/) | Full recordings of *Into the Powergate* with Andrew Hill and Aaron Sutula, and Andrew's *Advanced Pinning Structures*. Matched the previously recovered Powergate and Threads/Buckets slide decks; video publication dates are distinct from the earlier deck publication dates. |
 | [HackFS 2021 organizer schedule](https://ethglobal.com/events/hackfs2021) | Carson's Filecoin Bridge workshop, with the event date and exact recording ID. |
 | [AltConf recording](https://www.youtube.com/watch?v=M6mUg-tMbk0) and [Textile's June 2019 update](https://medium.com/textileio/textile-update-june-2019-d596343ad67e) | Andrew's *Adding IPFS to your Apps* presentation. |
 | [ETHDenver recording](https://www.youtube.com/watch?v=DpRaxjIiYew) | Carson's *Bring Your Own Data* talk. The video description explicitly gives the February 15, 2020 recording date. |
