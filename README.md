@@ -15,9 +15,9 @@ Cross-posted editions are grouped when canonical URLs, Medium post IDs, or match
 
 This is a bibliographic index, not a full-text backup. It does not claim to prove that every article ever written has been found. Inaccessible historical URLs and unresolved publication archives are recorded instead of silently omitted.
 
-## Local status
+## Repository
 
-Prepared locally for the proposed repository `textileio/team-writing-index`. No GitHub repository has been created and nothing has been pushed. Remote creation and push require the user's approval.
+Hosted in the private [textileio/team-writing-index](https://github.com/textileio/team-writing-index) repository. The initial research was prepared and reviewed locally before publication.
 
 ## Rebuild
 
