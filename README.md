@@ -1,49 +1,42 @@
-# Textile and Recall team writing
+# Textile & Recall Writing Archive
 
-A local research catalogue of writing published by Textile, Tableland, Basin, and Recall, including historical Medium/Ghost posts, newsletters, migrated Mirror posts, and outside bylines. Ceramic/3Box history is included as a separate section.
+Over the years, our team has written about the things we were building, the problems we were working through, and what we learned along the way. That writing is scattered across company blogs, Medium, Mirror, Substack, Paragraph, and other corners of the internet.
 
-Start with **[the Markdown index](INDEX.md)**.
+This repository is an attempt to gather some of it in one place for historical reasons. We want to make it easier to find the work, follow how our thinking changed, and remember the people who contributed to it.
 
-- [Ceramic / 3Box history](indexes/ceramic-3box.md)
-- [Linked articles and reading](indexes/linked-reading.md)
-- [Historical URLs awaiting metadata](indexes/unresolved.md)
-- [Coverage, evidence, and remaining gaps](research/coverage.md)
-- [Machine-readable bibliography](data/catalogue.json)
-- [Counts](research/counts.json)
+**[Browse the article index →](INDEX.md)**
 
-Cross-posted editions are grouped when canonical URLs, Medium post IDs, or matching titles and nearby dates establish the connection. Original URLs, alternate editions, archive links, source references, and observed access failures are retained. Guest posts in official publications are included; inclusion does not establish that every contributor was an employee.
+## A little history
 
-This is a bibliographic index, not a full-text backup. It does not claim to prove that every article ever written has been found. Inaccessible historical URLs and unresolved publication archives are recorded instead of silently omitted.
+Textile grew out of an interest in giving people more control over their own data. In 2018, we were building [Textile Photos](https://medium.com/textileio/your-photos-decentralized-and-encrypted-a-first-look-at-the-tech-inside-textile-photos-9b0155c25f15), an encrypted photo application built on IPFS. That work led us further into the storage, networking, and database tools developers needed to build applications around data their users could own and move between services.
 
-## Repository
+We built [ThreadsDB, Buckets, and the Textile Hub](https://medium.com/textileio/introducing-the-hub-a-collection-of-tools-to-build-and-scale-decentralized-apps-4e7a33428979), then continued working on decentralized data infrastructure through [Tableland](https://blog.textile.io/welcome-to-tableland), which brought relational tables and SQL to Web3, and [Basin](https://blog.textile.io/basin-launch-overview), a data layer built on Filecoin.
 
-Hosted in the private [textileio/team-writing-index](https://github.com/textileio/team-writing-index) repository. The initial research was prepared and reviewed locally before publication.
+In February 2025, [Textile and 3Box Labs joined forces](https://blog.textile.io/building-the-intelligence-layer-for-ai-textile-and-3box-labs-join-forces). Later that month, we [introduced Recall](https://blog.recall.network/introducing-recall-unstoppable-intelligence-for-ai), applying that experience to AI agents, verifiable intelligence, and competition. The earlier writing from 3Box and Ceramic is part of this history too, collected in [its own section](indexes/ceramic-3box.md).
 
-## Rebuild
+## Why collect it?
 
-Python 3.10 or newer:
+As our projects changed, so did the places we published. Posts moved between platforms. Domains changed or became redirects. Some articles were cross-posted, while others survived only in web archives. Even for people who worked on these projects, finding an old tutorial or announcement can take some digging.
 
-```sh
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
-.venv/bin/python scripts/build_index.py
-```
+The writing records more than product launches. It includes experiments, technical explanations, weeknotes, community updates, and ideas we were still trying to figure out. We want to keep those records findable, along with their original dates, bylines, and context.
 
-The checked-in JSON metadata is sufficient to rebuild the Markdown without network access. Re-running collection scripts makes public HTTP requests. They cache responses in ignored `.cache/`; HTTP errors are also cached, so remove only a failed response's cache file before a deliberate retry. No API credentials are required by the collectors.
+## Finding your way around
 
-Collection entry points:
+| Collection | What you'll find |
+| --- | --- |
+| [Article index](INDEX.md) | Writing from Textile, Tableland, Basin, and Recall, with original, cross-posted, and archived editions grouped together. |
+| [Ceramic & 3Box](indexes/ceramic-3box.md) | The related teams' earlier publications, kept as a separate collection. |
+| [Linked reading](indexes/linked-reading.md) | Articles referenced by our posts, including work by other authors and teams. |
+| [Unresolved historical URLs](indexes/unresolved.md) | Links we found in historical archives but still need to identify or recover. |
+| [Research notes](research/coverage.md) | The sources we checked, how entries were matched, and the gaps that remain. |
+| [Structured catalogue](data/catalogue.json) | The bibliography as JSON for anyone who wants to search, analyze, or build on it. |
 
-```sh
-.venv/bin/python scripts/research.py
-.venv/bin/python scripts/history.py
-.venv/bin/python scripts/ceramic.py
-.venv/bin/python scripts/threebox_history.py
-.venv/bin/python scripts/external.py
-.venv/bin/python scripts/supplement.py
-.venv/bin/python scripts/mirror.py
-.venv/bin/python scripts/listings.py
-.venv/bin/python scripts/linked.py
-.venv/bin/python scripts/build_index.py
-```
+The October 15, 2026 snapshot contains **445 distinct articles across 565 publication URLs**, with another 88 historical URLs awaiting metadata. The [full counts](research/counts.json) also cover linked reading and missing dates.
 
-Some supplemental metadata was extracted with the web reader after ordinary HTTP reads failed. Those observations are retained in `data/web-medium-*.json`; the collection scripts do not regenerate them. Bibliographic metadata and URLs are checked in. Cached article bodies, environments, and temporary downloads are ignored.
+Each entry points to an original publication or an archived copy where one is available. Some company publications included guest contributors, and some migrations replaced individual bylines with a company name; we retain the attribution the sources provide. Older posts describe the products, APIs, and ideas as they were at the time they were written.
+
+## Help fill in the gaps
+
+If you wrote something with us, built on one of these projects, or remember a post we've missed, we'd welcome an issue or pull request. Please include the title, author, publication date if known, and an original or archived URL. Links to alternate editions and corrections to dates or bylines are useful too.
+
+For work on the catalogue itself, see the [rebuild and collection instructions](research/maintaining.md).
