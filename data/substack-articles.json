@@ -1,0 +1,2683 @@
+[
+  {
+    "title": "Weeknotes: We're moving to Paragraph.xyz!",
+    "url": "https://tableland.substack.com/p/weeknotes-were-moving-to-paragraphxyz",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-were-moving-to-paragraphxyz",
+    "date": "2024-05-06",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-were-moving-to-paragraphxyz",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "MVP for Basin"
+      },
+      {
+        "url": "https://twitter.com/textileio",
+        "text": "Textile"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/",
+        "text": "Mirror"
+      },
+      {
+        "url": "https://paragraph.xyz/",
+        "text": "Paragraph"
+      },
+      {
+        "url": "https://x.com/paragraph_xyz/status/1786068122895790340",
+        "text": "here"
+      },
+      {
+        "url": "https://paragraph.xyz/@textileio",
+        "text": "@textileio"
+      },
+      {
+        "url": "https://blog.textile.io",
+        "text": "https://blog.textile.io"
+      },
+      {
+        "url": "https://docs.paragraph.xyz/docs/migrating-to-paragraph",
+        "text": "makes it super simple to migrate"
+      },
+      {
+        "url": "https://tableland.substack.com/feed",
+        "text": "https://tableland.substack.com/feed"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/feed/atom",
+        "text": "https://mirror.xyz/tableland.eth/feed/atom"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: New SDK, DePIN Twitter space, & designing for devs",
+    "url": "https://tableland.substack.com/p/weeknotes-new-sdk-depin-twitter-space",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-new-sdk-depin-twitter-space",
+    "date": "2024-04-29",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-new-sdk-depin-twitter-space",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/sdk",
+        "text": "v7.0.0-pre.0"
+      },
+      {
+        "url": "https://twitter.com/BrianHoffstein",
+        "text": "Brian Hoffstein"
+      },
+      {
+        "url": "https://youtu.be/sufPjLrP0ng",
+        "text": "here"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://discord.com/invite/dc8EBEhGbg",
+        "text": "Discord"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://ipfsevents.io/ipfs-camp/2024",
+        "text": "another developer conference"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "Tableland Studio"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Generating distributed random variables using cryptographic hashes, solving Ethers v6 + Hardhat nonce issues, & thinking about responsive design",
+    "url": "https://tableland.substack.com/p/weeknotes-generating-distributed",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-generating-distributed",
+    "date": "2024-04-22",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-generating-distributed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/carsonfarmer",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Skip_list",
+        "text": "skip lists"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treap",
+        "text": "treaps"
+      },
+      {
+        "url": "https://inria.hal.science/hal-02303490/document",
+        "text": "merkle search trees"
+      },
+      {
+        "url": "https://interjectedfuture.com/lab-notes/lab-note-033-cascading-boundary-changes-in-prolly-trees/",
+        "text": "others"
+      },
+      {
+        "url": "https://www.investopedia.com/hash-rate-6746261",
+        "text": "doing a lot of hashing"
+      },
+      {
+        "url": "https://blog.cryptographyengineering.com/2012/07/17/indifferentiability/",
+        "text": "pretty much indistinguishable from a random string of bits"
+      },
+      {
+        "url": "https://0fps.net/2020/12/19/peer-to-peer-ordered-search-indexes/",
+        "text": "identical across peers in the peer-to-peer system"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/ethers-io/ethers.js/issues/4377#issuecomment-2023855491",
+        "text": "here"
+      },
+      {
+        "url": "https://hardhat.org/hardhat-network/docs/reference#hardhat-setnonce",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/ethers-io/ethers.js/issues/4549",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://tableland.substack.com/p/weeknotes-ethers-polygon-amoy-tableland",
+        "text": "been writing about or around in the past couple of weeks or so"
+      },
+      {
+        "url": "https://blog.hubspot.com/marketing/web-design-stats-for-2020",
+        "text": "65.49% of global website traffic being on mobile devices"
+      },
+      {
+        "url": "https://twitter.com/LionisNick",
+        "text": "@LionisNick"
+      },
+      {
+        "url": "https://dorahacks.io/buidl/10525",
+        "text": "here"
+      },
+      {
+        "url": "https://twitter.com/debuggingfuture",
+        "text": "@debuggingfuture"
+      },
+      {
+        "url": "https://dorahacks.io/buidl/11199",
+        "text": "here"
+      },
+      {
+        "url": "https://twitter.com/0x_Clint",
+        "text": "@0x_Clint"
+      },
+      {
+        "url": "https://dorahacks.io/buidl/11186",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/7d2b1d9a-89cc-4622-9337-0de583a31b07/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/230703f4-bad5-49f2-9b21-0141f48dd6ca/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/122580aa-1603-471f-9a53-70a21371f1f5/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/92cc07ad-3c27-4f33-ab1c-c856ea1a36ef/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/bb56c0aa-bfcd-47e0-993f-68835c9a9ce6/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/f7bae58f-4d77-4730-b56c-514234e827dd/",
+        "text": "here"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/a251e4f2-ec26-4c8f-9c6a-cac55bacf8cb/",
+        "text": "here"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Ethers + Polygon Amoy, Tableland Studio highlights, DePIN corner with Wingbits, design through prototyping, & decentralized AI Twitter space retro",
+    "url": "https://tableland.substack.com/p/weeknotes-ethers-polygon-amoy-tableland",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-ethers-polygon-amoy-tableland",
+    "date": "2024-04-15",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-ethers-polygon-amoy-tableland",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://www.alchemy.com/blog/polygon-amoy-is-live",
+        "text": "deprecated Mumbai RPCs"
+      },
+      {
+        "url": "https://gasstation-testnet.polygon.technology/amoy",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/ethers-io/ethers.js/blob/29beb93ea76d560a129e4bc3fde6ee9c8cc887c4/src.ts/providers/plugins-network.ts#L200",
+        "text": "plugin"
+      },
+      {
+        "url": "https://www.alchemy.com/faucets/polygon-amoy",
+        "text": "Alchemy"
+      },
+      {
+        "url": "https://faucet.polygon.technology/",
+        "text": "Polygon"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "Studio"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Kogj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F393d5d80-5b37-41b7-990a-3d3616f48140_2242x1516.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "set up some time"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "join our Discord and get in touch"
+      },
+      {
+        "url": "https://docs.wingbits.com/",
+        "text": "https://docs.wingbits.com/"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://www.framer.com/",
+        "text": "Framer"
+      },
+      {
+        "url": "https://twitter.com/BrianHoffstein",
+        "text": "Brian Hoffstein"
+      },
+      {
+        "url": "https://x.com/tableland/status/1778483302715863241",
+        "text": "here"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://discord.com/invite/dc8EBEhGbg",
+        "text": "Discord"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Axelar for Filecoin and Ethereum bridging, building on Tableland with Python, and a brief history of dark mode in applications",
+    "url": "https://tableland.substack.com/p/weeknotes-axelar-for-filecoin-and",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-axelar-for-filecoin-and",
+    "date": "2024-04-08",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-axelar-for-filecoin-and",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/avichalp",
+        "text": "Avichal Pandey"
+      },
+      {
+        "url": "https://docs.axelar.dev/dev/general-message-passing/overview",
+        "text": "cross-chain communication"
+      },
+      {
+        "url": "https://docs.axelar.dev/dev/reference/mainnet-chain-names",
+        "text": "various"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Fk5R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe954b67a-a115-4fd2-a912-d5bad836329d_844x493.png",
+        "text": ""
+      },
+      {
+        "url": "https://docs.axelar.dev/dev/general-message-passing/overview",
+        "text": "docs"
+      },
+      {
+        "url": "https://github.com/axelarnetwork/axelar-gmp-sdk-solidity",
+        "text": "Axelar Solidity SDK"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!1WWS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0fa0605-37de-426e-8d5f-c1fc0d4c576c_2434x1118.png",
+        "text": ""
+      },
+      {
+        "url": "https://docs.axelar.dev/resources/contract-addresses/mainnet",
+        "text": "Here"
+      },
+      {
+        "url": "https://docs.axelar.dev/resources/contract-addresses/mainnet",
+        "text": "Here"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!JnR8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d5b8d6e-f2a1-4b50-b658-17c807b13e3a_1938x984.png",
+        "text": ""
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!yM2i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F228abb3f-3dee-4b6e-ad61-bdea7c09a086_1932x590.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/foundry-rs/foundry",
+        "text": "Forge"
+      },
+      {
+        "url": "https://docs.axelar.dev/resources/contract-addresses/testnet",
+        "text": "addresses"
+      },
+      {
+        "url": "https://testnet.axelarscan.io/gmp/0xd0a341e3b641a5c57e080aee2351c36bc24790a5d5c0bb50e78acf18ab2c24bb:1",
+        "text": "axelarscan"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "http://localhost:3000/local-tableland/",
+        "text": "Local Tableland"
+      },
+      {
+        "url": "http://localhost:3000/validator/api/",
+        "text": "validator APIs"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/tableland-py",
+        "text": "GitHub"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://eyeondesign.aiga.org/a-brief-history-of-dark-mode-from-the-matrix-like-displays-of-the-early-80s-to-today/",
+        "text": "the origin story of dark mode"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/filecoin-data-economy/detail",
+        "text": "Filecoin Data Economy"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/",
+        "text": "LearnWeb3 Decentralized Intelligence"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Synthetic data generation, reviewing Data Availability proof approaches, & DePIN corner with Streamr",
+    "url": "https://tableland.substack.com/p/weeknotes-synthetic-data-generation",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-synthetic-data-generation",
+    "date": "2024-04-01",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-synthetic-data-generation",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/1atXBmvGRQPHqWnu6xlTkcGn1qo8LSFVp9beRMRDMTE",
+        "text": "synthesized data will take over the internet"
+      },
+      {
+        "url": "https://github.com/gretelai/awesome-synthetic-data",
+        "text": "Awesome Synthetic Data"
+      },
+      {
+        "url": "https://github.com/textileio/demo-basin-synthetic-data",
+        "text": "textileio/demo-basin-synthetic-data"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!8ZA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75ade0be-8069-483d-ba89-48d02de51011_700x500.png",
+        "text": ""
+      },
+      {
+        "url": "https://sdv.dev/",
+        "text": "Synthetic Data Vault \"SDV\") library"
+      },
+      {
+        "url": "https://colab.research.google.com/drive/1MCTkTj9-93Ei-cLDQoj9AXaqPhpue7a3?usp=sharing",
+        "text": "follow along with their Jupyter notebook"
+      },
+      {
+        "url": "https://github.com/textileio/demo-basin-synthetic-data",
+        "text": "textileio/demo-basin-synthetic-data"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://iotex.io/case-study-Dimo",
+        "text": "Streamr, IoTex, and Dimo’s joint POC here"
+      },
+      {
+        "url": "https://streamr.network/hub/streams?tab=all",
+        "text": "check out the available streams from Streamr here"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "et up some time"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "join our Discord and get in touch"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.availproject.org/docs/the-avail-trinity/avail-da#taking-layer-2-data-off-chain",
+        "text": "Avail"
+      },
+      {
+        "url": "https://specs.optimism.io/experimental/plasma.html#da-storage",
+        "text": "plasma mode"
+      },
+      {
+        "url": "https://github.com/starkware-libs/ethSTARK/blob/master/rescue_stark_documentation.pdf",
+        "text": "STARK"
+      },
+      {
+        "url": "https://docs.starknet.io/documentation/architecture_and_concepts/Network_Architecture/on-chain-data/",
+        "text": "state diff"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/attestation/encoding.md#trustless-encoding-via-kzg-and-reed-solomon",
+        "text": "KZG commitments & Reed-Solomon erasure encoding"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#attestation-layer",
+        "text": "EigenDA produces a DA attestation"
+      },
+      {
+        "url": "https://docs.eigenlayer.xyz/eigenda/overview",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#core-components",
+        "text": "some predefined period"
+      },
+      {
+        "url": "https://github.com/celestiaorg/nmt",
+        "text": "Namespaced Merkle Trees"
+      },
+      {
+        "url": "https://github.com/celestiaorg/CIPs/blob/main/cips/cip-4.md",
+        "text": "blocks within a 30-day window"
+      },
+      {
+        "url": "https://docs.celestia.org/learn/retrievability#suggested-practices-for-rollups",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.availproject.org/docs/operate-a-node/run-a-light-client/Overview#light-client",
+        "text": "KZG commitments + RS erasure encoding"
+      },
+      {
+        "url": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md#contextbackground",
+        "text": "some cutoff period."
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates",
+        "text": "Data Availability Certificates"
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-servers",
+        "text": "DA servers"
+      },
+      {
+        "url": "https://chronicle.castlecapital.vc/p/deepdive-data-availability",
+        "text": "https://chronicle.castlecapital.vc/p/deepdive-data-availability"
+      },
+      {
+        "url": "https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/",
+        "text": "https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/"
+      },
+      {
+        "url": "https://docs.availproject.org/docs/the-avail-trinity/avail-da",
+        "text": "https://docs.availproject.org/docs/the-avail-trinity/avail-da"
+      },
+      {
+        "url": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md",
+        "text": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md"
+      },
+      {
+        "url": "https://www.blog.eigenlayer.xyz/ycie/",
+        "text": "https://www.blog.eigenlayer.xyz/ycie/"
+      },
+      {
+        "url": "https://ethereum.org/en/developers/docs/data-availability",
+        "text": "https://ethereum.org/en/developers/docs/data-availability"
+      },
+      {
+        "url": "https://book.starknet.io/ch03-01-03-data-availability.html#recreating-starknets-state",
+        "text": "https://book.starknet.io/ch03-01-03-data-availability.html#recreating-starknets-state"
+      },
+      {
+        "url": "https://specs.optimism.io/experimental/plasma.html#da-storage",
+        "text": "https://specs.optimism.io/experimental/plasma.html#da-storage"
+      },
+      {
+        "url": "https://vitalik.eth.limo/general/2023/11/14/neoplasma.html",
+        "text": "https://vitalik.eth.limo/general/2023/11/14/neoplasma.html"
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates",
+        "text": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates"
+      },
+      {
+        "url": "https://docs.celestia.org/learn/retrievability",
+        "text": "https://docs.celestia.org/learn/retrievability"
+      },
+      {
+        "url": "https://arxiv.org/abs/1809.09044",
+        "text": "https://arxiv.org/abs/1809.09044"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Managing nonces on Vercel, Lit encryption docs, DePIN corner with DIMO, and user design lineage",
+    "url": "https://tableland.substack.com/p/weeknotes-managing-nonces-on-vercel",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-managing-nonces-on-vercel",
+    "date": "2024-03-25",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-managing-nonces-on-vercel",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/joewagner",
+        "text": "Joe Wagner"
+      },
+      {
+        "url": "https://blog.thirdweb.com/nonce-ethereum/",
+        "text": "blog.thirdweb.com"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/nonce",
+        "text": "here"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/nonce",
+        "text": "npm"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/studio/tree/main/packages/nonce",
+        "text": "GitHub"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.login.xyz/",
+        "text": "SIWE"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/integrations/lit",
+        "text": "https://docs.tableland.xyz/playbooks/integrations/lit"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://dimo.zone/news/build-on-dimo-march-2024",
+        "text": "check out the new resources they’re creating for developers interested in building on DIMO"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://backdrop.so/",
+        "text": "hackathon"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/filecoin-data-economy/detail",
+        "text": "hackathon"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Table Studio launch, encrypting Tableland data with Lit Protocol, DePIN corner with Gensyn, and designing for people's actions",
+    "url": "https://tableland.substack.com/p/weeknotes-table-studio-launch-encrypting",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-table-studio-launch-encrypting",
+    "date": "2024-03-18",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-table-studio-launch-encrypting",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "the Tableland Studio’s"
+      },
+      {
+        "url": "https://twitter.com/HideoutLabs",
+        "text": "@HideoutLabs"
+      },
+      {
+        "url": "https://twitter.com/Filecoin",
+        "text": "@Filecoin"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/368AbMTUPkZ3F3FAhZSP5xxDDQh1Qm2Gc5D3X-WFkbs",
+        "text": "https://mirror.xyz/tableland.eth/368AbMTUPkZ3F3FAhZSP5xxDDQh1Qm2Gc5D3X-WFkbs"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://www.litprotocol.com/",
+        "text": "Lit Protocol"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "set up some time with us here"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "join our Discord and get in touch"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Deprecating Optimism Goerli, WeatherXM daily data for device data & rewards, DePIN corner with EnviroBloq, & designing with agency",
+    "url": "https://tableland.substack.com/p/weeknotes-deprecating-optimism-goerli",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-deprecating-optimism-goerli",
+    "date": "2024-03-11",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-deprecating-optimism-goerli",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.tableland.xyz/quickstarts/chains/optimism#optimism-sepolia",
+        "text": "here"
+      },
+      {
+        "url": "https://sepolia-optimism.etherscan.io/address/0x68A2f4423ad3bf5139Db563CF3bC80aA09ed7079",
+        "text": "here"
+      },
+      {
+        "url": "https://chainlist.org/chain/11155420",
+        "text": "https://chainlist.org/chain/11155420"
+      },
+      {
+        "url": "https://app.optimism.io/bridge",
+        "text": "https://app.optimism.io/bridge"
+      },
+      {
+        "url": "https://www.alchemy.com/faucets/optimism-sepolia",
+        "text": "https://www.alchemy.com/faucets/optimism-sepolia"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://index.weatherxm.network",
+        "text": "https://index.weatherxm.network"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/iw5tqM_2HFaTdTnQeZRw_fuj0UwlvxMaJOL2pJ3hIrQ",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://envirobloq.io/#home",
+        "text": "EnviroBloq"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Set up some time to discuss your use case"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "join our Discord and get in touch"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://delighted.com/blog/average-survey-response-rate",
+        "text": "according to Delighted"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: New Basin library, Studio landing page with trends & table inspector, & more",
+    "url": "https://tableland.substack.com/p/weeknotes-new-basin-library-studio",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-new-basin-library-studio",
+    "date": "2024-03-04",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-new-basin-library-studio",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli/releases/tag/v0.0.11",
+        "text": "v0.0.11"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/demo-textile-http-api",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/demo-textile-http-api",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/asutula",
+        "text": "Aaron Sutula"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "https://studio.tableland.xyz"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!4yHN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0399ed64-4304-4e8a-a4af-4c163356979c_1904x1216.png",
+        "text": ""
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Tc-Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a24be55-5635-4486-b6b9-1334a0a47847_1888x663.png",
+        "text": ""
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!POTz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e4ce921-2d4a-4aa2-a21d-e4ff03070c0a_2240x1346.png",
+        "text": ""
+      },
+      {
+        "url": "https://studio.tableland.xyz/table/top_video_games_1_3",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://www.notion.so/bfb3cb4525f54e0e9c3b1cb479614899?pvs=21",
+        "text": "Basin"
+      },
+      {
+        "url": "https://x.com/tableland/status/1763718426906775830?s=20",
+        "text": "Our co-sponsored Proof of Data Summit"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/filecoin-data-economy/detail",
+        "text": "Dorahacks / Filecoin Data Economy hackathon"
+      },
+      {
+        "url": "https://learnweb3.io/hackathons/decentralized-intelligence-season-2/",
+        "text": "LearnWeb3 hackathon"
+      },
+      {
+        "url": "https://x.com/tableland/status/1757458248888697229?s=20",
+        "text": "Backdrop’s Build V3 program"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over on GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Synthetic AI data, new Tableland POST support, building a Discord webhook bot, DePIN corner with GEODNET, & ETHDenver",
+    "url": "https://tableland.substack.com/p/weeknotes-synthetic-ai-data-new-tableland",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-synthetic-ai-data-new-tableland",
+    "date": "2024-02-26",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-synthetic-ai-data-new-tableland",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/synthetic-data-is-comingsoon",
+        "text": "Synthetic data is coming…soon"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/tableland-now-supports-post-query",
+        "text": "New Tableland"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/tableland-now-supports-post-query",
+        "text": "support"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/building-a-discord-webhook-for-tableland-events",
+        "text": "Discord webhook for Tableland events"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/depin-corner-geodnet",
+        "text": "DePIN Corner: GEODNET"
+      },
+      {
+        "url": "https://tableland.substack.com/i/142072926/countdown-to-ethdenver-2024",
+        "text": "Countdown to ETHDenver 2024"
+      },
+      {
+        "url": "https://github.com/andrewxhill",
+        "text": "Andrew Hill"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/1atXBmvGRQPHqWnu6xlTkcGn1qo8LSFVp9beRMRDMTE",
+        "text": "https://mirror.xyz/tableland.eth/1atXBmvGRQPHqWnu6xlTkcGn1qo8LSFVp9beRMRDMTE"
+      },
+      {
+        "url": "https://github.com/brunocalza",
+        "text": "Bruno Calza"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/go-tableland/releases/tag/v1.10.0",
+        "text": "new Tableland version"
+      },
+      {
+        "url": "https://docs.tableland.xyz/validator/api/query#post-request",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!6g6V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93c6bc92-bc34-4456-bb0d-8b2aa0aeb3a4_1920x1080.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/discord-sql-logs",
+        "text": "https://github.com/tablelandnetwork/discord-sql-logs"
+      },
+      {
+        "url": "https://discord.com/developers/applications",
+        "text": "https://discord.com/developers/applications"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/discord-sql-logs/blob/main/src/tbl.ts",
+        "text": "file"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/discord-sql-logs/blob/main/src/embed.ts",
+        "text": "file"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Real-time_kinematic_positioning",
+        "text": "the application of surveying to correct common errors in current satellite navigation (GNSS) systems"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Set up some time"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "join our Discord and get in touch"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Real-time_kinematic_positioning",
+        "text": "https://en.wikipedia.org/wiki/Real-time_kinematic_positioning"
+      },
+      {
+        "url": "https://geodnet.com/index.html",
+        "text": "https://geodnet.com/index.html"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/QAMu3CdpqZl96NqnhEIxV1m3dbZ0bi2PUv6qvMRiS94",
+        "text": "here"
+      },
+      {
+        "url": "https://depinday.xyz/",
+        "text": "DePIN Day"
+      },
+      {
+        "url": "https://lu.ma/r3al-world-ethdenver",
+        "text": "R3al World"
+      },
+      {
+        "url": "https://scios.desci.community/#day-three-february-28th",
+        "text": "DeSci Summit"
+      },
+      {
+        "url": "https://lu.ma/FDS-EthDenver",
+        "text": "FIL Dev Summit"
+      },
+      {
+        "url": "https://hub.fil.org/events/ethdenver/menu/see-the-schedule",
+        "text": "Devtopia"
+      },
+      {
+        "url": "https://lu.ma/proofofdata",
+        "text": "Proof of Data Summit"
+      },
+      {
+        "url": "https://filecoindenver.io/",
+        "text": "Filecoin Orbit Happy Hour"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Farcaster replicator demo, DePIN corner with NATIX, & optimizing for remote communication",
+    "url": "https://tableland.substack.com/p/weeknotes-farcaster-replicator-demo",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-farcaster-replicator-demo",
+    "date": "2024-02-19",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-farcaster-replicator-demo",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.farcaster.xyz/developers/guides/apps/replicate",
+        "text": "docs for more information"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/-kj44QCmBWU7_BeNlx55Xe7Oone7hn0LtI7sGaaBvtQ",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.ipfs.tech/concepts/content-addressing/",
+        "text": "CIDs"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/hub-monorepo/tree/main/apps/replicator",
+        "text": "dtbuchholz/hub-monorepo"
+      },
+      {
+        "url": "https://hub.docker.com/repository/docker/dtbuchholz/textile-vaults-farcaster",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Set up some time"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/filecoin-data-economy",
+        "text": "here"
+      },
+      {
+        "url": "https://backdropbuild.com/",
+        "text": "here"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Forking with Local Tableland, the Proof of Data summit, & more",
+    "url": "https://tableland.substack.com/p/weeknotes-forking-with-local-tableland",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-forking-with-local-tableland",
+    "date": "2024-02-12",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-forking-with-local-tableland",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/joewagner",
+        "text": "Joe Wagner"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/local",
+        "text": "npm package"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!LxJX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e86f213-fbf3-4c1b-86bc-baf1bd69bfe7_4032x3024.png",
+        "text": ""
+      },
+      {
+        "url": "https://twitter.com/BrianHoffstein",
+        "text": "Brian Hoffstein"
+      },
+      {
+        "url": "https://proofofdata.love",
+        "text": "https://proofofdata.love"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Set up some time to discuss here"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Merkle Mountain Ranges, DePIN corner with W3bstream, & more",
+    "url": "https://tableland.substack.com/p/weeknotes-merkle-mountain-ranges",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-merkle-mountain-ranges",
+    "date": "2024-02-05",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-merkle-mountain-ranges",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/carsonfarmer",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Merkle_tree",
+        "text": "Merkle trees"
+      },
+      {
+        "url": "https://eprint.iacr.org/2021/038.pdf",
+        "text": "binary numeral tree"
+      },
+      {
+        "url": "https://www.usenix.org/legacy/events/sec09/tech/full_papers/crosby.pdf",
+        "text": "growable (or history) Merkle trees"
+      },
+      {
+        "url": "https://docs.grin.mw/wiki/chain-state/merkle-mountain-range/",
+        "text": "Merkle Mountain Ranges"
+      },
+      {
+        "url": "https://eprint.iacr.org/2015/718.pdf",
+        "text": "Reyzin and Yakoubov"
+      },
+      {
+        "url": "https://medium.com/@atnemecek/the-scan-function-is-the-core-of-all-programming-5f5085df76e7",
+        "text": "functional scan comes up a lot in programming"
+      },
+      {
+        "url": "https://www.cs.cmu.edu/~rwh/students/okasaki.pdf",
+        "text": "purely functional"
+      },
+      {
+        "url": "https://cs.brown.edu/research/pubs/pdfs/2003/Tamassia-2003-ADS.pdf",
+        "text": "authenticated"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!lb5S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb96e5bb0-5548-4aef-8f8c-bfbfda6115d6_708x1242.png",
+        "text": ""
+      },
+      {
+        "url": "https://neptune.cash/learn/mmr/",
+        "text": "Merkle Mountain Range Accumulator, an MMRA"
+      },
+      {
+        "url": "https://neptune.cash/learn/mmr/#mutating-merkle-mountain-ranges",
+        "text": "article from the Neptune protocol"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Kflk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79f6e420-1f16-4128-b02a-c3641096e83e_1418x568.png",
+        "text": ""
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!eBVt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e9723a0-2b2a-471b-99aa-2d83a2c5de0a_1412x564.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/mimblewimble/grin/blob/master/doc/mmr.md#hashing-and-bagging",
+        "text": "\"bagging the peaks”"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!pJbQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefe0633e-c665-41fc-9efa-c10e5a9ab2ca_1408x712.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://w3bstream.com/",
+        "text": "W3bstream"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Get in touch"
+      },
+      {
+        "url": "https://github.com/carsonfarmer",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://mermaid.js.org/",
+        "text": "Mermaid"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!c8KU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4da25078-c7d1-4821-adee-0baacd13f60a_1418x568.png",
+        "text": ""
+      },
+      {
+        "url": "https://mermaid.js.org/syntax/flowchart.html?id=flowcharts-basic-syntax#an-invisible-link",
+        "text": "indicates an invisible link"
+      },
+      {
+        "url": "https://mermaid.js.org/syntax/flowchart.html?id=flowcharts-basic-syntax#classes",
+        "text": "define classes for your nodes"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!GhmN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10bc31c0-7710-4ef2-8acf-73f668abbfe2_1412x564.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://vercel.com/docs/speed-insights/metrics",
+        "text": "Real Experience Score (RES)"
+      },
+      {
+        "url": "https://lu.ma/proofofdata",
+        "text": "https://lu.ma/proofofdata"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over on GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Basin vaults tracker, DePINs & data availability, & user design thoughts",
+    "url": "https://tableland.substack.com/p/weeknotes-basin-vaults-tracker-depins",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-basin-vaults-tracker-depins",
+    "date": "2024-01-29",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-basin-vaults-tracker-depins",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://tableland.substack.com/i/140939635/using-webpy-to-parse-event-logs",
+        "text": "our last post"
+      },
+      {
+        "url": "http://web3.py",
+        "text": "web3.py"
+      },
+      {
+        "url": "https://github.com/textileio/demo-vault-tracker",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/cookiecutter/cookiecutter",
+        "text": "Cookiecutter"
+      },
+      {
+        "url": "https://github.com/sourcery-ai/python-best-practices-cookiecutter",
+        "text": "sourcery-ai"
+      },
+      {
+        "url": "https://docs.pytest.org/en/latest/",
+        "text": "pytest"
+      },
+      {
+        "url": "https://github.com/psf/black",
+        "text": "black"
+      },
+      {
+        "url": "https://github.com/timothycrosley/isort",
+        "text": "isort"
+      },
+      {
+        "url": "http://mypy-lang.org/",
+        "text": "mypy"
+      },
+      {
+        "url": "http://flake8.pycqa.org/en/latest/",
+        "text": "flake8"
+      },
+      {
+        "url": "https://pre-commit.com/",
+        "text": "pre-commit"
+      },
+      {
+        "url": "https://www.ankr.com/",
+        "text": "Ankr"
+      },
+      {
+        "url": "http://web3.py",
+        "text": "web3.py"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://lu.ma/proofofdata",
+        "text": "https://lu.ma/proofofdata"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth",
+        "text": "here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: Decentralized range queries, new Showcase, web3.py + events/logs, & more",
+    "url": "https://tableland.substack.com/p/weeknotes-decentralized-range-queries",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-decentralized-range-queries",
+    "date": "2024-01-22",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-decentralized-range-queries",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/andrewxhill",
+        "text": "Andrew Hill"
+      },
+      {
+        "url": "https://parquet.apache.org/",
+        "text": "Parquet"
+      },
+      {
+        "url": "https://avro.apache.org/",
+        "text": "Avro"
+      },
+      {
+        "url": "https://zarr.dev/",
+        "text": "Zarr"
+      },
+      {
+        "url": "https://github.com/protomaps/PMTiles",
+        "text": "PMTiles"
+      },
+      {
+        "url": "https://flatgeobuf.org/",
+        "text": "FlatGeoBuf"
+      },
+      {
+        "url": "https://github.com/phiresky/sql.js-httpvfs",
+        "text": "sql.js-httpvfs"
+      },
+      {
+        "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+        "text": "here"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Merkle_tree",
+        "text": "Merkle trees"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/blob/main/Data.md",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.tableland.xyz/showcase",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/features",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/blueprints/gaming",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/blueprints/data-dao",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/architecture/cost-estimator",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/walkthroughs/chunking-queries",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/local-tableland/methods",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://blog.coinfund.io/the-dawn-of-depin-leading-the-series-a-in-dimos-open-platform-for-car-apps-e038a89b7ce5",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-provider/blob/main/lib/evm/contracts/BasinStorage.json",
+        "text": "contract's ABI"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "Fill out the form here"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: 2023 Retrospective",
+    "url": "https://tableland.substack.com/p/weeknotes-2023-retrospective",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-2023-retrospective",
+    "date": "2024-01-15",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-2023-retrospective",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://hhueol4i6vp.typeform.com/to/pbUwIuWm",
+        "text": "here"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "Studio"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/L7POIOyHAx6A_BczcOQ_h_bY5iz1UzWAXKkEcEebtDU",
+        "text": "Garage"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/CbRLSRYYClTB8bNOph-1z9WkFvHzBs5MIImPu-ybwAs",
+        "text": "WeatherXM"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: January 8, 2024",
+    "url": "https://tableland.substack.com/p/weeknotes-january-8-2024",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-january-8-2024",
+    "date": "2024-01-08",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-january-8-2024",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://web3.storage/",
+        "text": "web3.storage"
+      },
+      {
+        "url": "https://github.com/joewagner",
+        "text": "Joe Wagner"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/studio-cli",
+        "text": "Studio CLI"
+      },
+      {
+        "url": "https://docs.ethers.org/v5/",
+        "text": "Ethers.js"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/studio-cli",
+        "text": "https://www.npmjs.com/package/@tableland/studio-cli"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "December 18, 2023",
+    "url": "https://tableland.substack.com/p/december-18-2023",
+    "canonical_url": "https://tableland.substack.com/p/december-18-2023",
+    "date": "2023-12-18",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/december-18-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/avichalp",
+        "text": "Avichal Pandey"
+      },
+      {
+        "url": "https://tableland.substack.com/i/138837979/multiset-hash-in-go-using-ristretto",
+        "text": "talked"
+      },
+      {
+        "url": "https://tableland.substack.com/p/weeknotes-september-22-2023#%C2%A7homomorphic-hashing-for-secure-incremental-updates-is-cool-but-not-quite-ready-yet",
+        "text": "about"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!Yg3b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac0a3146-4fe6-4cdf-aba8-35771a811069_668x449.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/BLAKE3-team/BLAKE3",
+        "text": "Blake3"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!dEHA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa16b0f66-b191-4946-9572-96a6b40e9a85_1238x816.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "Studio"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@tableland/studio-cli",
+        "text": "CLI"
+      },
+      {
+        "url": "https://docs.tableland.xyz/studio/cli/",
+        "text": "here"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/SubRip",
+        "text": "subtitles"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/yt-timestamps-subtitles",
+        "text": "full source code here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/jeti",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/plugins/",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/plugins/truncate",
+        "text": "Truncate values"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/plugins/pinning-to-ipfs",
+        "text": "Upload/pin cell content of any length to IPFS"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/plugins/encryption",
+        "text": "Encrypt/decrypt data"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/plugins/custom-plugin",
+        "text": "Create a custom plugin"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: December 11, 2023",
+    "url": "https://tableland.substack.com/p/weeknotes-december-11-2023",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-december-11-2023",
+    "date": "2023-12-12",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-december-11-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://tableland.substack.com/i/139209185/experimenting-with-basin-python-polars-for-weatherxm-data-analysis",
+        "text": "previous writeup"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/blob/main/Data.md",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/blob/main/Data.md",
+        "text": "here"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!q6lC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83e76c2d-6ef0-4a42-9b2a-8282ca599979_803x821.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://t.me/tablelandxyz",
+        "text": "Telegram"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: December 4, 2023",
+    "url": "https://tableland.substack.com/p/weeknotes-december-4-2023",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-december-4-2023",
+    "date": "2023-12-05",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-december-4-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/avichalp",
+        "text": "Avichal Pandey"
+      },
+      {
+        "url": "https://tableland.substack.com/i/138430120/postgres-logical-replication-in-rust",
+        "text": "replication"
+      },
+      {
+        "url": "https://tableland.substack.com/i/138018199/postgres-exports-using-duckdb",
+        "text": "DuckDB"
+      },
+      {
+        "url": "https://duckdb.org/docs/archive/0.9.1/extensions/postgres_scanner",
+        "text": "postgres scanner"
+      },
+      {
+        "url": "https://tableland.substack.com/i/137299329/relying-on-the-postgres-streaming-protocol-to-capture-database-changes-and-efficient-data-streams-transfer-with-capn-proto",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli/blob/main/README.md",
+        "text": "here"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Data_definition_language",
+        "text": "DDL"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: November 27, 2023",
+    "url": "https://tableland.substack.com/p/weeknotes-november-27-2023",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-november-27-2023",
+    "date": "2023-11-27",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-november-27-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://mumbai.polygonscan.com/tx/0xfff0756b73d96098e6bd7a8edb0cbf4a0d24071d79609b0330331a5885dd6814",
+        "text": "mutation would fail"
+      },
+      {
+        "url": "https://substackcdn.com/image/fetch/$s_!UNFK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e054424-5e1a-460b-9ba3-7077de28b392_1948x581.png",
+        "text": ""
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/tableland-js/pull/99",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.ethers.org/v5/api/contract/contract/#contract-functionsSend",
+        "text": "exports"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin"
+      },
+      {
+        "url": "https://weatherxm.com/",
+        "text": "WeatherXM"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch",
+        "text": "repo"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/blob/main/history.csv",
+        "text": "CSV"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/blob/main/Data.md",
+        "text": "markdown file"
+      },
+      {
+        "url": "https://www.pola.rs/",
+        "text": "polars"
+      },
+      {
+        "url": "https://pola-rs.github.io/polars/py-polars/html/reference/lazyframe/index.html",
+        "text": "LazyFrame"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/",
+        "text": "WCAG2.2"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  },
+  {
+    "title": "Weeknotes: November 20, 2023",
+    "url": "https://tableland.substack.com/p/weeknotes-november-20-2023",
+    "canonical_url": "https://tableland.substack.com/p/weeknotes-november-20-2023",
+    "date": "2023-11-20",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Weeknotes on Substack",
+    "sources": [
+      "https://tableland.substack.com/api/v1/archive?sort=new&offset=0&limit=50"
+    ],
+    "http_status": 200,
+    "final_url": "https://tableland.substack.com/p/weeknotes-november-20-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://substack.com/@tableland",
+        "text": ""
+      },
+      {
+        "url": "https://substack.com/@tableland",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/brunocalza",
+        "text": "Bruno Calza"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli/releases/tag/v0.0.4-beta-1",
+        "text": "new version"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "docs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/sql/expressions",
+        "text": "expressions/operators"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/sql/functions#aggregate-functions",
+        "text": "aggregate/scalar function"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/sql/composing-data",
+        "text": "compound select"
+      },
+      {
+        "url": "https://docs.tableland.xyz/quickstarts/nextjs",
+        "text": "Next.js"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/database/query-statement-methods",
+        "text": "query statement methods"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/database/batching",
+        "text": "database batch methods"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/database/polling-queries",
+        "text": "polling controllers"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/walkthroughs/orm",
+        "text": "ORM support"
+      },
+      {
+        "url": "https://docs.tableland.xyz/smart-contracts/registry",
+        "text": "New docs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/smart-contracts/controller/",
+        "text": "access control"
+      },
+      {
+        "url": "https://docs.tableland.xyz/smart-contracts/sql-helpers",
+        "text": "SQL helpers"
+      },
+      {
+        "url": "https://docs.tableland.xyz/smart-contracts/tableland-deployments",
+        "text": "Tableland Deployments"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/walkthroughs/sql-parser",
+        "text": "New docs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/reference/compatability",
+        "text": "SDK compatibility"
+      },
+      {
+        "url": "https://docs.tableland.xyz/tutorials/table-reads-chainlink",
+        "text": "Chainlink tutorial"
+      },
+      {
+        "url": "https://docs.tableland.xyz/tutorials/dynamic-nft-chainlink",
+        "text": "Chainlink dNFT"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/database/aliases",
+        "text": "SDK aliases"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/jxWM36j7OaW4plfTlpQpgRrIDuth75lJhVjj0BiFwBA",
+        "text": "here"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/rebuild-ownership-2/detail",
+        "text": "Rebuild Ownership"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ],
+    "evidence": "public Substack archive API and article"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "source": "https://web.archive.org/cdx/search/cdx?url=medium.com/3box/*&output=json&filter=statuscode:200&collapse=urlkey",
+  "cdx_rows": 362,
+  "candidate_article_urls": 78,
+  "records": 78,
+  "article_metadata": 50
+}

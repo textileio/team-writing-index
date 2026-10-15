@@ -1,0 +1,712 @@
+[
+  {
+    "title": "Textile Threads v0.2: Progress report for March 2020",
+    "url": "https://medium.com/textileio/textile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0",
+    "canonical_url": "https://blog.textile.io/textile-threads-progress-report-march-2020/",
+    "date": "2020-03-03",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://medium.com/feed/@andrewxhill"
+    ],
+    "http_status": 200,
+    "final_url": "https://medium.com/textileio/textile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/tag/developer?source=post_page---header_tags--39a6ecd810c0-----------------------------------------",
+        "text": "Developers"
+      },
+      {
+        "url": "https://medium.com/@andrewxhill?source=post_page---byline--39a6ecd810c0-----------------------------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/@andrewxhill?source=post_page---byline--39a6ecd810c0-----------------------------------------",
+        "text": "Andrew Hill"
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftextileio%2F39a6ecd810c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Ftextile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0&user=Andrew+Hill&userId=ff64f4a69e5a&source=---header_actions--39a6ecd810c0---------------------clap_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F39a6ecd810c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Ftextile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0&user=Andrew+Hill&userId=ff64f4a69e5a&source=---header_actions--39a6ecd810c0---------------------repost_header--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F39a6ecd810c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Ftextile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0&source=---header_actions--39a6ecd810c0---------------------bookmark_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D39a6ecd810c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Ftextile-threads-v0-2-progress-report-for-march-2020-39a6ecd810c0&source=---header_actions--39a6ecd810c0---------------------post_audio_button--------------------",
+        "text": "Listen"
+      },
+      {
+        "url": "https://ghost.org/",
+        "text": "Ghost"
+      },
+      {
+        "url": "https://blog.textile.io/textile-threads-progress-report-march-2020/",
+        "text": "https://blog.textile.io/"
+      },
+      {
+        "url": "https://blog.textile.io/textile-threads-progress-report-march-2020/?source=post_page-----39a6ecd810c0-----------------------------------------",
+        "text": "Textile Threads v0.2: Progress report for March 2020 Summary We've been hard at work developing the Threads database and networking protocol. If you aren't familiar with… blog.textile.io"
+      }
+    ],
+    "evidence": "live article / author profile"
+  },
+  {
+    "title": "EthDen 2: Pin projects to IPFS right from GitHub",
+    "url": "https://medium.com/textileio/ethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e",
+    "canonical_url": "https://blog.textile.io/ethden-2-pin-projects-to-ipfs-right-from-github/",
+    "date": "2020-02-15",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://medium.com/feed/@andrewxhill"
+    ],
+    "http_status": 200,
+    "final_url": "https://medium.com/textileio/ethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/@andrewxhill?source=post_page---byline--49b326c7ad2e-----------------------------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/@andrewxhill?source=post_page---byline--49b326c7ad2e-----------------------------------------",
+        "text": "Andrew Hill"
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftextileio%2F49b326c7ad2e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e&user=Andrew+Hill&userId=ff64f4a69e5a&source=---header_actions--49b326c7ad2e---------------------clap_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F49b326c7ad2e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e&user=Andrew+Hill&userId=ff64f4a69e5a&source=---header_actions--49b326c7ad2e---------------------repost_header--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F49b326c7ad2e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e&source=---header_actions--49b326c7ad2e---------------------bookmark_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D49b326c7ad2e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fethden-2-pin-projects-to-ipfs-right-from-github-49b326c7ad2e&source=---header_actions--49b326c7ad2e---------------------post_audio_button--------------------",
+        "text": "Listen"
+      },
+      {
+        "url": "https://ghost.org/",
+        "text": "Ghost"
+      },
+      {
+        "url": "https://blog.textile.io/ethden-2-pin-projects-to-ipfs-right-from-github/",
+        "text": "https://blog.textile.io/"
+      },
+      {
+        "url": "https://blog.textile.io/ethden-2-pin-projects-to-ipfs-right-from-github/?source=post_page-----49b326c7ad2e-----------------------------------------",
+        "text": "EthDen 2: Pin projects to IPFS right from GitHub In our post yesterday [https://blog.textile.io/ethden-come-learn-how-to-publish-dynamic-ipfs-buckets-on-textile/] , we… blog.textile.io"
+      }
+    ],
+    "evidence": "live article / author profile"
+  },
+  {
+    "title": "Introducing the Textile Javascript Client",
+    "url": "https://medium.com/textileio/introducing-the-textile-javascript-client-873c1a31d939",
+    "canonical_url": "https://medium.com/textileio/introducing-the-textile-javascript-client-873c1a31d939",
+    "date": "2019-05-24",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://medium.com/@carsonfarmer"
+    ],
+    "http_status": 200,
+    "final_url": "https://medium.com/textileio/introducing-the-textile-javascript-client-873c1a31d939",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/tag/javascript?source=post_page---header_tags--873c1a31d939-----------------------------------------",
+        "text": "JavaScript"
+      },
+      {
+        "url": "https://medium.com/tag/decentralization?source=post_page---header_tags--873c1a31d939-----------------------------------------",
+        "text": "Decentralization"
+      },
+      {
+        "url": "https://medium.com/tag/software-development?source=post_page---header_tags--873c1a31d939-----------------------------------------",
+        "text": "Software Development"
+      },
+      {
+        "url": "https://medium.com/tag/ipfs?source=post_page---header_tags--873c1a31d939-----------------------------------------",
+        "text": "Ipfs"
+      },
+      {
+        "url": "https://medium.com/tag/typescript?source=post_page---header_tags--873c1a31d939-----------------------------------------",
+        "text": "Typescript"
+      },
+      {
+        "url": "https://medium.com/@carsonfarmer?source=post_page---byline--873c1a31d939-----------------------------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/@carsonfarmer?source=post_page---byline--873c1a31d939-----------------------------------------",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftextileio%2F873c1a31d939&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-the-textile-javascript-client-873c1a31d939&user=Carson+Farmer&userId=adda52ceb6bc&source=---header_actions--873c1a31d939---------------------clap_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F873c1a31d939&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-the-textile-javascript-client-873c1a31d939&user=Carson+Farmer&userId=adda52ceb6bc&source=---header_actions--873c1a31d939---------------------repost_header--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F873c1a31d939&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-the-textile-javascript-client-873c1a31d939&source=---header_actions--873c1a31d939---------------------bookmark_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D873c1a31d939&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-the-textile-javascript-client-873c1a31d939&source=---header_actions--873c1a31d939---------------------post_audio_button--------------------",
+        "text": "Listen"
+      },
+      {
+        "url": "https://medium.com/textileio/introducing-the-textile-desktop-series-f9eb14e1349e",
+        "text": "recent post about Textile on desktop"
+      },
+      {
+        "url": "https://www.typescriptlang.org/",
+        "text": "Typescript"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isomorphic_JavaScript",
+        "text": "isomorphic"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream",
+        "text": "ReadableStreams"
+      },
+      {
+        "url": "https://webpack.js.org/",
+        "text": "webpack"
+      },
+      {
+        "url": "https://www.npmjs.com/package/@textile/js-http-client",
+        "text": "Available on npm"
+      },
+      {
+        "url": "https://www.textile.io/",
+        "text": "Textile"
+      },
+      {
+        "url": "https://github.com/ipfs",
+        "text": "IPFS"
+      },
+      {
+        "url": "https://github.com/libp2p",
+        "text": "libp2p"
+      },
+      {
+        "url": "https://github.com/textileio/go-textile",
+        "text": "written in Go"
+      },
+      {
+        "url": "https://github.com/textileio/desktop/releases",
+        "text": "downloading and installing"
+      },
+      {
+        "url": "http://twitter.com/textile/react-native-sdk",
+        "text": "@textile/j"
+      },
+      {
+        "url": "https://github.com/textileio/js-http-playground",
+        "text": "js-http-playground"
+      },
+      {
+        "url": "https://docs.textile.io/a-tour-of-textile/",
+        "text": "new Tour of Textile"
+      },
+      {
+        "url": "https://docs.textile.io/develop/clients/javascript/",
+        "text": "nice rundown of up-to-date features"
+      },
+      {
+        "url": "https://github.com/textileio/desktop",
+        "text": "Textile desktop tray app"
+      },
+      {
+        "url": "https://github.com/textileio/photos-desktop",
+        "text": "Textile Photos for Desktop"
+      },
+      {
+        "url": "https://docs.textile.io",
+        "text": "docs"
+      },
+      {
+        "url": "https://medium.com/textileio",
+        "text": "other blog posts"
+      },
+      {
+        "url": "https://docs.textile.io/a-tour-of-textile/",
+        "text": "our Tour of Textile"
+      },
+      {
+        "url": "https://slack.textile.io/",
+        "text": "community slack channel,"
+      },
+      {
+        "url": "https://github.com/robbynshaw/textile-js-sdk",
+        "text": "this"
+      },
+      {
+        "url": "https://github.com/textileio/explore/tree/master/flickr-exporter",
+        "text": "this"
+      },
+      {
+        "url": "https://slack.textile.io",
+        "text": "here to help"
+      }
+    ],
+    "evidence": "live article / author profile"
+  },
+  {
+    "title": "Introducing a Tour of Textile",
+    "url": "https://medium.com/textileio/introducing-a-tour-of-textile-92f02969a4d8",
+    "canonical_url": "https://medium.com/textileio/introducing-a-tour-of-textile-92f02969a4d8",
+    "date": "2019-05-15",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://medium.com/@carsonfarmer"
+    ],
+    "http_status": 200,
+    "final_url": "https://medium.com/textileio/introducing-a-tour-of-textile-92f02969a4d8",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/tag/textile?source=post_page---header_tags--92f02969a4d8-----------------------------------------",
+        "text": "Textile"
+      },
+      {
+        "url": "https://medium.com/tag/react?source=post_page---header_tags--92f02969a4d8-----------------------------------------",
+        "text": "React"
+      },
+      {
+        "url": "https://medium.com/tag/development?source=post_page---header_tags--92f02969a4d8-----------------------------------------",
+        "text": "Development"
+      },
+      {
+        "url": "https://medium.com/tag/ipfs?source=post_page---header_tags--92f02969a4d8-----------------------------------------",
+        "text": "Ipfs"
+      },
+      {
+        "url": "https://medium.com/tag/technology?source=post_page---header_tags--92f02969a4d8-----------------------------------------",
+        "text": "Technology"
+      },
+      {
+        "url": "https://medium.com/@carsonfarmer?source=post_page---byline--92f02969a4d8-----------------------------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/@carsonfarmer?source=post_page---byline--92f02969a4d8-----------------------------------------",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftextileio%2F92f02969a4d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-a-tour-of-textile-92f02969a4d8&user=Carson+Farmer&userId=adda52ceb6bc&source=---header_actions--92f02969a4d8---------------------clap_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F92f02969a4d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-a-tour-of-textile-92f02969a4d8&user=Carson+Farmer&userId=adda52ceb6bc&source=---header_actions--92f02969a4d8---------------------repost_header--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F92f02969a4d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-a-tour-of-textile-92f02969a4d8&source=---header_actions--92f02969a4d8---------------------bookmark_footer--------------------",
+        "text": ""
+      },
+      {
+        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D92f02969a4d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftextileio%2Fintroducing-a-tour-of-textile-92f02969a4d8&source=---header_actions--92f02969a4d8---------------------post_audio_button--------------------",
+        "text": "Listen"
+      },
+      {
+        "url": "https://docs.textile.io/a-tour-of-textile/",
+        "text": "Tour of Textile"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/",
+        "text": "Textile in general"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/the-wallet",
+        "text": "wallet"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/the-wallet#accounts",
+        "text": "accounts"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/contacts",
+        "text": "ontacts"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/contacts#peers",
+        "text": "peers"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/threads",
+        "text": "hreads"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/threads#blocks",
+        "text": "blocks"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/threads/files",
+        "text": "iles"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/threads/files#schemas",
+        "text": "schemas"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/threads/files#mills",
+        "text": "mills"
+      },
+      {
+        "url": "https://docs.textile.io/concepts/cafes",
+        "text": "afes"
+      },
+      {
+        "url": "https://docs.textile.io/a-tour-of-textile/#get-started",
+        "text": "get started"
+      },
+      {
+        "url": "https://github.com/textileio/docs/issues",
+        "text": "please let us know"
+      },
+      {
+        "url": "https://ipfs.io/",
+        "text": "IPFS"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Encryption",
+        "text": "encryption"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Directed_acyclic_graph",
+        "text": "directed acyclic graphs (DAGs)"
+      },
+      {
+        "url": "https://github.com/textileio/docs/issues",
+        "text": "don’t hesitate to let us know"
+      },
+      {
+        "url": "https://docs.textile.io/a-tour-of-textile",
+        "text": "https://docs.textile.io/a-tour-of-textile"
+      },
+      {
+        "url": "https://slack.textile.io/",
+        "text": "community Slack channel"
+      },
+      {
+        "url": "https://twitter.com/textileio/lists/textile-team/members",
+        "text": "Textile team"
+      },
+      {
+        "url": "https://twitter.com/textileio",
+        "text": "Twitter"
+      },
+      {
+        "url": "mailto:contact@textile.io",
+        "text": "email"
+      },
+      {
+        "url": "https://camp.ipfs.io/",
+        "text": "IPFS Camp"
+      }
+    ],
+    "evidence": "live article / author profile"
+  },
+  {
+    "title": "A short trip to Jupyter via the Inter-planetary File System",
+    "url": "https://hackernoon.com/a-short-trip-to-jupyter-via-the-inter-planetary-file-system-92c36c1e5b45",
+    "canonical_url": "https://hackernoon.com/a-short-trip-to-jupyter-via-the-inter-planetary-file-system-92c36c1e5b45",
+    "date": "2018-06-06",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://hackernoon.com/u/carsonfarmer"
+    ],
+    "http_status": 200,
+    "final_url": "https://hackernoon.com/a-short-trip-to-jupyter-via-the-inter-planetary-file-system-92c36c1e5b45",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://hackernoon.com/",
+        "text": ""
+      },
+      {
+        "url": "https://hackernoon.com/new",
+        "text": "Write"
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "by Carson Farmer | @ carsonfarmer"
+      },
+      {
+        "url": "https://hackernoon.com/archives/2018/06/06",
+        "text": "June 6th, 2018"
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "by Carson Farmer | @ carsonfarmer"
+      },
+      {
+        "url": "mailto:?subject=I'd like to share a link with you &body=",
+        "text": ""
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "by Carson Farmer | @ carsonfarmer"
+      },
+      {
+        "url": "https://ipfs.io/ipfs/%7B?ref=hackernoon.com",
+        "text": "https://ipfs.io/ipfs/{"
+      },
+      {
+        "url": "https://www.textile.io/?ref=hackernoon.com",
+        "text": "Textile"
+      },
+      {
+        "url": "https://www.textile.photos/?ref=hackernoon.com",
+        "text": "check us out"
+      },
+      {
+        "url": "https://www.producthunt.com/upcoming/textile-photos?ref=hackernoon.com",
+        "text": "Textile Photos waitlist"
+      },
+      {
+        "url": "https://ipfs.io/ipfs/QmdnFJ2qDYbtxGirZXDNf35Tm4ZYMdXoBmVRkUi3Mrrg6p?ref=hackernoon.com",
+        "text": "A Notebook for the above code, hosted in IPFS, added with Python!"
+      },
+      {
+        "url": "https://github.com/ipfs/py-ipfs-api?ref=hackernoon.com",
+        "text": "The IPFS API Python module(ipfsapi)on GitHub"
+      },
+      {
+        "url": "https://ipfs.io/docs/api/?ref=hackernoon.com",
+        "text": "IPFS API reference"
+      },
+      {
+        "url": "https://medium.com/python-pandemonium/getting-started-with-python-and-ipfs-94d14fdffd10?ref=hackernoon.com",
+        "text": "Another getting started guide"
+      },
+      {
+        "url": "https://github.com/ibmjstart/notebook-samples/blob/master/Native%2BPython%2BIPFS%2BNotebook.ipynb?ref=hackernoon.com",
+        "text": "A Python Notebook with all sorts of useful code snippets"
+      },
+      {
+        "url": "http://blog.ibmjstart.net/2016/06/27/interplanetary-file-system-ipfs-jupyter/?ref=hackernoon.com",
+        "text": "The corresponding blog post to go with the above Notebook"
+      },
+      {
+        "url": "mailto:?subject=I'd like to share a link with you &body=",
+        "text": ""
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": ""
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "Carson Farmer"
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "@ carsonfarmer"
+      },
+      {
+        "url": "https://hackernoon.com/u/carsonfarmer",
+        "text": "Read my stories"
+      },
+      {
+        "url": "https://hackernoon.com/about/carsonfarmer",
+        "text": "Learn More"
+      },
+      {
+        "url": "https://hackernoon.com/c/engineering",
+        "text": "engineering"
+      },
+      {
+        "url": "https://hackernoon.com/tagged/ipfs",
+        "text": "# ipfs"
+      },
+      {
+        "url": "https://hackernoon.com/tagged/trip-to-jupyter",
+        "text": "# trip-to-jupyter"
+      },
+      {
+        "url": "https://hackernoon.com/tagged/filesystem",
+        "text": "# filesystem"
+      },
+      {
+        "url": "https://hackernoon.com/tagged/jupyter",
+        "text": "# jupyter"
+      },
+      {
+        "url": "https://hackernoon.com/tagged/software-development",
+        "text": "# software-development"
+      }
+    ],
+    "evidence": "live article / author profile"
+  },
+  {
+    "title": "From Zero to Interplanetary Hero",
+    "url": "https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427",
+    "canonical_url": "https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427/",
+    "date": "2018-06-21",
+    "authors": [
+      "freeCodeCamp"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427"
+    ],
+    "http_status": 200,
+    "final_url": "https://www.freecodecamp.org/news/from-zero-to-interplanetary-hero-7e62f7d4427",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/DAPP",
+        "text": "ĐApps"
+      },
+      {
+        "url": "https://www.ethereum.org/",
+        "text": "Etherium blockchain"
+      },
+      {
+        "url": "https://ipfs.io/",
+        "text": "Interplanatary File System (IPFS)"
+      },
+      {
+        "url": "https://blog.ipfs.io/35-ipfs-companion-2-2-0/#hn2",
+        "text": "IPFS browser tools"
+      },
+      {
+        "url": "https://xkcd.com/",
+        "text": "xkcd"
+      },
+      {
+        "url": "https://xkcd.com/",
+        "text": "xkcd website"
+      },
+      {
+        "url": "https://archives.ipfs.io/",
+        "text": "the IPFS archives"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Link_rot",
+        "text": "link rot"
+      },
+      {
+        "url": "https://twitter.com/home?status=The%20more%20we%20access%20and%20use%20things%20on%20the%20distributed%20web%20via%20IPFS,%20the%20more%20likely%20they%20are%20to%20stick%20around%20long-term%20-%20%40carsonfarmer%20https%3A//medium.com/%40carsonfarmer/from-zero-to-interplanetary-hero-7e62f7d4427",
+        "text": "tweet it"
+      },
+      {
+        "url": "https://filecoin.io/",
+        "text": "Filecoin"
+      },
+      {
+        "url": "https://coincentral.com/filecoin-beginners-guide-largest-ever-ico/",
+        "text": "filecoin world"
+      },
+      {
+        "url": "https://github.com/textileio/xkcd-dapp-demo",
+        "text": "Textile GitHub repo"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HUVmypx9HGI",
+        "text": "watch this great video"
+      },
+      {
+        "url": "https://ipfs.carsonfarmer.com/ipfs/QmYDEzjNKm6ZMCmQVVRAJqPnGL2H7c4EK81LBTK3GC4kCh/",
+        "text": "‘live’ version here"
+      },
+      {
+        "url": "https://github.com/textileio/dapp-template",
+        "text": "Dapp Template"
+      },
+      {
+        "url": "https://github.com/textileio/dapp-template/blob/carson/xkcd-demo/package.json",
+        "text": "dependencies"
+      },
+      {
+        "url": "https://www.textile.io/",
+        "text": "get in touch"
+      },
+      {
+        "url": "https://github.com/ipfs-shipyard/ipfs-companion",
+        "text": "IPFS Companion"
+      },
+      {
+        "url": "https://github.com/ipfs/js-ipfs",
+        "text": "JavaScript IPFS peer"
+      },
+      {
+        "url": "https://unpkg.com/ipfs/dist/index.min.js",
+        "text": "latest version of IPFS"
+      },
+      {
+        "url": "https://ipfs.io/ipfs/QmWEAXcqwq5zY2u8Z1mii5m3MXricctd7efFep7sSEWZQz",
+        "text": "from our archive"
+      },
+      {
+        "url": "https://github.com/textileio/xkcd-dapp-demo",
+        "text": "xkcd-dapp-demo"
+      },
+      {
+        "url": "https://ipfs.io/ipfs/QmWEAXcqwq5zY2u8Z1mii5m3MXricctd7efFep7sSEWZQz/about.html",
+        "text": "proper attribution"
+      },
+      {
+        "url": "https://ipfs.io/ipfs/QmWEAXcqwq5zY2u8Z1mii5m3MXricctd7efFep7sSEWZQz/license.html",
+        "text": "license information"
+      },
+      {
+        "url": "https://davidwalsh.name/async-await",
+        "text": "async/await patterns"
+      },
+      {
+        "url": "https://github.com/textileio/dapp-template",
+        "text": "our template"
+      },
+      {
+        "url": "https://www.textile.io/",
+        "text": "Textile"
+      },
+      {
+        "url": "https://github.com/textileio/dapp-template/blob/master/README.md",
+        "text": "our template repo"
+      },
+      {
+        "url": "https://www.textile.photos/",
+        "text": "check us out"
+      },
+      {
+        "url": "https://www.producthunt.com/upcoming/textile-photos",
+        "text": "Textile Photos waitlist"
+      }
+    ],
+    "evidence": "live article / author profile"
+  }
+]

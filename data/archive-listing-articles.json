@@ -1,0 +1,533 @@
+[
+  {
+    "url": "https://blog.textile.io/win-fil-250-with-filecoin-auctions",
+    "title": "$FIL 250 up for grabs with Filecoin Auctions",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/native-filecoin-storage-for-blockchains",
+    "title": "Textile unveils plans to bring native Filecoin storage to NEAR, ETH, Polygon, and others",
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer",
+      "Aaron Sutula"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/local-first-threaddb",
+    "title": "Local-first ThreadDB for JavaScript",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/powergate-v2-0-0-is-here",
+    "title": "Powergate v2.0.0 is here!",
+    "authors": [
+      "Ignacio Hagopian"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-winners-of-the-2021-filecoin-auction-challenge",
+    "title": "Announcing the winners of the 2021 Filecoin Auction Challenge",
+    "authors": [
+      "Andrew Hill",
+      "Joe Wagner",
+      "Aaron Sutula"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/bridges-get-a-boost",
+    "title": "Bridges get a boost!",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/win-fil-250-with-filecoin-auctions",
+    "title": "$FIL 250 up for grabs with Filecoin Auctions",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/make-bidbot-your-bot",
+    "title": "Auctions Update: Bidbot upgrade plus a way to win big!",
+    "authors": [
+      "Carson Farmer",
+      "Merlin Ran"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/filecoin-polygon-bridge-release",
+    "title": "Textile launches the first Filecoin storage bridge on Polygon, and it's free",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/launching-the-filecoin-bridge-on-near-mainnet-with-free-and-scalable-storage-for-developers",
+    "title": "Launching the Filecoin bridge on NEAR Mainnet with free and scalable storage for developers",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/storage-legos-an-update-on-filecoin-deal-auctions",
+    "title": "Storage legos: an update on Filecoin deal auctions",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/adding-filecoin-support-to-near-dapp",
+    "title": "Adding Filecoin support to your NEAR dApp, the easy way",
+    "authors": [
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/native-filecoin-storage-for-blockchains",
+    "title": "Textile unveils plans to bring native Filecoin storage to NEAR, ETH, Polygon, and others",
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer",
+      "Aaron Sutula"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-storage-auctions-filecoin",
+    "title": "Introducing Storage Auctions on Filecoin: First Releases from Textile’s Upcoming Auctioneer Stack",
+    "authors": [
+      "Andrew Hill",
+      "Merlin Ran",
+      "Ignacio Hagopian",
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20220121104744id_/https://blog.textile.io/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/win-fil-250-with-filecoin-auctions",
+    "title": "$FIL 250 up for grabs with Filecoin Auctions",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/native-filecoin-storage-for-blockchains",
+    "title": "Textile unveils plans to bring native Filecoin storage to NEAR, ETH, Polygon, and others",
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer",
+      "Aaron Sutula"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/local-first-threaddb",
+    "title": "Local-first ThreadDB for JavaScript",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/powergate-v2-0-0-is-here",
+    "title": "Powergate v2.0.0 is here!",
+    "authors": [
+      "Ignacio Hagopian"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-miner-index",
+    "title": "Introducing the Filecoin Miner Index and Calculator",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/creating-non-custodial-portfolio-management",
+    "title": "A path towards non-custodial portfolio management",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/building-better-video-technology-for-classrooms-with-filecoin",
+    "title": "Building decentralized video conferencing catered towards education: an introduction to Huddle 01",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/local-first-threaddb",
+    "title": "Local-first ThreadDB for JavaScript",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/ethden-2021-is-here-over-5000-in-bounties-for-building-with-us",
+    "title": "EthDen 2021 is here! Over $5000 in bounties for building with us.",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/the-future-of-ipld",
+    "title": "IPLD + Web Standards = Good!",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/powergate-v2-0-0-is-here",
+    "title": "Powergate v2.0.0 is here!",
+    "authors": [
+      "Ignacio Hagopian"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-going-virtual-at-ethdenver",
+    "title": "Textile going virtual with EthDenver",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/import-textile-es-modules",
+    "title": "import @textile: Textile Javascript gets ES Module support",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-filecoin-data-transfer-service",
+    "title": "Announcing the Filecoin Data Transfer Service private beta",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "date": null,
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20211205045229id_/https://blog.textile.io/page/2/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  }
+]

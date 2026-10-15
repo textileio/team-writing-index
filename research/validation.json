@@ -1,0 +1,29 @@
+{
+  "checked": "2026-10-15",
+  "checks": {
+    "current_paragraph_posts": {
+      "expected_urls": 128,
+      "all_accounted_for": true
+    },
+    "ceramic_posts": {
+      "expected_urls": 153,
+      "all_accounted_for": true
+    },
+    "substack_posts": {
+      "expected_urls": 23,
+      "all_accounted_for": true
+    },
+    "historical_textile_medium_records": {
+      "expected_urls": 261,
+      "all_catalogued_or_flagged": true
+    },
+    "historical_3box_medium_records": {
+      "expected_urls": 78,
+      "all_catalogued_or_flagged": true
+    },
+    "metadata_schema": true,
+    "local_markdown_links": true,
+    "confirmed_and_unresolved_disjoint": true,
+    "article_bodies_excluded": true
+  }
+}

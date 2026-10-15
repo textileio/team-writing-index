@@ -1,0 +1,1770 @@
+[
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/tutorial--setting-up-an-ipfs-peer--part-iii",
+    "title": "Tutorial: Setting up an IPFS peer, part III",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/from-zero-to-interplanetary-hero",
+    "title": "From Zero to Interplanetary Hero",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/decentralized-code-distribution-for-the-future-of-open-source",
+    "title": "Decentralized code distribution for the future of open source",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/the-pioneer-s-guide-to-gx---decentralized-dependency-management-on-ipfs",
+    "title": "The pioneer’s guide to GX — decentralized dependency management on IPFS",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/tutorial--setting-up-an-ipfs-peer--part-ii",
+    "title": "Tutorial: Setting up an IPFS peer, part II",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/tutorial--setting-up-an-ipfs-peer--part-i",
+    "title": "Tutorial: Setting up an IPFS peer, part I",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/building-an-interplanetary--app-from-scratch",
+    "title": "Building an interplanetary ĐApp from scratch",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/enabling-the-distributed-web",
+    "title": "Enabling the distributed web",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/your-digital-self---why-you-should-keep-every-byte-you-create",
+    "title": "Your digital self — why you should keep every byte you create",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/a-short-trip-to-jupyter-via-the-inter-planetary-file-system",
+    "title": "A short trip to Jupyter via the Inter-planetary File System",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083812/https://blog.textile.io/page/10/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/adding-the-next-million-peers-to-ipfs",
+    "title": "Adding the next million peers to IPFS",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/a-day-in-the-life-of-a-digital-photo",
+    "title": "A day in the life of a digital photo",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/your-photos--decentralized-and-encrypted---a-first-look-at-the-tech-inside-textile-photos",
+    "title": "Your photos, decentralized and encrypted — a first look at the tech inside Textile Photos",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/quickly-return--deletefacebook-photo-export-back-to-nicely-named-galleries",
+    "title": "Quickly return #DeleteFacebook photo export back to nicely named galleries",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/build-your-first-set-app-using-mvvm-and-rxswift",
+    "title": "Build Your First Set App Using MVVM and RxSwift",
+    "date": null,
+    "authors": [
+      "Aaron Sutula"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084149/https://blog.textile.io/page/11/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/-1-5-million-in-funding-and-the-start-of-a-new-chapter",
+    "title": "$1.5 Million in Funding and the Start of a New Chapter",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---june-2019",
+    "title": "Textile Update | June 2019",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/ipfs-camp-2019--the-highlights-and-takeaways",
+    "title": "IPFS Camp 2019: The Highlights and Takeaways",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-android-sdk",
+    "title": "Introducing the Textile Android SDK",
+    "date": null,
+    "authors": [
+      "Aaron Sutula"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/decentralized--offline-first--cmd-line-chat-app-in---100-lines-of-code",
+    "title": "Decentralized, offline-first, cmd-line chat app in < 100 lines of code",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-",
+    "title": "Textile’s network of cafes are now open to developers!",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-sdk-for-ios",
+    "title": "Introducing the Textile SDK for iOS",
+    "date": null,
+    "authors": [
+      "Aaron Sutula"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-javascript-client",
+    "title": "Introducing the Textile Javascript Client",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/how-to-start-contributing-to-textile-photos",
+    "title": "How to Start Contributing to Textile Photos",
+    "date": null,
+    "authors": [
+      "Thomas Hobohm"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-a-tour-of-textile",
+    "title": "Introducing a Tour of Textile",
+    "date": null,
+    "authors": [
+      "Carson Farmer",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200227081204/https://blog.textile.io/page/3/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/ipfs-experiments-creating-ipfs-links-that-you-can-delete",
+    "title": "Exploding IPFS data — enabling single use links, expiring links and more through a simple link shortening service.",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/threads-v0-2-community-update",
+    "title": "Threads V0.2 Community Update",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/commit-porto-2019",
+    "title": "Commit Porto - Building unstoppable apps using IPFS",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/ipfs-libp2p-help-desk-coming-to-ethberlin",
+    "title": "The IPFS / LibP2P Help Desk is coming to ETHBerlin",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/a-tools-and-a-new-look-for-textile-io",
+    "title": "New tools and a new look for textile.io",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/altconf-2019-adding-ipfs-to-your-apps",
+    "title": "AltConf 2019 - Adding IPFS to your Apps",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/how-the-ipfs--dht-works",
+    "title": "Interplanetary Hash Tables…",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/building-peer-to-peer-games-on-ipfs---a-look-at-interplanetary-tag",
+    "title": "Building peer-to-peer games on IPFS — a look at Interplanetary Tag",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/-1-5-million-in-funding-and-the-start-of-a-new-chapter",
+    "title": "$1.5 Million in Funding and the Start of a New Chapter",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---june-2019",
+    "title": "Textile Update | June 2019",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084101/https://blog.textile.io/page/4/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/ipfs-camp-2019--the-highlights-and-takeaways",
+    "title": "IPFS Camp 2019: The Highlights and Takeaways",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-android-sdk",
+    "title": "Introducing the Textile Android SDK",
+    "date": null,
+    "authors": [
+      "Aaron Sutula"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/decentralized--offline-first--cmd-line-chat-app-in---100-lines-of-code",
+    "title": "Decentralized, offline-first, cmd-line chat app in < 100 lines of code",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-s-network-of-cafes-are-now-open-to-developers-",
+    "title": "Textile’s network of cafes are now open to developers!",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-sdk-for-ios",
+    "title": "Introducing the Textile SDK for iOS",
+    "date": null,
+    "authors": [
+      "Aaron Sutula"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-javascript-client",
+    "title": "Introducing the Textile Javascript Client",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/how-to-start-contributing-to-textile-photos",
+    "title": "How to Start Contributing to Textile Photos",
+    "date": null,
+    "authors": [
+      "Thomas Hobohm"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-a-tour-of-textile",
+    "title": "Introducing a Tour of Textile",
+    "date": null,
+    "authors": [
+      "Carson Farmer",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/omgoodness-it-s-may--here-s-the-textile-april-update-",
+    "title": "OMGoodness it’s May! Here’s the Textile April update.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/building-the-firebase-for-crdts",
+    "title": "Building the Firebase for CRDTs",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083934/https://blog.textile.io/page/5/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---march-2019",
+    "title": "Textile Update | March 2019",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-desktop-series",
+    "title": "Introducing the Textile Desktop Series",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-notes--a-minimalist-tool-for-your-creative-ideas",
+    "title": "Textile Notes: A minimalist tool for your creative ideas",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/carson-farmer-on-ipfs---the-essential-reading-list",
+    "title": "Carson Farmer on IPFS — The essential reading list",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-makes-it-easy-to-run-ipfs-peers-in-your-mobile-apps",
+    "title": "Textile makes it easy to run IPFS peers in your mobile apps",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---february-2019",
+    "title": "Textile Update | February 2019",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-textile-mobile-sdk",
+    "title": "Introducing the Textile Mobile SDK",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---january-2019",
+    "title": "Textile Update | January 2019",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/take-back-your-facebook---instagram-posts",
+    "title": "Take back your Facebook & Instagram posts",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-photos-release-version-0-5-0",
+    "title": "Textile Photos Release Version 0.5.0",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083930/https://blog.textile.io/page/6/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---december-2018",
+    "title": "Textile Update | December 2018",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/easy-personal-ipfs-pinning-service-with-textile",
+    "title": "Easy personal IPFS pinning service with Textile",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/building-a-simple-decentralized-version-control-system-with-ipfs---textile",
+    "title": "Building a simple decentralized version control system with IPFS + Textile",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/showing-how-textile-s-framework-can-help-transmit-meaningful-data-over-ipfs",
+    "title": "Showing how Textile’s framework can help transmit meaningful data over IPFS",
+    "date": null,
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---november-2018",
+    "title": "Textile Update | November 2018",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/easy-integrations-with-textile-thread-streams",
+    "title": "Easy integrations with Textile Thread streams",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/quick-look--textile-files-and-schemas",
+    "title": "Quick Look: Textile Files and Schemas",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/this-single-page-web-app-can-edit-itself",
+    "title": "This single-page web app can edit itself",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---october-2018",
+    "title": "Textile Update | October 2018",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/a-deeper-look-at-the-tech-behind-textile-s-threads",
+    "title": "A deeper look at the tech behind Textile’s Threads",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083817/https://blog.textile.io/page/7/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/the-5-steps-to-end-to-end-encrypted-photo-storage-and-sharing",
+    "title": "The 5 steps to end-to-end encrypted photo storage and sharing",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---september-2018",
+    "title": "Textile Update | September 2018",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/build-a-decentralized-chat-app-with-knockout-and-ipfs",
+    "title": "Build a Decentralized Chat App with Knockout and IPFS",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/walking-the-dweb-walk",
+    "title": "Walking the DWeb walk",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/five-projects-that-are-decentralizing-the-web-in-slightly-different-ways",
+    "title": "Five projects that are decentralizing the web in slightly different ways",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/an-interview-with-textile",
+    "title": "An Interview with Textile",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/in-the-news-",
+    "title": "In the news…",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---new-video-with-chinese-subtitles---other-news",
+    "title": "Textile Update | New video with Chinese subtitles & other news",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/swapping-bits-and-distributing-hashes-on-the-decentralized-web",
+    "title": "Swapping bits and distributing hashes on the decentralized web",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-presents-at-first-ever--ai-and-ipfs-summit--in-china",
+    "title": "Textile presents at first ever “AI and IPFS Summit” in China",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829083823/https://blog.textile.io/page/8/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/introducing-textiles-user-mailboxes-send-messages-between-users-or-any-public-key-owners",
+    "title": "Introducing the User Mailbox API - Send messages between any users or public key owners",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-the-textile-protocol-hub",
+    "title": "Introducing the Hub - a collection of tools to build and scale decentralized apps.",
+    "date": null,
+    "authors": [
+      "Andrew Hill",
+      "Sander Pick",
+      "Ignacio Hagopian",
+      "Aaron Sutula",
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/what-s-really-happening-when-you-add-a-file-to-ipfs-",
+    "title": "What’s really happening when you add a file to IPFS?",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/the-definitive-guide-to-publishing-content-on-the-decentralized-web",
+    "title": "The definitive guide to publishing content on the decentralized web",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/textile-update---august-2018",
+    "title": "Textile Update | August 2018",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/summer-2018-community-update",
+    "title": "Summer 2018 Community Update",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/decentralized-web-summit-2018-free-student-giveaway",
+    "title": "Decentralized Web Summit 2018 Free Student Giveaway",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/crypto-decentralized-blogs-we-re-following-right-now",
+    "title": "Crypto/Decentralized blogs we’re following right now",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/how-ipfs-peer-nodes-identify-each-other-on-the-distributed-web",
+    "title": "How IPFS peer nodes identify each other on the distributed web",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/announcing-textile-build---a-free-online-workshop",
+    "title": "Announcing Textile Build — A Free Online Workshop",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/tutorial--setting-up-an-ipfs-peer--part-iv",
+    "title": "Tutorial: Setting up an IPFS peer, part IV",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://blog.textile.io/tutorial-series--setting-up-an-ipfs-peer",
+    "title": "Tutorial Series: Setting up an IPFS peer",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile historical blog",
+    "sources": [
+      "https://web.archive.org/web/20200829084059/https://blog.textile.io/page/9/"
+    ],
+    "evidence": "archived publication listing",
+    "http_status": null,
+    "archive_url": null,
+    "links": [],
+    "checked": "2026-10-15"
+  }
+]

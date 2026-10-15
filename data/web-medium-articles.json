@@ -1,0 +1,396 @@
+[
+  {
+    "url": "https://medium.com/textileio/airsecure-own-your-one-time-passwords-a65efd612dc6",
+    "title": "AirSecure — Own Your One-Time Passwords",
+    "date": "2019-02-27",
+    "authors": [
+      "Cody Hatfield"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/airsecure-own-your-one-time-passwords-a65efd612dc6"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/a-lightweight-accelerated-matrix-library-for-swift-dfc8ab43477e",
+    "title": "A lightweight ‘Accelerated’ matrix library for Swift",
+    "date": "2017-11-30",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/a-lightweight-accelerated-matrix-library-for-swift-dfc8ab43477e"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/a-day-in-the-life-of-a-digital-photo-a64a496fbfe8",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/a-day-in-the-life-of-a-digital-photo-a64a496fbfe8"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/1-5-million-in-funding-and-the-start-of-a-new-chapter-439a23682df",
+    "title": "$1.5 Million in Funding and the Start of a New Chapter",
+    "date": "2019-07-11",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/1-5-million-in-funding-and-the-start-of-a-new-chapter-439a23682df"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/altconf-2019-adding-ipfs-to-your-apps-2af9ba212e1d",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/altconf-2019-adding-ipfs-to-your-apps-2af9ba212e1d"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b",
+    "title": "Build a Decentralized Chat App with Knockout and IPFS",
+    "date": "2018-09-28",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/an-interview-with-textile-6d52632f611b",
+    "title": "An Interview with Textile",
+    "date": "2018-09-13",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/an-interview-with-textile-6d52632f611b"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/building-a-simple-decentralized-version-control-system-with-ipfs-textile-8135e9557f78",
+    "title": "Building a simple decentralized version control system with IPFS + Textile",
+    "date": "2018-12-20",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/building-a-simple-decentralized-version-control-system-with-ipfs-textile-8135e9557f78"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/announcing-textile-build-a-free-online-workshop-27472fd5d913",
+    "title": "Announcing Textile Build — A Free Online Workshop",
+    "date": "2018-07-02",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/announcing-textile-build-a-free-online-workshop-27472fd5d913"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/building-an-interplanetary-đapp-from-scratch-51f9b8be5a74",
+    "title": "Building an interplanetary ĐApp from scratch",
+    "date": "2018-06-14",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/building-an-interplanetary-đapp-from-scratch-51f9b8be5a74"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/building-the-firebase-for-crdts-7dd8dea8953a",
+    "title": "Building the Firebase for CRDTs",
+    "date": "2019-05-03",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/building-the-firebase-for-crdts-7dd8dea8953a"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/building-peer-to-peer-games-on-ipfs-a-look-at-interplanetary-tag-52d081ee1d32",
+    "title": "Building peer-to-peer games on IPFS — a look at Interplanetary Tag",
+    "date": "2019-07-15",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/building-peer-to-peer-games-on-ipfs-a-look-at-interplanetary-tag-52d081ee1d32"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/decentralized-code-distribution-for-the-future-of-open-source-2dc58f1153b2",
+    "title": "Decentralized code distribution for the future of open source",
+    "date": "2018-06-21",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/decentralized-code-distribution-for-the-future-of-open-source-2dc58f1153b2"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/decentralized-offline-first-cmd-line-chat-app-in-100-lines-of-code-43ed71a70950",
+    "title": "Decentralized, offline-first, cmd-line chat app in < 100 lines of code",
+    "date": "2019-06-05",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/decentralized-offline-first-cmd-line-chat-app-in-100-lines-of-code-43ed71a70950"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/carson-farmer-on-ipfs-the-essential-reading-list-57c978cfb951",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/carson-farmer-on-ipfs-the-essential-reading-list-57c978cfb951"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/easy-integrations-with-textile-thread-streams-7f1e3ce5c9b4",
+    "title": "Easy integrations with Textile Thread subscriptions",
+    "date": "2018-12-04",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/easy-integrations-with-textile-thread-streams-7f1e3ce5c9b4"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/early-stage-startup-planning-in-uncertain-times-52b2b9f8839b",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/early-stage-startup-planning-in-uncertain-times-52b2b9f8839b"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/enabling-the-distributed-web-abf7ab33b638",
+    "title": "Enabling the distributed web",
+    "date": "2018-06-12",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/enabling-the-distributed-web-abf7ab33b638"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/easy-personal-ipfs-pinning-service-with-textile-9d366da4e420",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/easy-personal-ipfs-pinning-service-with-textile-9d366da4e420"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/decentralized-web-summit-2018-free-student-giveaway-3881989a5dd1",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/decentralized-web-summit-2018-free-student-giveaway-3881989a5dd1"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets-33a0a0b89299",
+    "title": null,
+    "date": null,
+    "authors": [],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/ethden-using-ci-to-publish-your-webpage-using-ipfs-and-textile-buckets-33a0a0b89299"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": false
+  },
+  {
+    "url": "https://medium.com/textileio/how-to-start-contributing-to-textile-photos-b626c3f63493",
+    "title": "How to Start Contributing to Textile Photos",
+    "date": "2019-05-20",
+    "authors": [
+      "Thomas Hobohm"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/how-to-start-contributing-to-textile-photos-b626c3f63493"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/how-ipfs-peer-nodes-identify-each-other-on-the-distributed-web-8b5b6476aa5e",
+    "title": "How IPFS peer nodes identify each other on the distributed web",
+    "date": "2018-07-10",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/how-ipfs-peer-nodes-identify-each-other-on-the-distributed-web-8b5b6476aa5e"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  },
+  {
+    "url": "https://medium.com/textileio/how-the-ipfs-dht-works-47af8bfd3c6a",
+    "title": "Interplanetary Hash Tables…",
+    "date": "2019-07-18",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/how-the-ipfs-dht-works-47af8bfd3c6a"
+    ],
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": [],
+    "evidence": "public web reader",
+    "metadata_verified": true
+  }
+]

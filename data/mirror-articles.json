@@ -1,0 +1,2348 @@
+[
+  {
+    "title": "Weeknotes: November 6, 2023",
+    "url": "https://paragraph.com/@tableland/weeknotes-november-6,-2023",
+    "canonical_url": "https://paragraph.com/@tableland/weeknotes-november-6%2C-2023",
+    "date": "2023-11-06",
+    "authors": [
+      "Textile Team"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland/weeknotes-november-6,-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/marlanat27",
+        "text": "Marla Natoli"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/jxWM36j7OaW4plfTlpQpgRrIDuth75lJhVjj0BiFwBA",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/andrewxhill",
+        "text": "Andrew Hill"
+      },
+      {
+        "url": "https://gist.github.com/andrewxhill/107e343e676351b39db65910aa3d78d7",
+        "text": "here"
+      },
+      {
+        "url": "https://gist.github.com/andrewxhill/107e343e676351b39db65910aa3d78d7",
+        "text": "gist"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/cloudflare/workerd/blob/main/types/defines/d1.d.ts",
+        "text": "updated the D1Database"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://istanbul2023.ipfsconnect.org/",
+        "text": "IPFS Connect Istanbul"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/rebuild-ownership-2/detail",
+        "text": "Rebuild Ownership 2.0: Internet Privacy"
+      },
+      {
+        "url": "https://devconnect.org/",
+        "text": "Devconnect"
+      },
+      {
+        "url": "https://23.labweek.io/",
+        "text": "LabWeek"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ]
+  },
+  {
+    "title": "Weeknotes: October 30, 2023",
+    "url": "https://paragraph.com/@tableland/weeknotes-october-30,-2023",
+    "canonical_url": "https://paragraph.com/@tableland/weeknotes-october-30%2C-2023",
+    "date": "2023-10-30",
+    "authors": [
+      "Textile Team"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland/weeknotes-october-30,-2023",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/avichalp",
+        "text": "Avichal Pandey"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "basin cli"
+      },
+      {
+        "url": "https://github.com/jackc/pgx",
+        "text": "pgx"
+      },
+      {
+        "url": "https://github.com/jackc/pglogrepl",
+        "text": "pglogrepl"
+      },
+      {
+        "url": "https://github.com/sfackler/rust-postgres",
+        "text": "rust-postgres"
+      },
+      {
+        "url": "https://github.com/sfackler/rust-postgres/pull/778",
+        "text": "pull"
+      },
+      {
+        "url": "https://github.com/sfackler/rust-postgres/pull/696",
+        "text": "requests"
+      },
+      {
+        "url": "https://github.com/MaterializeInc/rust-postgres",
+        "text": "rust-postgres"
+      },
+      {
+        "url": "https://github.com/seddonm1/logicaldecoding",
+        "text": "logical decoding"
+      },
+      {
+        "url": "https://github.com/seddonm1",
+        "text": "@seddonm1"
+      },
+      {
+        "url": "https://github.com/debezium/postgres-decoderbufs",
+        "text": "decoderbuf"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/pglogrepl-rust",
+        "text": "repository"
+      },
+      {
+        "url": "https://github.com/eulerto/wal2json",
+        "text": "wal2json"
+      },
+      {
+        "url": "https://duckdb.org/",
+        "text": "DuckDB"
+      },
+      {
+        "url": "https://www.postgresql.org/docs/current/logical-replication-publication.html#LOGICAL-REPLICATION-PUBLICATION",
+        "text": "publications"
+      },
+      {
+        "url": "https://www.postgresql.org/docs/current/logical-replication-subscription",
+        "text": "slots"
+      },
+      {
+        "url": "https://www.postgresql.org/docs/current/protocol-replication.html",
+        "text": "messages"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin CLI"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/zuko-cx92f",
+        "text": "Zuko"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/vibecheck-ohj87",
+        "text": "Vibecheck"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/web3agent-t6vjn",
+        "text": "Web3Agent"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/deano-t0hn9",
+        "text": "Deano"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/one-click-dapp-euzqw",
+        "text": "One Click dApp"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/super-assistant-oxsux",
+        "text": "Super Assistant"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/pop-b0avo",
+        "text": "POP!"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/bwise-j8o9e",
+        "text": "Bwise"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/qryptopost-foytg",
+        "text": "Qryptopost"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/trustbytes-mg2qr",
+        "text": "TrustBytes"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/adora-promo-ia4yu",
+        "text": "Adora.Promo"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/console-gutbc",
+        "text": "#console"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/multideploy-epzn6",
+        "text": "MultiDeploy"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/nebula-vos6a",
+        "text": "NEBULA"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/loyo-05xdt",
+        "text": "Loyo"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/zeppelinfinance-gvawn",
+        "text": "ZeppelinFinance"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/guestbook-unwpw",
+        "text": "guestbook"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/agraa-23k5o",
+        "text": "AGRAA"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/cabal-sorel-uwvfa",
+        "text": "Cabal Sorel"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/gitraven-ighb8",
+        "text": "GitRaven"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/theregistry-fj5rt",
+        "text": "TheRegistry"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/early-adopters-space-75zww",
+        "text": "Early Adopters Space"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/galoisguilds-ofxdi",
+        "text": "GaloisGuilds"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/3jocks-ywshn",
+        "text": "3Jocks"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/walletpass-ejhf5",
+        "text": "WalletPass"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/token-tutor-bfyx4",
+        "text": "Token Tutor"
+      },
+      {
+        "url": "https://ethglobal.com/showcase/govchainboard-x64wa",
+        "text": "GovChainBoard"
+      },
+      {
+        "url": "https://dorahacks.io/hackathon/rebuild-ownership-2/detail",
+        "text": "Dataverse"
+      },
+      {
+        "url": "https://github.com/jkosem",
+        "text": "Jim Kosem"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)",
+        "text": "Double Diamond design process"
+      },
+      {
+        "url": "https://github.com/dtbuchholz",
+        "text": "Dan Buchholz"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Tableland Basin"
+      },
+      {
+        "url": "https://calendly.com/carsonfarmer/research-office-hours",
+        "text": "research office hours"
+      },
+      {
+        "url": "https://calendly.com/dan-buchholz/dev-office-hours",
+        "text": "developer office hours"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/weeknotes/issues",
+        "text": "issue over in GitHub"
+      }
+    ]
+  },
+  {
+    "title": "Announcing Pilot Program 3",
+    "url": "https://paragraph.com/@tableland-2/announcing-pilot-program-3",
+    "canonical_url": "https://paragraph.com/@tableland-2/announcing-pilot-program-3",
+    "date": "2022-12-21",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/announcing-pilot-program-3",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://bit.ly/3FHQVWG",
+        "text": "Click here to apply."
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/Xav7NwpeXeqVETl576THWjuuevX4BVIbskrxz4k7BV0",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/js-tableland",
+        "text": "JavaScript / TypeScript SDK"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/js-tableland-cli",
+        "text": "CLI"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/evm-tableland",
+        "text": "smart contracts"
+      },
+      {
+        "url": "https://dev.tableland.xyz/blog/engineering-updates-dec-2022",
+        "text": "here"
+      }
+    ]
+  },
+  {
+    "title": "Basin Vaults Tracker: web3.py & GitHub Actions to Parse Contract Events for New Vaults",
+    "url": "https://paragraph.com/@tableland-2/basin-vaults-tracker-web3-py-github-actions-to-parse-contract-events-for-new-vaults",
+    "canonical_url": "https://paragraph.com/@tableland-2/basin-vaults-tracker-web3-py-github-actions-to-parse-contract-events-for-new-vaults",
+    "date": "2024-02-01",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/basin-vaults-tracker-web3-py-github-actions-to-parse-contract-events-for-new-vaults",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-storage/blob/main/evm/basin_storage/src/BasinStorage.sol",
+        "text": "Basin storage"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-provider/pull/17",
+        "text": "Basin HTTP API"
+      },
+      {
+        "url": "https://github.com/textileio/demo-vault-tracker",
+        "text": "https://github.com/textileio/demo-vault-tracker"
+      },
+      {
+        "url": "https://web3py.readthedocs.io/en/stable/",
+        "text": "web3.py"
+      },
+      {
+        "url": "https://github.com/cookiecutter/cookiecutter",
+        "text": "cookiecutter"
+      },
+      {
+        "url": "https://github.com/sourcery-ai/python-best-practices-cookiecutter",
+        "text": "sourcery-ai"
+      },
+      {
+        "url": "http://web3.py",
+        "text": "web3.py"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/vaults-tracker/blob/main/Data.md",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin CLI"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://tableland.substack.com/",
+        "text": "here"
+      }
+    ]
+  },
+  {
+    "title": "Blobs, transient storage, & data availability: Tableland just became your cheap onchain SQL database",
+    "url": "https://paragraph.com/@tableland-2/blobs-transient-storage-data-availability-tableland-just-became-your-cheap-onchain-sql-database",
+    "canonical_url": "https://paragraph.com/@tableland-2/blobs-transient-storage-data-availability-tableland-just-became-your-cheap-onchain-sql-database",
+    "date": "2024-03-13",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/blobs-transient-storage-data-availability-tableland-just-became-your-cheap-onchain-sql-database",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://www.eip4844.com/",
+        "text": "EIP-4844"
+      },
+      {
+        "url": "https://twitter.com/Rjected/status/1767928246614499812/photo/1",
+        "text": "someone posted the entire Bee Movie script"
+      },
+      {
+        "url": "https://etherscan.io/tx/0x110d6d8888ced3615a7ca07d91acd9eebc4e61f669d83fd2e7f42de1ac7d39a3",
+        "text": "around $14 for it in transaction fees"
+      }
+    ]
+  },
+  {
+    "title": "Bridging Real and Virtual Worlds: Showcasing the Open Data Hack Winner '3D Print Near Me'",
+    "url": "https://paragraph.com/@tableland-2/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "canonical_url": "https://paragraph.com/@tableland-2/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "date": "2023-10-18",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/dominichackett/3dprintnearme/tree/opendatahack",
+        "text": "GitHub"
+      },
+      {
+        "url": "https://twitter.com/Dominichackett",
+        "text": "X"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/use-cases#application-data",
+        "text": "Tableland's role"
+      }
+    ]
+  },
+  {
+    "title": "Building a Secure, Verifiable Future for DePIN data: Introducing Our Partnership with DIMO and WeatherXM",
+    "url": "https://paragraph.com/@tableland-2/building-a-secure-verifiable-future-for-depin-data-introducing-our-partnership-with-dimo-and-weatherxm",
+    "canonical_url": "https://paragraph.com/@tableland-2/building-a-secure-verifiable-future-for-depin-data-introducing-our-partnership-with-dimo-and-weatherxm",
+    "date": "2023-08-31",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/building-a-secure-verifiable-future-for-depin-data-introducing-our-partnership-with-dimo-and-weatherxm",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "http://dimo.zone",
+        "text": "DIMO"
+      },
+      {
+        "url": "https://weatherxm.com/",
+        "text": "WeatherXM"
+      },
+      {
+        "url": "https://tableland.xyz/",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://explorer.weatherxm.com/stats",
+        "text": "thousands of weather stations"
+      },
+      {
+        "url": "https://filecoin.io",
+        "text": "Filecoin"
+      },
+      {
+        "url": "https://tinyurl.com/yc8zh6zj",
+        "text": "Chat with one of our team members here"
+      }
+    ]
+  },
+  {
+    "title": "Data Availability: Reviewing  proof & storage approaches",
+    "url": "https://paragraph.com/@tableland-2/data-availability-reviewing-proof-storage-approaches",
+    "canonical_url": "https://paragraph.com/@tableland-2/data-availability-reviewing-proof-storage-approaches",
+    "date": "2024-04-04",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/data-availability-reviewing-proof-storage-approaches",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://docs.availproject.org/docs/the-avail-trinity/avail-da#taking-layer-2-data-off-chain",
+        "text": "Avail"
+      },
+      {
+        "url": "https://specs.optimism.io/experimental/plasma.html#da-storage",
+        "text": "plasma mode"
+      },
+      {
+        "url": "https://github.com/starkware-libs/ethSTARK/blob/master/rescue_stark_documentation.pdf",
+        "text": "STARK"
+      },
+      {
+        "url": "https://docs.starknet.io/documentation/architecture_and_concepts/Network_Architecture/on-chain-data/",
+        "text": "state diff"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/attestation/encoding.md#trustless-encoding-via-kzg-and-reed-solomon",
+        "text": "KZG commitments & Reed-Solomon erasure encoding"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#attestation-layer",
+        "text": "EigenDA produces a DA attestation"
+      },
+      {
+        "url": "https://docs.eigenlayer.xyz/eigenda/overview",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/Layr-Labs/eigenda/blob/master/docs/spec/overview.md#core-components",
+        "text": "some predefined period"
+      },
+      {
+        "url": "https://github.com/celestiaorg/nmt",
+        "text": "Namespaced Merkle Trees"
+      },
+      {
+        "url": "https://github.com/celestiaorg/CIPs/blob/main/cips/cip-4.md",
+        "text": "blocks within a 30-day window"
+      },
+      {
+        "url": "https://docs.celestia.org/learn/retrievability#suggested-practices-for-rollups",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.availproject.org/docs/operate-a-node/run-a-light-client/Overview#light-client",
+        "text": "KZG commitments + RS erasure encoding"
+      },
+      {
+        "url": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md#contextbackground",
+        "text": "some cutoff period."
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates",
+        "text": "Data Availability Certificates"
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-servers",
+        "text": "DA servers"
+      },
+      {
+        "url": "https://chronicle.castlecapital.vc/p/deepdive-data-availability",
+        "text": "https://chronicle.castlecapital.vc/p/deepdive-data-availability"
+      },
+      {
+        "url": "https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/",
+        "text": "https://blog.availproject.org/a-guide-to-selecting-the-right-data-availability-layer/"
+      },
+      {
+        "url": "https://docs.availproject.org/docs/the-avail-trinity/avail-da",
+        "text": "https://docs.availproject.org/docs/the-avail-trinity/avail-da"
+      },
+      {
+        "url": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md",
+        "text": "https://github.com/availproject/avail-uncharted/blob/main/grants/RFPs/RFP-003.md"
+      },
+      {
+        "url": "https://www.blog.eigenlayer.xyz/ycie/",
+        "text": "https://www.blog.eigenlayer.xyz/ycie/"
+      },
+      {
+        "url": "https://ethereum.org/en/developers/docs/data-availability",
+        "text": "https://ethereum.org/en/developers/docs/data-availability"
+      },
+      {
+        "url": "https://book.starknet.io/ch03-01-03-data-availability.html#recreating-starknets-state",
+        "text": "https://book.starknet.io/ch03-01-03-data-availability.html#recreating-starknets-state"
+      },
+      {
+        "url": "https://specs.optimism.io/experimental/plasma.html#da-storage",
+        "text": "https://specs.optimism.io/experimental/plasma.html#da-storage"
+      },
+      {
+        "url": "https://vitalik.eth.limo/general/2023/11/14/neoplasma.html",
+        "text": "https://vitalik.eth.limo/general/2023/11/14/neoplasma.html"
+      },
+      {
+        "url": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates",
+        "text": "https://docs.arbitrum.io/inside-anytrust#data-availability-certificates"
+      },
+      {
+        "url": "https://docs.celestia.org/learn/retrievability",
+        "text": "https://docs.celestia.org/learn/retrievability"
+      },
+      {
+        "url": "https://arxiv.org/abs/1809.09044",
+        "text": "https://arxiv.org/abs/1809.09044"
+      }
+    ]
+  },
+  {
+    "title": "Discord Roles from Chain-driven Application Data",
+    "url": "https://paragraph.com/@tableland-2/discord-roles-from-chain-driven-application-data",
+    "canonical_url": "https://paragraph.com/@tableland-2/discord-roles-from-chain-driven-application-data",
+    "date": "2023-08-10",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/discord-roles-from-chain-driven-application-data",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://www.vulcan.xyz/",
+        "text": "Vulcan"
+      },
+      {
+        "url": "https://www.vulcan.xyz/",
+        "text": "Vulcan"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/chains/",
+        "text": "support for a number of L1/L2 chains"
+      },
+      {
+        "url": "https://help.vulcan.xyz/custom-webhook",
+        "text": "custom webhooks"
+      },
+      {
+        "url": "https://docs.tableland.xyz/smart-contracts/",
+        "text": "smart contracts"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/",
+        "text": "Tableland SDK"
+      },
+      {
+        "url": "https://help.vulcan.xyz/custom-webhook",
+        "text": "custom webhooks"
+      },
+      {
+        "url": "https://docs.tableland.xyz/gateway-api",
+        "text": "Gateway API call"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/",
+        "text": "Tableland SDK"
+      },
+      {
+        "url": "https://vitejs.dev/",
+        "text": "Vite"
+      },
+      {
+        "url": "https://vercel.com/docs/concepts/functions/edge-functions",
+        "text": "Vercel Edge Functions"
+      },
+      {
+        "url": "https://tableland.xyz/rigs",
+        "text": "Flight Time (”FT”)"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/q95HrGD4n-5fkGgm8ONjA2Wmvz-dosQX7kAHLZYCIiQ",
+        "text": "token reputation"
+      },
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "Rigs NFT"
+      },
+      {
+        "url": "https://garage.tableland.xyz/",
+        "text": "The Garage application"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/L7POIOyHAx6A_BczcOQ_h_bY5iz1UzWAXKkEcEebtDU",
+        "text": "vote on proposals, weighted by FT"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/tree/main/garage/api/ft/%5Bfrom%5D/%5Bto%5D",
+        "text": "Rigs repo"
+      },
+      {
+        "url": "https://vercel.com/docs/concepts/functions/edge-functions",
+        "text": "Vercel Edge Functions"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Tableland Discord server"
+      },
+      {
+        "url": "https://discord.com/channels/592843512312102924/996917151208329317",
+        "text": "channel"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/tree/main/garage",
+        "text": "Rigs GitHub repo"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "follow on Twitter"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "hop into our Discord"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs",
+        "text": "repo"
+      },
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "OpenSea"
+      },
+      {
+        "url": "https://garage.tableland.xyz/",
+        "text": "The Garage"
+      }
+    ]
+  },
+  {
+    "title": "Evolution of the Tableland Pilot Program",
+    "url": "https://paragraph.com/@tableland-2/evolution-of-the-tableland-pilot-program",
+    "canonical_url": "https://paragraph.com/@tableland-2/evolution-of-the-tableland-pilot-program",
+    "date": "2022-12-21",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/evolution-of-the-tableland-pilot-program",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://bit.ly/3FHQVWG",
+        "text": "Click here to apply."
+      },
+      {
+        "url": "https://tableland.xyz/pilot-program/",
+        "text": "https://tableland.xyz/pilot-program/"
+      },
+      {
+        "url": "https://bit.ly/3FHQVWG",
+        "text": "https://bit.ly/3FHQVWG"
+      },
+      {
+        "url": "https://dev.tableland.xyz/showcase",
+        "text": "https://dev.tableland.xyz/showcase"
+      },
+      {
+        "url": "https://www.youtube.com/@tablelandxyz/videos",
+        "text": "YouTube channel"
+      }
+    ]
+  },
+  {
+    "title": "Farcaster Replicator: How to Further Decentralize the Stack with Textile",
+    "url": "https://paragraph.com/@tableland-2/farcaster-replicator-how-to-further-decentralize-the-stack-with-textile",
+    "canonical_url": "https://paragraph.com/@tableland-2/farcaster-replicator-how-to-further-decentralize-the-stack-with-textile",
+    "date": "2024-02-15",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/farcaster-replicator-how-to-further-decentralize-the-stack-with-textile",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://twitter.com/dwr/status/1755306700486381825",
+        "text": "https://twitter.com/dwr/status/1755306700486381825"
+      },
+      {
+        "url": "https://docs.farcaster.xyz/developers/guides/apps/replicate",
+        "text": "docs for more information"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.ipfs.tech/concepts/content-addressing/",
+        "text": "CIDs"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/hub-monorepo/tree/main/apps/replicator",
+        "text": "dtbuchholz/hub-monorepo"
+      },
+      {
+        "url": "https://hub.docker.com/repository/docker/dtbuchholz/textile-vaults-farcaster",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.farcaster.xyz/developers/guides/apps/replicate#installation",
+        "text": "here"
+      },
+      {
+        "url": "https://docs.farcaster.xyz/hubble/hubble#public-instances",
+        "text": "Farcaster team"
+      },
+      {
+        "url": "https://docs.docker.com/engine/install/",
+        "text": "Docker installed"
+      },
+      {
+        "url": "https://go.dev/doc/install",
+        "text": "make sure Go is installed"
+      },
+      {
+        "url": "https://duckdb.org/#quickinstall",
+        "text": "DuckDB"
+      },
+      {
+        "url": "https://i.imgur.com/I2rEbPF",
+        "text": "https://i.imgur.com/I2rEbPF"
+      },
+      {
+        "url": "https://nodejs.org/api/worker_threads.html",
+        "text": "workers"
+      }
+    ]
+  },
+  {
+    "title": "Fostering Verifiable Trust: Showcasing the Open Data Hack Winner 'Tableland Attestation Service'",
+    "url": "https://paragraph.com/@tableland-2/fostering-verifiable-trust-showcasing-the-open-data-hack-winner-tableland-attestation-service",
+    "canonical_url": "https://paragraph.com/@tableland-2/fostering-verifiable-trust-showcasing-the-open-data-hack-winner-tableland-attestation-service",
+    "date": "2023-10-18",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/fostering-verifiable-trust-showcasing-the-open-data-hack-winner-tableland-attestation-service",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://tas.vercel.app/",
+        "text": "website"
+      },
+      {
+        "url": "https://github.com/TAS-Protocol/TAS",
+        "text": "GitHub"
+      },
+      {
+        "url": "https://twitter.com/TAS_Protocol",
+        "text": "X"
+      },
+      {
+        "url": "https://twitter.com/LionisNick",
+        "text": "X"
+      },
+      {
+        "url": "https://discord.gg/NHZjTyzG",
+        "text": "Discord"
+      }
+    ]
+  },
+  {
+    "title": "Garage Voting: NFT Owner Reputation & Rewards",
+    "url": "https://paragraph.com/@tableland-2/garage-voting-nft-owner-reputation-rewards",
+    "canonical_url": "https://paragraph.com/@tableland-2/garage-voting-nft-owner-reputation-rewards",
+    "date": "2023-08-09",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/garage-voting-nft-owner-reputation-rewards",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "Tableland Rigs NFT"
+      },
+      {
+        "url": "https://garage.tableland.xyz/",
+        "text": "The Garage application"
+      },
+      {
+        "url": "https://tableland.xyz/rigs",
+        "text": "Flight Time (”FT”)"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/q95HrGD4n-5fkGgm8ONjA2Wmvz-dosQX7kAHLZYCIiQ",
+        "text": "token-based reputation"
+      },
+      {
+        "url": "https://snapshot.org/#/",
+        "text": "Snapshot"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/blob/main/ethereum/contracts/VotingRegistry.sol",
+        "text": "contract"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/blob/main/ethereum/contracts/IVotingRegistry.sol",
+        "text": "interface contract"
+      },
+      {
+        "url": "https://vitejs.dev/",
+        "text": "Vite"
+      },
+      {
+        "url": "https://vercel.com/",
+        "text": "Vercel"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/tree/main/garage",
+        "text": "the source code"
+      },
+      {
+        "url": "https://garage.tableland.xyz/",
+        "text": "Garage"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs",
+        "text": "Rigs GitHub repo"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/tree/main/ethereum/contracts",
+        "text": "ethereum"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/tree/main/garage",
+        "text": "garage"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/blob/main/ethereum/contracts/VotingRegistry.sol",
+        "text": "contract"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/blob/main/ethereum/contracts/IVotingRegistry.sol",
+        "text": "interface"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs/blob/main/ethereum/contracts/TablelandRigPilots.sol",
+        "text": "contract"
+      },
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "OpenSea"
+      },
+      {
+        "url": "https://garage.tableland.xyz",
+        "text": "The Garage app"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "follow on Twitter"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "hop into our Discord"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs",
+        "text": "Rigs GitHub repo"
+      }
+    ]
+  },
+  {
+    "title": "Introducing the Tableland NFT: Rigs",
+    "url": "https://paragraph.com/@tableland-2/introducing-the-tableland-nft-rigs",
+    "canonical_url": "https://paragraph.com/@tableland-2/introducing-the-tableland-nft-rigs",
+    "date": "2022-05-10",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/introducing-the-tableland-nft-rigs",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://tableland.xyz/",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "the Tableland protocol"
+      },
+      {
+        "url": "https://discord.gg/hpd5WWn4Ys",
+        "text": "in our Discord"
+      },
+      {
+        "url": "https://twitter.com/tableland__",
+        "text": "@tableland__"
+      },
+      {
+        "url": "https://twitter.com/tableland__",
+        "text": "@tableland__"
+      },
+      {
+        "url": "https://discord.gg/hpd5WWn4Ys",
+        "text": "Discord"
+      },
+      {
+        "url": "https://oddfellows.tv/work/",
+        "text": "Oddfellows"
+      },
+      {
+        "url": "https://www.instagram.com/chruskelly/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://twitter.com/wesleytrents",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://www.instagram.com/ericafellow/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://www.dennisdidthat.com/",
+        "text": "Homepage"
+      },
+      {
+        "url": "https://www.instagram.com/desetzel/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://twitter.com/joiceloo_art",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://www.instagram.com/amysunstory/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://www.instagram.com/justin_burks_/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://www.instagram.com/j._.n/",
+        "text": "Instagram"
+      },
+      {
+        "url": "https://www.inside.company/",
+        "text": "Website"
+      },
+      {
+        "url": "https://twitter.com/tableland__/status/1524075467216543744",
+        "text": "https://twitter.com/tableland__/status/1524075467216543744"
+      },
+      {
+        "url": "https://twitter.com/tableland__",
+        "text": "@tableland__"
+      },
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "docs"
+      }
+    ]
+  },
+  {
+    "title": "Paying it forward",
+    "url": "https://paragraph.com/@tableland-2/paying-it-forward",
+    "canonical_url": "https://paragraph.com/@tableland-2/paying-it-forward",
+    "date": "2022-12-12",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/paying-it-forward",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://www.youtube.com/watch?v=OxmndRBGuUM&t=5811s",
+        "text": "announced recently"
+      },
+      {
+        "url": "https://2022.ipfs.camp",
+        "text": "IPFS Camp 2022"
+      }
+    ]
+  },
+  {
+    "title": "Solutions for DePIN Data Management & Collaboration",
+    "url": "https://paragraph.com/@tableland-2/solutions-for-depin-data-management-collaboration",
+    "canonical_url": "https://paragraph.com/@tableland-2/solutions-for-depin-data-management-collaboration",
+    "date": "2023-12-18",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/solutions-for-depin-data-management-collaboration",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin development"
+      },
+      {
+        "url": "https://github.com/search?q=topic%3Abasin+org%3Atablelandnetwork+fork%3Atrue&type=repositories",
+        "text": "Follow development here"
+      },
+      {
+        "url": "https://weatherxm.com/",
+        "text": "WeatherXM"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/jxWM36j7OaW4plfTlpQpgRrIDuth75lJhVjj0BiFwBA",
+        "text": "Read more here"
+      },
+      {
+        "url": "https://twitter.com/Filecoin/status/1731745941751820682",
+        "text": "https://twitter.com/Filecoin/status/1731745941751820682"
+      },
+      {
+        "url": "https://github.com/dtbuchholz/basin-wxm-fetch/",
+        "text": "Basin demo"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "book some time"
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "calendar"
+      },
+      {
+        "url": "https://tableland.substack.com/",
+        "text": "subscribing to our week notes"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "social media"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "twitter"
+      },
+      {
+        "url": "https://warpcast.com/tableland",
+        "text": "farcaster"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "joining our Discord"
+      },
+      {
+        "url": "https://twitter.com/WeatherXM",
+        "text": "social media"
+      },
+      {
+        "url": "https://weatherxm.com/discord",
+        "text": "joining their Discord"
+      },
+      {
+        "url": "https://twitter.com/tableland/status/1732453296361615483",
+        "text": "https://twitter.com/tableland/status/1732453296361615483"
+      }
+    ]
+  },
+  {
+    "title": "SQLite & Database Tooling",
+    "url": "https://paragraph.com/@tableland-2/sqlite-database-tooling",
+    "canonical_url": "https://paragraph.com/@tableland-2/sqlite-database-tooling",
+    "date": "2023-09-29",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/sqlite-database-tooling",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://mirror.xyz/tableland.eth/UJMDvy8vAqekOGpPmspRGzdl2-osjPeGVaIv2Lv4Oh0",
+        "text": "blog post we wrote"
+      },
+      {
+        "url": "https://developer.hashicorp.com/consul/docs/architecture/consensus",
+        "text": "Raft"
+      },
+      {
+        "url": "https://developer.hashicorp.com/consul/docs/intro",
+        "text": "Consul"
+      },
+      {
+        "url": "https://litesync.io/en/",
+        "text": "LiteSync"
+      },
+      {
+        "url": "https://maxpert.github.io/marmot/",
+        "text": "Marmot"
+      },
+      {
+        "url": "https://nats.io/",
+        "text": "https://nats.io"
+      },
+      {
+        "url": "https://github.com/rqlite/rqlite",
+        "text": "rqlite"
+      },
+      {
+        "url": "https://www.sqlite.org/",
+        "text": "SQLite"
+      },
+      {
+        "url": "https://dqlite.io",
+        "text": "Dqlite"
+      },
+      {
+        "url": "https://github.com/superfly/litefs",
+        "text": "LiteFS"
+      },
+      {
+        "url": "https://www.consul.io/",
+        "text": "Consul"
+      },
+      {
+        "url": "https://github.com/walterwanderley/litefs-raft",
+        "text": "litefs-raft"
+      },
+      {
+        "url": "https://litestream.io/",
+        "text": "Litestream"
+      },
+      {
+        "url": "https://github.com/moisseev/sqlite3-sync",
+        "text": "SQLite3 Sync"
+      },
+      {
+        "url": "https://github.com/moisseev/sqlite3-rdiff",
+        "text": "sqlite3-rdiff"
+      },
+      {
+        "url": "https://litereplica.io/",
+        "text": "Litereplica"
+      },
+      {
+        "url": "https://www.symmetricds.org/",
+        "text": "SymmetricDS"
+      },
+      {
+        "url": "https://mycelial.com/",
+        "text": "Mycelial"
+      },
+      {
+        "url": "https://sqlitecloud.io/",
+        "text": "SQLite Cloud"
+      },
+      {
+        "url": "https://dbhub.io/",
+        "text": "DBHub"
+      },
+      {
+        "url": "http://sqlitebrowser.org/",
+        "text": "DB Browser for SQLite"
+      },
+      {
+        "url": "https://sqlitebrowser.org/",
+        "text": "SQLite Browser"
+      },
+      {
+        "url": "https://turso.tech/",
+        "text": "Turso"
+      },
+      {
+        "url": "https://libsql.org/",
+        "text": "libSQL"
+      },
+      {
+        "url": "https://sqlite.org/",
+        "text": "SQLite"
+      },
+      {
+        "url": "https://developers.cloudflare.com/d1",
+        "text": "Cloudflare D1"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/",
+        "text": "SDK"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/awesome-decentralized-database",
+        "text": "Awesome Decentralized Database"
+      },
+      {
+        "url": "https://github.com/aergoio/aergolite",
+        "text": "AergoLite"
+      },
+      {
+        "url": "https://github.com/pixelspark/catena",
+        "text": "Catena"
+      },
+      {
+        "url": "https://github.com/ivoras/daisy",
+        "text": "Daisy"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/go-tableland/",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://github.com/ipfs/go-bs-sqlite3",
+        "text": "go-bs-sqlite3"
+      },
+      {
+        "url": "https://github.com/Actyx/ipfs-sqlite-block-store",
+        "text": "ipfs-sqlite-block-store"
+      },
+      {
+        "url": "https://github.com/jtsmedley/ipfs-sqlite-cli",
+        "text": "ipfs-sqlite-cli"
+      },
+      {
+        "url": "https://github.com/vlcn-io/cr-sqlite",
+        "text": "CR-SQLite"
+      },
+      {
+        "url": "https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite",
+        "text": "IceFireDB"
+      },
+      {
+        "url": "https://github.com/chiselstrike/chiselstore",
+        "text": "ChiselStore"
+      },
+      {
+        "url": "https://github.com/uglyer/ha-sqlite",
+        "text": "ha-sqlite"
+      },
+      {
+        "url": "https://github.com/shettyh/raft-sqlite",
+        "text": "raft-sqlite"
+      },
+      {
+        "url": "https://github.com/jervisfm/resqlite",
+        "text": "ReSqlite"
+      },
+      {
+        "url": "https://github.com/minghsu0107/tqlite",
+        "text": "tqlite"
+      },
+      {
+        "url": "https://github.com/fireproof-storage/fireproof",
+        "text": "Fireproof"
+      },
+      {
+        "url": "https://github.com/redwood/redwood",
+        "text": "Redwood"
+      },
+      {
+        "url": "https://github.com/bigchaindb/bigchaindb",
+        "text": "BigchainDB"
+      },
+      {
+        "url": "https://github.com/bluzelle/curium",
+        "text": "Bluzelle"
+      },
+      {
+        "url": "https://github.com/ceramicstudio/js-composedb",
+        "text": "ComposeDB"
+      },
+      {
+        "url": "https://github.com/graphprotocol/contracts",
+        "text": "The Graph"
+      },
+      {
+        "url": "https://github.com/dbpunk-labs/db3",
+        "text": "db3"
+      },
+      {
+        "url": "https://github.com/orbitdb/orbit-db",
+        "text": "OrbitDB"
+      },
+      {
+        "url": "https://github.com/weavedb/weavedb",
+        "text": "WeaveDB"
+      },
+      {
+        "url": "https://github.com/shenghe/FreeSQLiteEncryption",
+        "text": "FreeSQLiteEncryption"
+      },
+      {
+        "url": "https://github.com/LIT-Protocol/js-sdk",
+        "text": "Lit"
+      },
+      {
+        "url": "https://www.nucypher.com/",
+        "text": "Threshold Network"
+      },
+      {
+        "url": "https://github.com/sqlcipher/sqlcipher",
+        "text": "sqlcipher"
+      },
+      {
+        "url": "https://github.com/abc34/sqlite_codec",
+        "text": "sqlite_codec"
+      },
+      {
+        "url": "https://github.com/pingcap/awesome-database-learning",
+        "text": "Awesome Database Learning"
+      },
+      {
+        "url": "https://github.com/hasura/learn-graphql",
+        "text": "Learn GraphQL"
+      },
+      {
+        "url": "https://github.com/WebDevSimplified/Learn-SQL",
+        "text": "Learn SQL"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork",
+        "text": "GitHub"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "Discord"
+      },
+      {
+        "url": "https://tableland.xyz/studio",
+        "text": "sign up for the waitlist"
+      }
+    ]
+  },
+  {
+    "title": "Synthetic foundations: the future of data in web3",
+    "url": "https://paragraph.com/@tableland-2/synthetic-foundations-the-future-of-data-in-web3",
+    "canonical_url": "https://paragraph.com/@tableland-2/synthetic-foundations-the-future-of-data-in-web3",
+    "date": "2024-02-23",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/synthetic-foundations-the-future-of-data-in-web3",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://blog.samaltman.com/machine-intelligence-part-2",
+        "text": "Sam Altman, 2015"
+      },
+      {
+        "url": "https://arxiv.org/abs/2109.00591",
+        "text": "hate speech detection"
+      },
+      {
+        "url": "https://arxiv.org/abs/2207.14502",
+        "text": "formulating coding challenges for model training"
+      },
+      {
+        "url": "https://www.nature.com/articles/s41551-021-00751-8",
+        "text": "https://www.nature.com/articles/s41551-021-00751-8"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=wlOMpQe8luQ",
+        "text": "Watch full video here"
+      },
+      {
+        "url": "https://www.vanderschaar-lab.com/privacy-challenge/",
+        "text": "when dealing with privacy, comes with serious pitfalls"
+      },
+      {
+        "url": "https://weatherxm.com/",
+        "text": "WeatherXM"
+      },
+      {
+        "url": "https://dimo.zone/",
+        "text": "Dimo"
+      },
+      {
+        "url": "https://www.vanderschaar-lab.com/privacy-challenge/",
+        "text": "with attention to risks"
+      },
+      {
+        "url": "https://passport.gitcoin.co/",
+        "text": "Gitcoin Passport"
+      },
+      {
+        "url": "https://hivemapper.com/",
+        "text": "Hivemapper"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4OYhYDziklg",
+        "text": "here for examples"
+      },
+      {
+        "url": "https://www.brasstacks.blog/explain-im/",
+        "text": "Munn, 2024"
+      },
+      {
+        "url": "https://vitalik.eth.limo/general/2024/01/30/cryptoai.html",
+        "text": "Vitalik, 2024"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=DS_ZpXBbx0w",
+        "text": "lot of effort to get it right"
+      },
+      {
+        "url": "https://twitter.com/tableland/status/1755657293939589176",
+        "text": "EthDenver next week"
+      }
+    ]
+  },
+  {
+    "title": "Tableland Demo Day",
+    "url": "https://paragraph.com/@tableland-2/tableland-demo-day",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-demo-day",
+    "date": "2023-03-09",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-demo-day",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://dev.tableland.xyz/blog/welcoming-tablelands-pilot-program-3-cohort",
+        "text": "Pilot Program teams"
+      },
+      {
+        "url": "https://alliance.xyz/",
+        "text": "Alliance"
+      },
+      {
+        "url": "https://linktr.ee/graphpapercapital",
+        "text": "Graph Paper Capital"
+      },
+      {
+        "url": "https://game7.io/",
+        "text": "Game7"
+      },
+      {
+        "url": "https://bit.ly/tbldemoday",
+        "text": "here"
+      }
+    ]
+  },
+  {
+    "title": "Tableland + Filecoin: FEVM Support",
+    "url": "https://paragraph.com/@tableland-2/tableland-filecoin-fevm-support",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-filecoin-fevm-support",
+    "date": "2023-08-16",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-filecoin-fevm-support",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "Rigs NFT"
+      },
+      {
+        "url": "https://tableland.xyz/pilot-program",
+        "text": "Pilot Program"
+      },
+      {
+        "url": "https://fvm.filecoin.io/",
+        "text": "FVM"
+      },
+      {
+        "url": "https://docs.filecoin.io/smart-contracts/fundamentals/filecoin-evm-runtime/",
+        "text": "FEVM"
+      },
+      {
+        "url": "https://textile.io/",
+        "text": "Textile"
+      },
+      {
+        "url": "https://protocol.ai/",
+        "text": "Protocol Labs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/chains/filecoin",
+        "text": "chain"
+      },
+      {
+        "url": "https://www.ankr.com/",
+        "text": "Ankr"
+      },
+      {
+        "url": "https://www.glif.io/",
+        "text": "Glif"
+      },
+      {
+        "url": "https://docs.tableland.xyz/validator",
+        "text": "validator node"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/go-tableland",
+        "text": "source code"
+      },
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "Tableland Rigs NFT"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/rigs",
+        "text": "open source"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/concepts/nft-metadata",
+        "text": "metadata"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/walkthroughs/nft-metadata",
+        "text": "ERC-721 compliant"
+      },
+      {
+        "url": "https://ipld.io/specs/transport/car/",
+        "text": "CAR"
+      },
+      {
+        "url": "https://web3.storage/products/w3link/",
+        "text": "w3link"
+      },
+      {
+        "url": "https://tableland.network/api/v1/query?statement=select%20*%20from%20deals_314_4%20limit%2010",
+        "text": "here"
+      },
+      {
+        "url": "https://filfox.info/en/deal/36739326",
+        "text": "one of the deal IDs"
+      },
+      {
+        "url": "https://filfox.info/en/message/bafy2bzaced7psypolrji4ld7dmche4lhtqxocgfvn4uzshgpjtwsjrxf5y5u6",
+        "text": "inspect the deal information"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "follow on Twitter"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "hop into our Discord"
+      }
+    ]
+  },
+  {
+    "title": "Tableland Launches Support for Arbitrum Nova",
+    "url": "https://paragraph.com/@tableland-2/tableland-launches-support-for-arbitrum-nova",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-launches-support-for-arbitrum-nova",
+    "date": "2023-04-04",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-launches-support-for-arbitrum-nova",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://dev.tableland.xyz/one-pagers/tableland-for-gaming",
+        "text": "Click here"
+      },
+      {
+        "url": "https://dev.tableland.xyz/blog/using-arbitrum-nova-with-tableland",
+        "text": "check out this blog post for more technical details about building with Arbitrum Nova and Tableland."
+      },
+      {
+        "url": "https://calendly.com/marlatextile/30min",
+        "text": "Please click here"
+      },
+      {
+        "url": "https://twitter.com/arbitrum",
+        "text": "hosted on their Twitter account"
+      }
+    ]
+  },
+  {
+    "title": "Tableland Newsletter 002",
+    "url": "https://paragraph.com/@tableland-2/tableland-newsletter-002",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-newsletter-002",
+    "date": "2023-04-20",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-newsletter-002",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://mirror.xyz/tableland.eth/tFLsizdq5AR0QLOKw8BfJViFaTZbBMzyjnJKStN4_AI",
+        "text": "Tableland Newsletter"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/ojpJ0iPGLJ8SEKKQp74d43fklIcle3h0GgrzraJuw8g",
+        "text": "here"
+      },
+      {
+        "url": "https://tableland.xyz/token",
+        "text": "sign up for token updates"
+      },
+      {
+        "url": "https://tableland.substack.com/d260ee0f1e424f299e58928683424d81",
+        "text": "watch our 60 second promo"
+      },
+      {
+        "url": "https://tableland.xyz/studio",
+        "text": "Studio waitlist"
+      },
+      {
+        "url": "https://dev.tableland.xyz/blog/evolution-of-the-tableland-pilot-program",
+        "text": "Chairs"
+      },
+      {
+        "url": "https://dev.tableland.xyz/blog/welcoming-tablelands-pilot-program-3-cohort",
+        "text": "previous cohort"
+      },
+      {
+        "url": "https://weownthenight.io/home",
+        "text": "DR/VRS"
+      },
+      {
+        "url": "https://tablescan.io/",
+        "text": "Tablescan"
+      },
+      {
+        "url": "https://tableland.xyz/pilot-program",
+        "text": "apply for the next Pilot Program"
+      },
+      {
+        "url": "http://docs.tableland.xyz/",
+        "text": "new developer docs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/",
+        "text": "SDK (v4)"
+      },
+      {
+        "url": "https://docs.tableland.xyz/gateway-api",
+        "text": "Validator API (v1)"
+      },
+      {
+        "url": "https://twitter.com/tableland__/status/1640777541987213331",
+        "text": "implementation of the new EIP-4906"
+      },
+      {
+        "url": "https://twitter.com/tableland__/status/1643266883683078144",
+        "text": "Arbitrum Nova blockchain"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=THrYyQ0KjXA&t=1s",
+        "text": "Tableland Functions"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/awesome-decentralized-database",
+        "text": "Awesome Decentralized Database"
+      },
+      {
+        "url": "https://opensea.io/collection/dreamexe",
+        "text": "Dream Executable"
+      },
+      {
+        "url": "https://www.zine.supply/",
+        "text": "Zora Zine"
+      },
+      {
+        "url": "https://www.farcaster.xyz/",
+        "text": "Farcaster"
+      },
+      {
+        "url": "https://memex.garden/",
+        "text": "Memex"
+      },
+      {
+        "url": "https://garage.tableland.xyz/dashboard",
+        "text": "Rigs are now in-flight"
+      },
+      {
+        "url": "https://twitter.com/i/spaces/1zqKVPrYnvmJB?s=20",
+        "text": "The Dynamic Possibilities of WEB3"
+      },
+      {
+        "url": "https://discord.gg/QyFdg8Pu?event=1097551735226126406",
+        "text": "here"
+      },
+      {
+        "url": "https://boards.greenhouse.io/textileio/jobs/4650572004",
+        "text": "head of product design"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "reach out on Discord"
+      },
+      {
+        "url": "https://calendly.com/andrewxhill/welcome",
+        "text": "book time"
+      }
+    ]
+  },
+  {
+    "title": "Tableland Partners with Toucan on Climate Responsibility",
+    "url": "https://paragraph.com/@tableland-2/tableland-partners-with-toucan-on-climate-responsibility",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-partners-with-toucan-on-climate-responsibility",
+    "date": "2022-08-10",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-partners-with-toucan-on-climate-responsibility",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://toucan.earth/",
+        "text": "toucan.earth"
+      },
+      {
+        "url": "https://discord.com/invite/cDbWuZKWxe",
+        "text": "Discord here"
+      },
+      {
+        "url": "https://twitter.com/ToucanProtocol",
+        "text": "follow them on Twitter"
+      },
+      {
+        "url": "http://tableland.xyz",
+        "text": "tableland.xyz"
+      },
+      {
+        "url": "https://mirror.xyz/tableland.eth/gY70MyXCFjhqwn5NuPRYMvcC1kJUSvfDPmor9HBTJt0",
+        "text": "Tableland Rigs blog post"
+      },
+      {
+        "url": "https://discord.gg/dc8EBEhGbg",
+        "text": "join our Discord"
+      },
+      {
+        "url": "https://twitter.com/tableland__",
+        "text": "follow us on Twitter"
+      }
+    ]
+  },
+  {
+    "title": "Tableland Studio Launch: Manage, Deploy, & Discover Onchain Datasets",
+    "url": "https://paragraph.com/@tableland-2/tableland-studio-launch-manage-deploy-discover-onchain-datasets",
+    "canonical_url": "https://paragraph.com/@tableland-2/tableland-studio-launch-manage-deploy-discover-onchain-datasets",
+    "date": "2024-03-15",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/tableland-studio-launch-manage-deploy-discover-onchain-datasets",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://studio.tableland.xyz/",
+        "text": "Tableland Studio"
+      },
+      {
+        "url": "https://docs.tableland.xyz/studio/",
+        "text": "here"
+      },
+      {
+        "url": "https://studio.tableland.xyz/table/pilot_sessions_1_7",
+        "text": "can check out the Rigs"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/blueprints/studio-app-design",
+        "text": "here"
+      },
+      {
+        "url": "https://lerna.js.org/",
+        "text": "Lerna"
+      },
+      {
+        "url": "https://lerna.js.org/",
+        "text": "Next.js"
+      },
+      {
+        "url": "https://vercel.com/",
+        "text": "Vercel"
+      },
+      {
+        "url": "https://tailwindcss.com/",
+        "text": "Tailwind"
+      },
+      {
+        "url": "https://www.radix-ui.com/",
+        "text": "Radix"
+      },
+      {
+        "url": "https://docs.ethers.org/",
+        "text": "Ethers.js"
+      },
+      {
+        "url": "https://wagmi.sh/",
+        "text": "wagmi"
+      },
+      {
+        "url": "https://viem.sh/",
+        "text": "viem"
+      },
+      {
+        "url": "https://orm.drizzle.team/",
+        "text": "Drizzle"
+      },
+      {
+        "url": "https://docs.tableland.xyz/sdk/walkthroughs/orm#drizzle-migrations",
+        "text": "here"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/studio",
+        "text": "here"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "hop into our Discord"
+      }
+    ]
+  },
+  {
+    "title": "The Quest for a Content Addressable SQLite",
+    "url": "https://paragraph.com/@tableland-2/the-quest-for-a-content-addressable-sqlite",
+    "canonical_url": "https://paragraph.com/@tableland-2/the-quest-for-a-content-addressable-sqlite",
+    "date": "2023-08-17",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/the-quest-for-a-content-addressable-sqlite",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://www.sqlite.org/changes.html#version_1_0",
+        "text": "SQLite 1.0 was released 23 years ago today"
+      },
+      {
+        "url": "http://fly.io/",
+        "text": "Fly.io"
+      },
+      {
+        "url": "https://blog.cloudflare.com/introducing-d1/",
+        "text": "Cloudflare’s D1"
+      },
+      {
+        "url": "https://turso.tech",
+        "text": "turso.tech"
+      },
+      {
+        "url": "http://Fly.io",
+        "text": "Fly.io"
+      },
+      {
+        "url": "https://fly.io/blog/all-in-on-sqlite-litestream/",
+        "text": "server-side SQLite"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Content-addressable_storage",
+        "text": "Content Addressable Storage"
+      },
+      {
+        "url": "https://dweb-primer.ipfs.io/avenues-for-access/power-of-content-addressing",
+        "text": "Projects like IPFS"
+      },
+      {
+        "url": "https://docs.ipfs.tech/concepts/content-addressing/",
+        "text": "read all about CIDs"
+      },
+      {
+        "url": "https://zknill.io/posts/edge-database/",
+        "text": "Here’s a great discussion"
+      },
+      {
+        "url": "https://github.com/sanderpick/builtin-actors/blob/sander/tableland-actor2/actors/tableland/interface/src/state.rs",
+        "text": "Here’s a POC"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Persistent_data_structure",
+        "text": "persistent data structures"
+      },
+      {
+        "url": "https://fly.io/blog/introducing-litefs/",
+        "text": "easiest way"
+      },
+      {
+        "url": "https://www.sqlite.org/vfs.html",
+        "text": "Virtual File System or VFS"
+      },
+      {
+        "url": "https://www.sqlite.org/fileformat2.html",
+        "text": "SQLite file format"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/B-tree",
+        "text": "b-tree pages"
+      },
+      {
+        "url": "https://fly.io/blog/sqlite-internals-btree/",
+        "text": "great blog post"
+      },
+      {
+        "url": "http://Fly.io",
+        "text": "Fly.io"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hash_array_mapped_trie",
+        "text": "Array Mapped Trie"
+      },
+      {
+        "url": "https://github.com/sanderpick",
+        "text": "Sander Pick"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Merkle_tree",
+        "text": "Merkle Trees"
+      },
+      {
+        "url": "https://decentralizedthoughts.github.io/2020-12-22-what-is-a-merkle-tree/",
+        "text": "here’s a pretty nice primer"
+      },
+      {
+        "url": "https://gist.github.com/carsonfarmer/852d4a520462b0be496354aaa2b9614e",
+        "text": "available in this gist"
+      },
+      {
+        "url": "https://github.com/rkusa/wasm-sqlite/blob/main/wasm/src/vfs.rs",
+        "text": "from this example"
+      },
+      {
+        "url": "https://github.com/rusqlite/rusqlite",
+        "text": "library"
+      },
+      {
+        "url": "https://tableland.xyz/discord",
+        "text": "our Discord"
+      },
+      {
+        "url": "https://twitter.com/tableland",
+        "text": "Twitter/X"
+      }
+    ]
+  },
+  {
+    "title": "The Tableland Newsletter",
+    "url": "https://paragraph.com/@tableland-2/the-tableland-newsletter",
+    "canonical_url": "https://paragraph.com/@tableland-2/the-tableland-newsletter",
+    "date": "2023-03-09",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/the-tableland-newsletter",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "docs"
+      },
+      {
+        "url": "https://dev.tableland.xyz/one-pagers/tableland-for-nfts",
+        "text": "NFTs"
+      },
+      {
+        "url": "https://dev.tableland.xyz/one-pagers/tableland-for-gaming",
+        "text": "gaming"
+      },
+      {
+        "url": "https://docs.tableland.xyz/use-cases",
+        "text": "more"
+      },
+      {
+        "url": "http://bit.ly/superchargeweb3",
+        "text": "here"
+      },
+      {
+        "url": "https://www.kittyinu.com/",
+        "text": "Kitty Inu"
+      },
+      {
+        "url": "http://inpeak.xyz/",
+        "text": "InPeak"
+      },
+      {
+        "url": "https://www.footprint.network/",
+        "text": "Footprint Analytics"
+      },
+      {
+        "url": "http://weownthenight.com/",
+        "text": "We Own The Night"
+      }
+    ]
+  },
+  {
+    "title": "Token Reputation: Chain-based Tracking using NFTs",
+    "url": "https://paragraph.com/@tableland-2/token-reputation-chain-based-tracking-using-nfts",
+    "canonical_url": "https://paragraph.com/@tableland-2/token-reputation-chain-based-tracking-using-nfts",
+    "date": "2023-07-26",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/token-reputation-chain-based-tracking-using-nfts",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://eips.ethereum.org/EIPS/eip-721",
+        "text": "ERC-721"
+      },
+      {
+        "url": "https://opensea.io/collection/tableland-rigs",
+        "text": "Tableland Rigs NFT"
+      },
+      {
+        "url": "https://docs.tableland.xyz/fundamentals/concepts/nft-metadata",
+        "text": "ERC-721 compatible"
+      },
+      {
+        "url": "https://docs.tableland.xyz/playbooks/walkthroughs/nft-metadata",
+        "text": "this example"
+      },
+      {
+        "url": "https://eips.ethereum.org/EIPS/eip-5058",
+        "text": "EIP-5058"
+      },
+      {
+        "url": "https://eips.ethereum.org/EIPS/eip-5192",
+        "text": "EIP-5192"
+      },
+      {
+        "url": "https://eips.ethereum.org/EIPS/eip-5753",
+        "text": "EIP-5753"
+      },
+      {
+        "url": "https://eips.ethereum.org/EIPS/eip-6982",
+        "text": "EIP-6982"
+      },
+      {
+        "url": "https://docs.opensea.io/docs/metadata-standards#disable-trading-for-staked-or-locked-tokens",
+        "text": "OpenSea"
+      }
+    ]
+  },
+  {
+    "title": "WeatherXM + Textile: DePIN Data Storage, Retrieval, & Rewards Computation",
+    "url": "https://paragraph.com/@tableland-2/weatherxm-textile-depin-data-storage-retrieval-rewards-computation",
+    "canonical_url": "https://paragraph.com/@tableland-2/weatherxm-textile-depin-data-storage-retrieval-rewards-computation",
+    "date": "2024-03-11",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/weatherxm-textile-depin-data-storage-retrieval-rewards-computation",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://github.com/weatherxm-network/qod",
+        "text": "QoD"
+      },
+      {
+        "url": "https://basin.tableland.xyz/vaults/wxm.weather_data_dev/events?limit=5",
+        "text": "here"
+      },
+      {
+        "url": "https://index.weatherxm.network/",
+        "text": "https://index.weatherxm.network"
+      },
+      {
+        "url": "https://github.com/textileio/demo-basin-wxm-query",
+        "text": "https://github.com/textileio/demo-basin-wxm-query"
+      },
+      {
+        "url": "https://github.com/tablelandnetwork/basin-cli",
+        "text": "Basin CLI"
+      },
+      {
+        "url": "https://blog.weatherxm.com/weatherxm-qod-quality-of-data-simplified-b5a42aee7367",
+        "text": "Quality of Data"
+      },
+      {
+        "url": "https://www.bacalhau.org/",
+        "text": "Bacalhau"
+      },
+      {
+        "url": "https://tableland.substack.com/",
+        "text": "https://tableland.substack.com/"
+      }
+    ]
+  },
+  {
+    "title": "Welcome to Tableland",
+    "url": "https://paragraph.com/@tableland-2/welcome-to-tableland",
+    "canonical_url": "https://paragraph.com/@tableland-2/welcome-to-tableland",
+    "date": "2022-02-17",
+    "authors": [
+      "Tableland"
+    ],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2"
+    ],
+    "http_status": 200,
+    "final_url": "https://paragraph.com/@tableland-2/welcome-to-tableland",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://tableland.xyz",
+        "text": "Tableland"
+      },
+      {
+        "url": "https://twitter.com/tableland__/status/1494350672057167872",
+        "text": "find our booth"
+      },
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "Tableland gateway"
+      },
+      {
+        "url": "https://docs.tableland.xyz/",
+        "text": "docs here"
+      },
+      {
+        "url": "https://www.notion.so/Tableland-Use-cases-466b4ab8bb1248a497dd457f057abf5f",
+        "text": "use-cases"
+      },
+      {
+        "url": "https://docs.tableland.xyz/building/examples/playbooks",
+        "text": "playbooks for NFT metadata and key-value stores"
+      },
+      {
+        "url": "https://www.notion.so/Tableland-Grants-Funding-ebc1f398d53a481d94f090ab12d93be0",
+        "text": "grants or bounties here"
+      },
+      {
+        "url": "https://boards.greenhouse.io/textileio",
+        "text": "hiring across all roles"
+      }
+    ]
+  }
+]

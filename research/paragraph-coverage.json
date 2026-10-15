@@ -1,0 +1,35 @@
+[
+  {
+    "publication": "Textile / Tableland / Basin",
+    "home": "https://blog.textile.io",
+    "reported_post_counts": [
+      77
+    ],
+    "discovered_article_urls": 77,
+    "rss_items": 20,
+    "article_statuses": {
+      "200": 72,
+      "500": 5
+    },
+    "sitemap_urls": [
+      "https://blog.textile.io/sitemap.xml",
+      "https://blog.textile.io/news-sitemap.xml"
+    ]
+  },
+  {
+    "publication": "Recall",
+    "home": "https://blog.recall.network",
+    "reported_post_counts": [
+      19
+    ],
+    "discovered_article_urls": 19,
+    "rss_items": 19,
+    "article_statuses": {
+      "200": 19
+    },
+    "sitemap_urls": [
+      "https://blog.recall.network/sitemap.xml",
+      "https://blog.recall.network/news-sitemap.xml"
+    ]
+  }
+]

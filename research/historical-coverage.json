@@ -1,0 +1,16 @@
+[
+  {
+    "publication": "Textile historical blog",
+    "cdx_rows": 496,
+    "candidate_article_urls": 255,
+    "records": 175,
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=blog.textile.io/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey"
+  },
+  {
+    "publication": "Textile on Medium",
+    "cdx_rows": 410,
+    "candidate_article_urls": 86,
+    "records": 86,
+    "cdx_url": "https://web.archive.org/cdx/search/cdx?url=medium.com/textileio/*&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=urlkey"
+  }
+]

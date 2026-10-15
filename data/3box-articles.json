@@ -1,0 +1,936 @@
+[
+  {
+    "url": "https://medium.com/3box/thinking-of-getting-into-blockchain-6-things-to-consider-fd851090dd15",
+    "title": "Thinking of getting into blockchain? 6 things to consider",
+    "date": "2021-05-10",
+    "authors": [
+      "Danny Zuckerman"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://dazuck.medium.com/joining-consensys-decentra-mania-bd37858eb2b2",
+        "text": "jumped down the rabbit hole"
+      },
+      {
+        "url": "http://3boxlabs.com",
+        "text": "3Box Labs"
+      },
+      {
+        "url": "http://ceramic.network",
+        "text": "Ceramic Network"
+      },
+      {
+        "url": "https://gov.yearn.finance/t/how-we-think-about-yearn/7137",
+        "text": "describes itself"
+      },
+      {
+        "url": "https://www.notion.so/Hiring-post-1dd60bc54c5d4302913951e8d126f02a",
+        "text": "engineering, vision, or product-led"
+      },
+      {
+        "url": "https://ricburton.substack.com/p/the-liquidity-liability",
+        "text": "This article"
+      },
+      {
+        "url": "https://twitter.com/VitalikButerin/status/1343366729427079169",
+        "text": "As Vitalik said"
+      },
+      {
+        "url": "http://3boxlabs.com",
+        "text": "3Box Labs"
+      },
+      {
+        "url": "http://jobs.lever.co/3box",
+        "text": "hear from you"
+      },
+      {
+        "url": "https://www.notion.so/threebox/About-3Box-Labs-7100eadf86624b1ba00793da29a08711",
+        "text": "1 purpose, 5 core beliefs, and 8 guiding principles"
+      },
+      {
+        "url": "http://jobs.lever.co/3box",
+        "text": "open jobs here"
+      },
+      {
+        "url": "mailto:jobs@3box.io",
+        "text": "jobs@3box.io"
+      },
+      {
+        "url": "http://3boxlabs.com",
+        "text": "3Box Labs"
+      },
+      {
+        "url": "http://ceramic.network",
+        "text": "Ceramic website"
+      },
+      {
+        "url": "http://twitter.com/ceramicnetwork",
+        "text": "Twitter"
+      },
+      {
+        "url": "http://chat.ceramic.network",
+        "text": "Discord"
+      },
+      {
+        "url": "http://github.com/ceramicnetwork/ceramic",
+        "text": "GitHub"
+      },
+      {
+        "url": "http://developers.ceramic.network",
+        "text": "Documentation"
+      },
+      {
+        "url": "http://blog.ceramic.network",
+        "text": "Blog"
+      },
+      {
+        "url": "http://idx.xyz",
+        "text": "IDX Identity"
+      },
+      {
+        "url": "https://medium.com/3box/thinking-of-getting-into-blockchain-6-things-to-consider-fd851090dd15",
+        "text": "Thinking of getting into blockchain? 6 things to consider"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/entering-the-age-of-data-privacy-7c3451ed3a57",
+    "title": "Entering the age of data privacy",
+    "date": "2020-11-12",
+    "authors": [
+      "Danny Zuckerman"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://diar.co/volume-2-issue-17/",
+        "text": "https://diar.co/volume-2-issue-17/"
+      },
+      {
+        "url": "https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html",
+        "text": "‘identity layer’ for the Internet"
+      },
+      {
+        "url": "https://medium.com/uport/privacy-preserving-identity-system-for-ethereum-dapps-a3352d1a93e8",
+        "text": "approach to privacy-preserving identity"
+      },
+      {
+        "url": "https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1",
+        "text": "thoughtful design"
+      },
+      {
+        "url": "https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87",
+        "text": "make good decisions"
+      },
+      {
+        "url": "https://www.creditcards.com/credit-card-news/ftc-credit-report-mistakes-1270.php",
+        "text": "21% of credit reports have erroneous data in them."
+      },
+      {
+        "url": "https://www.forbes.com/sites/louiscolumbus/2017/12/10/2017-roundup-of-internet-of-things-forecasts/#771dd60c1480",
+        "text": "6tn"
+      },
+      {
+        "url": "http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_data_protection_eurobarometer_240615_en.pdf",
+        "text": "control"
+      },
+      {
+        "url": "http://chat.3box.io",
+        "text": "3Box discord community"
+      },
+      {
+        "url": "https://medium.com/3box/entering-the-age-of-data-privacy-7c3451ed3a57",
+        "text": "Entering the age of data privacy"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/the-3-parts-of-identity-in-a-dynamic-world-f94724c2bae9",
+    "title": "The 3 parts of identity in a dynamic world",
+    "date": "2020-11-11",
+    "authors": [
+      "Danny Zuckerman"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153",
+        "text": "Seeing Like a State"
+      },
+      {
+        "url": "https://medium.com/uport/entering-the-age-of-data-privacy-7c3451ed3a57",
+        "text": "a self-sovereign world"
+      },
+      {
+        "url": "https://www.w3.org/TR/verifiable-claims-use-cases/",
+        "text": "verifiable claims"
+      },
+      {
+        "url": "http://uport.me",
+        "text": "put in control of users and creators of data"
+      },
+      {
+        "url": "https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310",
+        "text": "Homo Deus"
+      },
+      {
+        "url": "https://medium.com/3box/the-3-parts-of-identity-in-a-dynamic-world-f94724c2bae9",
+        "text": "The 3 parts of identity in a dynamic world"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85",
+    "title": "IDX: A Devkit for Open Identity",
+    "date": "2020-10-23",
+    "authors": [
+      "Michael Sena"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://idx.xyz",
+        "text": "IDX"
+      },
+      {
+        "url": "https://chat.idx.xyz",
+        "text": "join our discord"
+      },
+      {
+        "url": "https://idx.xyz/docs",
+        "text": "docs"
+      },
+      {
+        "url": "https://ceramic.network",
+        "text": "Ceramic"
+      },
+      {
+        "url": "https://textile.io",
+        "text": "Textile"
+      },
+      {
+        "url": "https://orbitdb.org",
+        "text": "OrbitDB"
+      },
+      {
+        "url": "https://filecoin.io",
+        "text": "Filecoin"
+      },
+      {
+        "url": "https://ipfs.io",
+        "text": "IPFS"
+      },
+      {
+        "url": "https://sia.tech",
+        "text": "Sia"
+      },
+      {
+        "url": "https://identity.foundation/secure-data-store/",
+        "text": "Secure Data Stores"
+      },
+      {
+        "url": "https://brightid.org",
+        "text": "BrightID"
+      },
+      {
+        "url": "https://ens.domains",
+        "text": "ENS"
+      },
+      {
+        "url": "https://handshake.org/",
+        "text": "Handshake"
+      },
+      {
+        "url": "https://www.w3.org/TR/did-core/",
+        "text": "decentralized identifier (DID)"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/CIP/blob/cip/idx/CIPs/CIP-11/CIP-11.md",
+        "text": "identity index"
+      },
+      {
+        "url": "https://thegraph.com",
+        "text": "The Graph"
+      },
+      {
+        "url": "https://idx.xyz/docs",
+        "text": "read the docs"
+      },
+      {
+        "url": "https://idx.xyz/docs/guide-authentication",
+        "text": "IDX documentation"
+      },
+      {
+        "url": "https://chat.idx.xyz",
+        "text": "reach out on Discord"
+      },
+      {
+        "url": "https://github.com/3box/3box-js",
+        "text": "3Box.js"
+      },
+      {
+        "url": "https://idx.xyz",
+        "text": "Website"
+      },
+      {
+        "url": "https://idx.xyz/docs",
+        "text": "Docs"
+      },
+      {
+        "url": "https://chat.idx.xyz",
+        "text": "Discord"
+      },
+      {
+        "url": "https://github.com/ceramicstudio/js-idx",
+        "text": "Github"
+      },
+      {
+        "url": "https://twitter.com/identityindex",
+        "text": "Twitter"
+      },
+      {
+        "url": "https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85",
+        "text": "IDX: A Devkit for Open Identity"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/building-an-encrypted-todo-list-with-3box-part-2-2-da15aa2e2640",
+    "title": "Building an encrypted todo list with 3Box (part 2/2)",
+    "date": "2020-08-05",
+    "authors": [
+      "Rachel Black"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/3box/confidential-threads-api-17df60b34431",
+        "text": "confidential members threads"
+      },
+      {
+        "url": "https://silly-carson-76f98d.netlify.app/",
+        "text": "Check out the demo here"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app",
+        "text": "Completed tutorial codebase"
+      },
+      {
+        "url": "https://reactjs.org/",
+        "text": "React"
+      },
+      {
+        "url": "https://ipfs.io/",
+        "text": "IPFS"
+      },
+      {
+        "url": "https://orbitdb.org/",
+        "text": "OrbitDB"
+      },
+      {
+        "url": "https://metamask.io/",
+        "text": "MetaMask"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps",
+        "text": "3Box.js"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/profile-hover",
+        "text": "Profile Hover"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/profile-edit",
+        "text": "Profile Edit Plugins"
+      },
+      {
+        "url": "https://react-bootstrap.github.io/",
+        "text": "React Bootstrap"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L8",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L25",
+        "text": "componentDidMount method"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L47",
+        "text": "see example"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging#space-jointhread-name-opts",
+        "text": "space.joinThread"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/App.js#L81",
+        "text": "App.js:"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L65",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L69",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L76",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L85",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L119",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L154",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L98",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L149",
+        "text": "And after the moderator has joined add the line:"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Team.js#L205",
+        "text": "see example"
+      },
+      {
+        "url": "https://3box.io/hub",
+        "text": "3Box Hub"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/profile-hover",
+        "text": "Profile hover"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins",
+        "text": "3Box plugin"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Components/TODO.js#L36",
+        "text": "line 36"
+      },
+      {
+        "url": "https://chat.3box.io",
+        "text": "discord channel"
+      },
+      {
+        "url": "https://medium.com/3box/building-an-encrypted-todo-list-with-3box-part-2-2-da15aa2e2640",
+        "text": "Building an encrypted todo list with 3Box (part 2/2)"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/building-an-encrypted-todo-list-with-3box-part-1-2-d1619cd02e5b",
+    "title": "Building an encrypted todo list with 3Box (part 1/2)",
+    "date": "2020-07-29",
+    "authors": [
+      "Rachel Black"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/3box/confidential-threads-api-17df60b34431",
+        "text": "excited to launch confidential threads."
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1",
+        "text": "3Box.js"
+      },
+      {
+        "url": "https://docs.3box.io/network/architecture?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1",
+        "text": "3Box’s architecture, check out this blog"
+      },
+      {
+        "url": "https://silly-carson-76f98d.netlify.app/",
+        "text": "Check out the demo here"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app",
+        "text": "Completed tutorial codebase"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps/messaging/choose?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#persistent-personal-confidential",
+        "text": "personal confidential threads"
+      },
+      {
+        "url": "https://reactjs.org/",
+        "text": "React"
+      },
+      {
+        "url": "https://ipfs.io/",
+        "text": "IPFS"
+      },
+      {
+        "url": "https://orbitdb.org/",
+        "text": "OrbitDB"
+      },
+      {
+        "url": "https://metamask.io/",
+        "text": "MetaMask"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps",
+        "text": "3Box.js"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/profile-hover",
+        "text": "Profile Hover"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/profile-edit",
+        "text": "Profile Edit Plugins"
+      },
+      {
+        "url": "https://react-bootstrap.github.io/",
+        "text": "React Bootstrap"
+      },
+      {
+        "url": "https://github.com/RachBLondon/todo-template",
+        "text": "boilerplate code"
+      },
+      {
+        "url": "https://github.com/RachBLondon/todo-template/blob/master/src/App.js",
+        "text": "This happens in lines 15–30 in App.js"
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-create-ethereumprovider",
+        "text": "Box.create"
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-auth",
+        "text": "box.auth"
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-openbox-address-ethereumprovider-opts",
+        "text": "Box. openBox."
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-create-ethereumprovider",
+        "text": "Box.create"
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-auth",
+        "text": "box.auth"
+      },
+      {
+        "url": "https://docs.3box.io/api/auth?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-openspace-name-opts",
+        "text": "box.openSpace"
+      },
+      {
+        "url": "https://github.com/RachBLondon/todo-template/blob/master/src/Pages/Personal.js",
+        "text": "pages/Personal.js component."
+      },
+      {
+        "url": "https://github.com/RachBLondon/todo-template/blob/master/src/App.js",
+        "text": "this is done in App.js"
+      },
+      {
+        "url": "https://github.com/RachBLondon/todo-template/blob/master/src/Pages/Personal.js",
+        "text": "Personal Component"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#space-jointhreadbyaddress-address-opts",
+        "text": "joinThreadByAddress"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps/messaging/choose?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#persistent-personal-confidential",
+        "text": "personal confidential thread"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#thread-getposts",
+        "text": "getPosts"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Personal.js#L47",
+        "text": "see example"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Personal.js#L85",
+        "text": "see link"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-space-thread-post-message",
+        "text": "thread.posts"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#thread-getposts",
+        "text": "thread.getPosts"
+      },
+      {
+        "url": "https://github.com/RachBLondon/3box-todo-app/blob/master/src/Pages/Personal.js#L89",
+        "text": "onSubmit"
+      },
+      {
+        "url": "https://docs.3box.io/api/messaging?utm_source=medium&utm_medium=blog&utm_campaign=todo-part-1#box-space-thread-deletepost-id",
+        "text": "thread.deletePost"
+      },
+      {
+        "url": "https://chat.3box.io",
+        "text": "our discord channel!"
+      },
+      {
+        "url": "https://medium.com/3box/building-an-encrypted-todo-list-with-3box-part-1-2-d1619cd02e5b",
+        "text": "Building an encrypted todo list with 3Box (part 1/2)"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/spinning-up-a-3box-ghost-pinbot-server-ab718cc8737e",
+    "title": "Spinning up a 3Box Ghost Pinbot server ",
+    "date": "2020-07-21",
+    "authors": [
+      "Janko Simonovic"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://medium.com/3box/introducing-3box-ghost-threads-api-e5b2ad92060d",
+        "text": "Introducing 3Box Ghost Threads API"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps/messaging/persistent-threads",
+        "text": "here"
+      },
+      {
+        "url": "https://www.heroku.com/",
+        "text": "Heroku"
+      },
+      {
+        "url": "https://docs.docker.com/get-docker",
+        "text": "Docker"
+      },
+      {
+        "url": "https://devcenter.heroku.com/articles/heroku-cli",
+        "text": "Heroku CLI"
+      },
+      {
+        "url": "https://ghostpinbot-api.herokuapp.com",
+        "text": "https://ghostpinbot-api.herokuapp.com"
+      },
+      {
+        "url": "https://ghostpinbot-peer.herokuapp.com",
+        "text": "https://ghostpinbot-peer.herokuapp.com"
+      },
+      {
+        "url": "https://ghostpinbot-api.herokuapp.com/api/v0/peer",
+        "text": "https://ghostpinbot-api.herokuapp.com/api/v0/peer"
+      },
+      {
+        "url": "https://github.com/3box/3box-ghostpinbot",
+        "text": "3box-ghostpinbot"
+      },
+      {
+        "url": "https://chat.3box.io/",
+        "text": "Discord"
+      },
+      {
+        "url": "https://chat.3box.io/",
+        "text": "Join us!"
+      },
+      {
+        "url": "https://medium.com/3box/spinning-up-a-3box-ghost-pinbot-server-ab718cc8737e",
+        "text": "Spinning up a 3Box Ghost Pinbot server 👻"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/how-ren-used-3box-to-enable-btc-eth-swaps-eaa0032939bd",
+    "title": "How Ren used 3Box to enable BTC<>ETH swaps",
+    "date": "2020-07-13",
+    "authors": [
+      "Danny Zuckerman"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "https://renproject.io/",
+        "text": "Ren"
+      },
+      {
+        "url": "http://renproject.io",
+        "text": "renproject.io"
+      },
+      {
+        "url": "https://twitter.com/renprotocol",
+        "text": "@RenProtocol"
+      },
+      {
+        "url": "https://medium.com/3box/how-ren-used-3box-to-enable-btc-eth-swaps-eaa0032939bd",
+        "text": "How Ren used 3Box to enable BTC<>ETH swaps"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/hack-with-3box-at-hackfs-9bff5f298ff",
+    "title": "Hack with 3Box at HackFS ",
+    "date": "2020-07-09",
+    "authors": [
+      "Michael Sena"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "http://3box.io",
+        "text": "3Box"
+      },
+      {
+        "url": "http://hackfs.com",
+        "text": "HackFS"
+      },
+      {
+        "url": "https://ethglobal.co/",
+        "text": "ETHGlobal"
+      },
+      {
+        "url": "http://protocol.ai",
+        "text": "Protocol Labs"
+      },
+      {
+        "url": "http://hackfs.com",
+        "text": "hackfs.com"
+      },
+      {
+        "url": "http://3box.io/",
+        "text": "3Box"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Bounties-e2c1f618095d4c92b25ef8afe646988b#751dee5b6c7d46919c81d361142f1289",
+        "text": "JavaScript SDK"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Bounties-e2c1f618095d4c92b25ef8afe646988b#751dee5b6c7d46919c81d361142f1289",
+        "text": "plugins"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Ceramic-Bounties-e2c1f618095d4c92b25ef8afe646988b#d2d541b563af4d9bb04d330f3f1202e2",
+        "text": "Learn more"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps/messaging/ghost-threads",
+        "text": "3Box Ghost Threads API"
+      },
+      {
+        "url": "https://docs.3box.io/build/plugins/chatbox",
+        "text": "3Box Chatbox plugin"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Bounties-e2c1f618095d4c92b25ef8afe646988b#380562285564485b8d15447509d75a2f",
+        "text": "Ghost Threads API"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Ceramic-Bounties-e2c1f618095d4c92b25ef8afe646988b#763b5316702549aa8759ce28fe2a17ab",
+        "text": "Learn more"
+      },
+      {
+        "url": "https://docs.3box.io/build/web-apps/profiles",
+        "text": "Profiles API"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Ceramic-Bounties-e2c1f618095d4c92b25ef8afe646988b#12b075b49c874969bbca702a18cb2141",
+        "text": "Learn more"
+      },
+      {
+        "url": "http://ceramic.network",
+        "text": "Ceramic Network"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/CIP/issues/37",
+        "text": "here"
+      },
+      {
+        "url": "https://www.w3.org/TR/vc-data-model/",
+        "text": "W3C Verifiable Claims"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/specs/blob/master/doctypes/3id.md",
+        "text": "3ID"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/specs/blob/master/doctypes/account-link.md",
+        "text": "Account Link"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/specs/blob/master/doctypes/tile.md",
+        "text": "Tile"
+      },
+      {
+        "url": "https://discord.gg/bt5yPMa",
+        "text": "Ceramic Discord"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-2022b67e249540a5a7fc5009701ee09f#c7ef133fb7e34583a9fe64566c330ade",
+        "text": "Doctype specification guidelines"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/specs",
+        "text": "Ceramic Specs"
+      },
+      {
+        "url": "https://github.com/ceramicnetwork/js-ceramic",
+        "text": "js-ceramic"
+      },
+      {
+        "url": "https://www.notion.so/threebox/HackFS-3Box-Ceramic-Bounties-e2c1f618095d4c92b25ef8afe646988b#9fce9a2a7fea4de9b1db237a9737a068",
+        "text": "Learn more"
+      },
+      {
+        "url": "https://discord.gg/669BQHv",
+        "text": "3Box Discord"
+      },
+      {
+        "url": "https://medium.com/3box/hack-with-3box-at-hackfs-9bff5f298ff",
+        "text": "Hack with 3Box at HackFS 🚀"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/case-study-how-3box-boosts-engagement-and-retention-for-zerion-96871132c12f",
+    "title": "Case study: how 3Box boosts engagement and retention for Zerion",
+    "date": "2020-07-06",
+    "authors": [
+      "Danny Zuckerman"
+    ],
+    "publication": "3Box on Medium",
+    "sources": [
+      "https://medium.com/feed/3box"
+    ],
+    "http_status": null,
+    "evidence": "public RSS feed",
+    "checked": "2026-10-15",
+    "links": [
+      {
+        "url": "http://zerion.io",
+        "text": "Zerion"
+      },
+      {
+        "url": "https://medium.com/3box/how-3box-profiles-help-zerion-deliver-a-more-human-defi-ux-4191250f4df1",
+        "text": "first dapps to integrate 3Box profiles"
+      },
+      {
+        "url": "https://twitter.com/zerion_io",
+        "text": "Zerion on twitter"
+      },
+      {
+        "url": "http://zerion.io",
+        "text": "zerion.io"
+      },
+      {
+        "url": "https://twitter.com/3boxdb",
+        "text": "follow us on twitter"
+      },
+      {
+        "url": "http://chat.3box.io",
+        "text": "our community"
+      },
+      {
+        "url": "https://medium.com/3box/case-study-how-3box-boosts-engagement-and-retention-for-zerion-96871132c12f",
+        "text": "Case study: how 3Box boosts engagement and retention for Zerion"
+      },
+      {
+        "url": "https://medium.com/3box",
+        "text": "3Box Labs"
+      }
+    ]
+  }
+]

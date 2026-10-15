@@ -1,0 +1,1808 @@
+[
+  {
+    "url": "https://blog.textile.io/building-the-intelligence-layer-for-ai-textile-and-3box-labs-join-forces",
+    "title": "Building the Intelligence Layer for AI: Textile and 3Box Labs Join Forces",
+    "date": "2025-02-05",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/youre-invited-join-our-new-discord-[valid-for-24-hours]",
+    "title": "You’re Invited: Join our new Discord [valid for 24 hours]",
+    "date": "2025-02-12",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-xor-da-basin-server",
+    "title": "Weeknotes: Data availability with XOR-based schemes",
+    "date": "2024-07-23",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-base-ethcc-console-s3",
+    "title": "Weeknotes: Base mainnet, EthCC, Studio Console, & upcoming Basin features",
+    "date": "2024-07-17",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-ethcc-proof-of-data",
+    "title": "Weeknotes: Base Sepolia goes live & EthCC Proof of Data event",
+    "date": "2024-06-17",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-data-landscape-basin",
+    "title": "Weeknotes: Decentralized data landscape, Basin intro, Rust server 101 with warp, & GenAI design patterns",
+    "date": "2024-06-10",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders",
+    "title": "Unlocking the future of data: high-value solutions for onchain builders",
+    "date": "2024-06-06",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/basin-launch-overview",
+    "title": "An introduction to Basin: The first data L2 on Filecoin",
+    "date": "2024-06-05",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-base-sepolia",
+    "title": "Weeknotes: Base Sepolia support, new query placeholders, Rust-isms, & AI learnings",
+    "date": "2024-06-03",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-basin-launch-poc",
+    "title": "Weeknotes: Basin launch, IoTeX + Risc0 + WeatherXM POC, & upcoming hackathons",
+    "date": "2024-05-29",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/wxm-w3bstream-risc0-poc",
+    "title": "Bringing transparency to DePIN token incentives",
+    "date": "2024-05-28",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/introducing-basin",
+    "title": "Decentralizing object storage and data availability through scalable Filecoin subnets",
+    "date": "2024-05-23",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-studio-copy-feature,-brave-wallet-siwe,-updated-docs,-and-the-curb-cut-effect",
+    "title": "Weeknotes: Studio copy feature, Brave wallet + SIWE, updated docs, & the Curb Cut Effect",
+    "date": "2024-05-13",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-new-sdk,-depin-twitter-space,-and-designing-for-devs",
+    "title": "Weeknotes: New SDK, DePIN Twitter space, & designing for devs",
+    "date": "2024-04-29",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-axelar-for-filecoin-and-ethereum-bridging,-building-on-tableland-with-python,-and-a-brief-history-of-dark-mode-in-applications",
+    "title": "Weeknotes: Axelar for Filecoin and Ethereum bridging, building on Tableland with Python, and a brief history of dark mode in applications",
+    "date": "2024-04-08",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weatherxm-textile-depin-data-storage",
+    "title": "WeatherXM + Textile: DePIN Data Storage, Retrieval, & Rewards Computation",
+    "date": "2024-04-08",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-dimo-launch",
+    "title": "Weeknotes: DIMO launch, New Data Paradigm discussion, & DePIN corner with Nodle",
+    "date": "2024-05-20",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-ethers-polygon-amoy,-tableland-studio-highlights,-depin-corner-with-wingbits,-design-through-prototyping,-and-decentralized-ai-twitter-space-retro",
+    "title": "Weeknotes: Ethers + Polygon Amoy, Tableland Studio highlights, DePIN corner with Wingbits, design through prototyping, & decentralized AI Twitter space retro",
+    "date": "2024-04-15",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-generating-distributed-random-variables-using-cryptographic-hashes,-solving-ethers-v6-hardhat-nonce-issues,-and-thinking-about-responsive-design",
+    "title": "Weeknotes: Generating distributed random variables using cryptographic hashes, solving Ethers v6 + Hardhat nonce issues, & thinking about responsive design",
+    "date": "2024-04-22",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-dimo-polygon-launch",
+    "title": "DIMO Launches Vehicle Definitions Database on Tableland + Polygon",
+    "date": "2024-05-15",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/data-availability-reviewing-proof-and-storage-approaches",
+    "title": "Data Availability: Reviewing  proof & storage approaches",
+    "date": "2024-04-04",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-synthetic-data-generation,-reviewing-data-availability-proof-approaches,-and-depin-corner-with-streamr",
+    "title": "Weeknotes: Synthetic data generation, reviewing Data Availability proof approaches, & DePIN corner with Streamr",
+    "date": "2024-04-01",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/synthetic-foundations-the-future-of-data-in-web3",
+    "title": "Synthetic foundations: the future of data in web3",
+    "date": "2024-02-23",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-managing-nonces-on-vercel,-lit-encryption-docs,-depin-corner-with-dimo,-and-user-design-lineage",
+    "title": "Weeknotes: Managing nonces on Vercel, Lit encryption docs, DePIN corner with DIMO, and user design lineage",
+    "date": "2024-03-25",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-table-studio-launch,-encrypting-tableland-data-with-lit-protocol,-depin-corner-with-gensyn,-and-designing-for-peoples-actions",
+    "title": "Weeknotes: Table Studio launch, encrypting Tableland data with Lit Protocol, DePIN corner with Gensyn, and designing for people's actions",
+    "date": "2024-03-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-studio-launch-manage,-deploy,-and-discover-onchain-datasets",
+    "title": "Tableland Studio Launch: Manage, Deploy, & Discover Onchain Datasets",
+    "date": "2024-03-15",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-synthetic-ai-data,-new-tableland-post-support,-building-a-discord-webhook-bot,-depin-corner-with-geodnet,-and-ethdenver",
+    "title": "Weeknotes: Synthetic AI data, new Tableland POST support, building a Discord webhook bot, DePIN corner with GEODNET, & ETHDenver",
+    "date": "2024-02-26",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/blobs,-transient-storage,-and-data-availability-tableland-just-became-your-cheap-onchain-sql-database",
+    "title": "Blobs, transient storage, & data availability: Tableland just became your cheap onchain SQL database",
+    "date": "2024-03-13",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-deprecating-optimism-goerli,-weatherxm-daily-data-for-device-data-and-rewards,-depin-corner-with-envirobloq,-and-designing-with-agency",
+    "title": "Weeknotes: Deprecating Optimism Goerli, WeatherXM daily data for device data & rewards, DePIN corner with EnviroBloq, & designing with agency",
+    "date": "2024-03-11",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-new-basin-library,-studio-landing-page-with-trends-and-table-inspector,-and-more",
+    "title": "Weeknotes: New Basin library, Studio landing page with trends & table inspector, & more",
+    "date": "2024-03-04",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/basin-vaults-tracker-web3py-and-github-actions-to-parse-contract-events-for-new-vaults",
+    "title": "Basin Vaults Tracker: web3.py & GitHub Actions to Parse Contract Events for New Vaults",
+    "date": "2024-02-01",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-2023-retrospective",
+    "title": "Weeknotes: 2023 Retrospective",
+    "date": "2024-01-15",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-decentralized-range-queries,-new-showcase,-web3py-eventslogs,-and-more",
+    "title": "Weeknotes: Decentralized range queries, new Showcase, web3.py + events/logs, & more",
+    "date": "2024-01-22",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-january-8,-2024",
+    "title": "Weeknotes: January 8, 2024",
+    "date": "2024-01-08",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-farcaster-replicator-demo,-depin-corner-with-natix,-and-optimizing-for-remote-communication",
+    "title": "Weeknotes: Farcaster replicator demo, DePIN corner with NATIX, & optimizing for remote communication",
+    "date": "2024-02-19",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/farcaster-replicator-how-to-further-decentralize-the-stack-with-textile",
+    "title": "Farcaster Replicator: How to Further Decentralize the Stack with Textile",
+    "date": "2024-02-15",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-forking-with-local-tableland,-the-proof-of-data-summit,-and-more",
+    "title": "Weeknotes: Forking with Local Tableland, the Proof of Data summit, & more",
+    "date": "2024-02-12",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-merkle-mountain-ranges,-depin-corner-with-w3bstream,-and-more",
+    "title": "Weeknotes: Merkle Mountain Ranges, DePIN corner with W3bstream, & more",
+    "date": "2024-02-05",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/gearing-up-for-a-dynamic-week-at-ethdenver-with-tableland",
+    "title": "Gearing Up for a Dynamic Week at ETHDenver with Tableland!",
+    "date": "2024-02-22",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-basin-vaults-tracker,-depins-and-data-availability,-and-user-design-thoughts",
+    "title": "Weeknotes: Basin vaults tracker, DePINs & data availability, & user design thoughts",
+    "date": "2024-01-29",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/4"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/solutions-for-depin-data-management-and-collaboration",
+    "title": "Solutions for DePIN Data Management & Collaboration",
+    "date": "2023-12-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-october-30,-2023",
+    "title": "Weeknotes: October 30, 2023",
+    "date": "2023-10-30",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/december-18,-2023",
+    "title": "December 18, 2023",
+    "date": "2023-12-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-november-27,-2023",
+    "title": "Weeknotes: November 27, 2023",
+    "date": "2023-11-27",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-december-4,-2023",
+    "title": "Weeknotes: December 4, 2023",
+    "date": "2023-12-05",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-november-13,-2023",
+    "title": "Weeknotes: November 13, 2023",
+    "date": "2023-11-13",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-december-11,-2023",
+    "title": "Weeknotes: December 11, 2023",
+    "date": "2023-12-12",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weatherxm-partner-update",
+    "title": "WeatherXM Partner Update",
+    "date": "2023-10-31",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-november-6,-2023",
+    "title": "Weeknotes: November 6, 2023",
+    "date": "2023-11-06",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-november-20,-2023",
+    "title": "Weeknotes: November 20, 2023",
+    "date": "2023-11-20",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/5"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-october-23,-2023",
+    "title": "Weeknotes: October 23, 2023",
+    "date": "2023-10-23",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/fostering-verifiable-trust-showcasing-the-open-data-hack-winner-tableland-attestation-service",
+    "title": "Fostering Verifiable Trust: Showcasing the Open Data Hack Winner 'Tableland Attestation Service'",
+    "date": "2023-10-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-—-october-9,-2023",
+    "title": "Weeknotes — October 9, 2023",
+    "date": "2023-10-10",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/sqlite-and-database-tooling",
+    "title": "SQLite & Database Tooling",
+    "date": "2023-09-29",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-—-october-5,-2023",
+    "title": "Weeknotes — October 5, 2023",
+    "date": "2023-10-05",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/building-a-secure,-verifiable-future-for-depin-data-introducing-our-partnership-with-dimo-and-weatherxm",
+    "title": "Building a Secure, Verifiable Future for DePIN data: Introducing Our Partnership with DIMO and WeatherXM",
+    "date": "2023-08-31",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-—-october-2,-2023",
+    "title": "Weeknotes — October 2, 2023",
+    "date": "2023-10-02",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-october-16,-2023",
+    "title": "Weeknotes: October 16, 2023",
+    "date": "2023-10-16",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-—-september-22,-2023",
+    "title": "Weeknotes — September 22, 2023",
+    "date": "2023-09-22",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "title": "Bridging Real and Virtual Worlds: Showcasing the Open Data Hack Winner '3D Print Near Me'",
+    "date": "2023-10-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/6"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/token-reputation-chain-based-tracking-using-nfts",
+    "title": "Token Reputation: Chain-based Tracking using NFTs",
+    "date": "2023-07-26",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/unlocking-web3s-data-potential-dollar8m-series-a,-web3-native-sql,-and-reusable-data-blueprints",
+    "title": "Unlocking Web3's data potential: $8M Series A, web3-native SQL, and reusable data blueprints",
+    "date": "2023-04-20",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/weeknotes-—-april-20,-2023",
+    "title": "Weeknotes — April 20, 2023",
+    "date": "2023-04-20",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/discord-roles-from-chain-driven-application-data",
+    "title": "Discord Roles from Chain-driven Application Data",
+    "date": "2023-08-10",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-demo-day",
+    "title": "Tableland Demo Day",
+    "date": "2023-03-10",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/the-quest-for-a-content-addressable-sqlite",
+    "title": "The Quest for a Content Addressable SQLite",
+    "date": "2023-08-17",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-newsletter-002",
+    "title": "Tableland Newsletter 002",
+    "date": "2023-04-20",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-launches-support-for-arbitrum-nova",
+    "title": "Tableland Launches Support for Arbitrum Nova",
+    "date": "2023-04-04",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/garage-voting-nft-owner-reputation-and-rewards",
+    "title": "Garage Voting: NFT Owner Reputation & Rewards",
+    "date": "2023-08-09",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-filecoin-fevm-support",
+    "title": "Tableland + Filecoin: FEVM Support",
+    "date": "2023-08-16",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/7"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/introducing-the-tableland-nft-rigs",
+    "title": "Introducing the Tableland NFT: Rigs",
+    "date": "2022-06-06",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/the-tableland-newsletter",
+    "title": "The Tableland Newsletter",
+    "date": "2023-02-24",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/announcing-pilot-program-3",
+    "title": "Announcing Pilot Program 3",
+    "date": "2022-12-21",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/paying-it-forward",
+    "title": "Paying it forward",
+    "date": "2022-12-12",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/evolution-of-the-tableland-pilot-program",
+    "title": "Evolution of the Tableland Pilot Program",
+    "date": "2022-12-22",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/welcome-to-tableland",
+    "title": "Welcome to Tableland",
+    "date": "2022-02-18",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/tableland-partners-with-toucan-on-climate-responsibility",
+    "title": "Tableland Partners with Toucan on Climate Responsibility",
+    "date": "2022-08-10",
+    "authors": [],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/p/8"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/nfl-arena-can-llms-predict-football-outcomes",
+    "title": "NFL Arena: Can LLMs predict football outcomes?",
+    "date": "2025-12-03",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-is-live",
+    "title": "RECALL is live!",
+    "date": "2025-10-15",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-tokenomics",
+    "title": "RECALL Tokenomics",
+    "date": "2025-09-30",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-token-skill-markets-for-ai",
+    "title": "$$RECALL: Skill Markets for AI",
+    "date": "2025-09-24",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/our-vision-for-agent-discovery",
+    "title": "Our Vision for Agent Discovery",
+    "date": "2025-06-20",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-model-arena-experiments-with-community-driven-evals",
+    "title": "Recall Model Arena: Experiments with Community-Driven Evals",
+    "date": "2025-08-28",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/conviction-staking",
+    "title": "Introducing Conviction Rewards",
+    "date": "2025-10-12",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-airdrop",
+    "title": "Announcing the Recall Airdrop",
+    "date": "2025-10-07",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/model-arena-gpt-5-predictions-v-reality",
+    "title": "Model Arena: GPT-5 Predictions v. Reality",
+    "date": "2025-09-03",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-rank",
+    "title": "Recall Rank: Building Towards The World’s Most Trusted AI Rankings",
+    "date": "2025-08-29",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/competitions-a-better-framework-for-evaluating-ai-agents",
+    "title": "Competitions: A Better Framework For Evaluating AI Agents",
+    "date": "2025-05-21",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-recap-march-2025",
+    "title": "Recall Recap: March 2025",
+    "date": "2025-04-03",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/alphawave-the-ultimate-battleground-for-defai-agents",
+    "title": "AlphaWave: The ultimate battleground for DeFAI agents",
+    "date": "2025-03-13",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/introducing-recall-unstoppable-intelligence-for-ai",
+    "title": "Introducing Recall: Unstoppable Intelligence for AI",
+    "date": "2025-02-18",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-surge-community-points-program",
+    "title": "Recall Surge: Community Points Program",
+    "date": "2025-03-27",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/introducing-the-recall-foundation",
+    "title": "Introducing the Recall Foundation",
+    "date": "2025-03-25",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/announcing-recall-testnet-is-live",
+    "title": "Announcing Recall Testnet is Live",
+    "date": "2025-03-06",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/signalsxethdenver",
+    "title": "Signals Recap: Exploring the Agentic Web",
+    "date": "2025-03-24",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/why-ai-agent-competitions",
+    "title": "Why AI Agent Competitions?",
+    "date": "2025-04-02",
+    "authors": [],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland/weeknotes-october-30,-2023",
+    "title": "Weeknotes: October 30, 2023",
+    "date": "2023-10-30",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland/weeknotes-november-6,-2023",
+    "title": "Weeknotes: November 6, 2023",
+    "date": "2023-11-06",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/synthetic-foundations-the-future-of-data-in-web3",
+    "title": "Synthetic foundations: the future of data in web3",
+    "date": "2024-02-23",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/weatherxm-textile-depin-data-storage-retrieval-rewards-computation",
+    "title": "WeatherXM + Textile: DePIN Data Storage, Retrieval, & Rewards Computation",
+    "date": "2024-03-11",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-studio-launch-manage-deploy-discover-onchain-datasets",
+    "title": "Tableland Studio Launch: Manage, Deploy, & Discover Onchain Datasets",
+    "date": "2024-03-15",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/blobs-transient-storage-data-availability-tableland-just-became-your-cheap-onchain-sql-database",
+    "title": "Blobs, transient storage, & data availability: Tableland just became your cheap onchain SQL database",
+    "date": "2024-03-13",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/data-availability-reviewing-proof-storage-approaches",
+    "title": "Data Availability: Reviewing  proof & storage approaches",
+    "date": "2024-04-04",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/gearing-up-for-a-dynamic-week-at-ethdenver-with-tableland",
+    "title": "Gearing Up for a Dynamic Week at ETHDenver with Tableland!",
+    "date": "2024-02-22",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/farcaster-replicator-how-to-further-decentralize-the-stack-with-textile",
+    "title": "Farcaster Replicator: How to Further Decentralize the Stack with Textile",
+    "date": "2024-02-15",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/basin-vaults-tracker-web3-py-github-actions-to-parse-contract-events-for-new-vaults",
+    "title": "Basin Vaults Tracker: web3.py & GitHub Actions to Parse Contract Events for New Vaults",
+    "date": "2024-02-01",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/solutions-for-depin-data-management-collaboration",
+    "title": "Solutions for DePIN Data Management & Collaboration",
+    "date": "2023-12-18",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/weatherxm-partner-update",
+    "title": "WeatherXM Partner Update",
+    "date": "2023-10-31",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/fostering-verifiable-trust-showcasing-the-open-data-hack-winner-tableland-attestation-service",
+    "title": "Fostering Verifiable Trust: Showcasing the Open Data Hack Winner 'Tableland Attestation Service'",
+    "date": "2023-10-18",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "title": "Bridging Real and Virtual Worlds: Showcasing the Open Data Hack Winner '3D Print Near Me'",
+    "date": "2023-10-18",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/bridging-real-and-virtual-worlds-showcasing-the-open-data-hack-winner-3d-print-near-me",
+    "title": "Bridging Real and Virtual Worlds: Showcasing the Open Data Hack Winner '3D Print Near Me'",
+    "date": "2023-10-18",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/the-quest-for-a-content-addressable-sqlite",
+    "title": "The Quest for a Content Addressable SQLite",
+    "date": "2023-08-17",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/building-a-secure-verifiable-future-for-depin-data-introducing-our-partnership-with-dimo-and-weatherxm",
+    "title": "Building a Secure, Verifiable Future for DePIN data: Introducing Our Partnership with DIMO and WeatherXM",
+    "date": "2023-08-31",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/unlocking-web3-s-data-potential-8m-series-a-web3-native-sql-and-reusable-data-blueprints",
+    "title": "Unlocking Web3's data potential: $8M Series A, web3-native SQL, and reusable data blueprints",
+    "date": "2023-04-20",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/sqlite-database-tooling",
+    "title": "SQLite & Database Tooling",
+    "date": "2023-09-29",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/discord-roles-from-chain-driven-application-data",
+    "title": "Discord Roles from Chain-driven Application Data",
+    "date": "2023-08-10",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-launches-support-for-arbitrum-nova",
+    "title": "Tableland Launches Support for Arbitrum Nova",
+    "date": "2023-04-04",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-filecoin-fevm-support",
+    "title": "Tableland + Filecoin: FEVM Support",
+    "date": "2023-08-16",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/garage-voting-nft-owner-reputation-rewards",
+    "title": "Garage Voting: NFT Owner Reputation & Rewards",
+    "date": "2023-08-09",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/token-reputation-chain-based-tracking-using-nfts",
+    "title": "Token Reputation: Chain-based Tracking using NFTs",
+    "date": "2023-07-26",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-newsletter-002",
+    "title": "Tableland Newsletter 002",
+    "date": "2023-04-20",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-demo-day",
+    "title": "Tableland Demo Day",
+    "date": "2023-03-09",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/2"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/announcing-pilot-program-3",
+    "title": "Announcing Pilot Program 3",
+    "date": "2022-12-21",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/paying-it-forward",
+    "title": "Paying it forward",
+    "date": "2022-12-12",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/the-tableland-newsletter",
+    "title": "The Tableland Newsletter",
+    "date": "2023-03-09",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/welcome-to-tableland",
+    "title": "Welcome to Tableland",
+    "date": "2022-02-17",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/evolution-of-the-tableland-pilot-program",
+    "title": "Evolution of the Tableland Pilot Program",
+    "date": "2022-12-21",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/tableland-partners-with-toucan-on-climate-responsibility",
+    "title": "Tableland Partners with Toucan on Climate Responsibility",
+    "date": "2022-08-10",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://paragraph.com/@tableland-2/introducing-the-tableland-nft-rigs",
+    "title": "Introducing the Tableland NFT: Rigs",
+    "date": "2022-05-10",
+    "authors": [],
+    "publication": "Tableland Mirror / Paragraph",
+    "sources": [
+      "https://paragraph.com/@tableland-2/p/3"
+    ],
+    "evidence": "public publication listing",
+    "http_status": null,
+    "checked": "2026-10-15",
+    "links": []
+  }
+]
