@@ -1,0 +1,978 @@
+[
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=blog.3box.io/*&output=json&filter=statuscode:200&collapse=urlkey",
+    "status": 200,
+    "rows": []
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=blog.textile.photos/*&output=json&filter=statuscode:200&collapse=urlkey",
+    "status": 200,
+    "rows": []
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=medium.com/@andrewxhill/*&output=json&filter=statuscode:200&collapse=urlkey",
+    "status": 200,
+    "rows": [
+      {
+        "urlkey": "com,medium)/@andrewxhill",
+        "timestamp": "20190413122115",
+        "original": "https://medium.com/@andrewxhill",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "L2MFBNTRND3CBNXDTMRWRI2JQ6MNWPRX",
+        "length": "12577"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill/following?source=post_page---post_author_info--7dd8dea8953a--------------------------------",
+        "timestamp": "20250109023328",
+        "original": "https://medium.com/@andrewxhill/following?source=post_page---post_author_info--7dd8dea8953a--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "AXC5V46DONA62BK4KYITEJVFDBTB7OHX",
+        "length": "22935"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill/hello-medium-maps-e38f09f486ab",
+        "timestamp": "20150722135800",
+        "original": "https://medium.com/@andrewxhill/hello-medium-maps-e38f09f486ab",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "VHMARSWVQXBQTSJRRMO3W4XOOOBXDWJR",
+        "length": "11192"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill/how-to-add-maps-to-a-medium-post-8e881f99c56d",
+        "timestamp": "20150722135959",
+        "original": "https://medium.com/@andrewxhill/how-to-add-maps-to-a-medium-post-8e881f99c56d",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "RF2I3BVUDZRIXTTAPLHKEZFGBAPLHYBF",
+        "length": "11378"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill/how-to-avoid-idea-averaging-and-let-only-the-best-ideas-through-27765fe88d5b",
+        "timestamp": "20170109083112",
+        "original": "https://medium.com/@andrewxhill/how-to-avoid-idea-averaging-and-let-only-the-best-ideas-through-27765fe88d5b",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "LE3PCY4AAKMI3NEUYSLDYRV37JGJY5RM",
+        "length": "17375"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill/nice-the-one-thing-i-always-feel-at-a-smaller-company-is-the-need-for-entrepreneurialism-in-a-fa39dcbcb11e",
+        "timestamp": "20170109085433",
+        "original": "https://medium.com/@andrewxhill/nice-the-one-thing-i-always-feel-at-a-smaller-company-is-the-need-for-entrepreneurialism-in-a-fa39dcbcb11e",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "5S65G4QJLDW6XB222CIFMVFAZBECUGMB",
+        "length": "16032"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=---------10------------------",
+        "timestamp": "20190723071307",
+        "original": "https://medium.com/@andrewxhill?source=---------10------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "O7EJVLMHYC6AKNXVGEE6P6DPV5YVBN6V",
+        "length": "15018"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=---------3------------------",
+        "timestamp": "20190426003927",
+        "original": "https://medium.com/@andrewxhill?source=---------3------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "XGUD4RCZDJJVUROF6OACDXSOULUWJDGC",
+        "length": "12517"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=---three_column_layout_sidebar----------------------------------",
+        "timestamp": "20221101233129",
+        "original": "https://medium.com/@andrewxhill?source=---three_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "E4R2VDXXZEBLOCKFSSMDV6YQQHZWPRHG",
+        "length": "30989"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=blogrolls_sidebar-------------------------------------",
+        "timestamp": "20220603102454",
+        "original": "https://medium.com/@andrewxhill?source=blogrolls_sidebar-------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "YJNXUPPOMF55WRG6FEUI5ZPQZE5HAOVB",
+        "length": "32152"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=blogrolls_sidebar---two_column_layout_sidebar----------------------------------",
+        "timestamp": "20230308184002",
+        "original": "https://medium.com/@andrewxhill?source=blogrolls_sidebar---two_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "6JBVGCD4Y4KPN2ULKYCE53B3VHN6BL7J",
+        "length": "31416"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_internal_links---------0----------------------------",
+        "timestamp": "20230126054111",
+        "original": "https://medium.com/@andrewxhill?source=post_internal_links---------0----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "2R5QSEIZGBHVQHQVFTL3RRJDARBVYCGM",
+        "length": "31232"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_internal_links---------3-------------------------------",
+        "timestamp": "20211210030706",
+        "original": "https://medium.com/@andrewxhill?source=post_internal_links---------3-------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "TBKTAQ7WARNQTJ2X4UYNNZGP7QCSUYXL",
+        "length": "34057"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_internal_links---------6----------------------------",
+        "timestamp": "20221220222845",
+        "original": "https://medium.com/@andrewxhill?source=post_internal_links---------6----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "H6DDU35D3PAHID4A4XOMP6PHJXWVYJIN",
+        "length": "30947"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_page-----7dd8dea8953a--------------------------------",
+        "timestamp": "20221101233129",
+        "original": "https://medium.com/@andrewxhill?source=post_page-----7dd8dea8953a--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "P6WYSJ74X6RRIICEUPJYHGKLNDOAN55Z",
+        "length": "30963"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_page-----abf7ab33b638----0----------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@andrewxhill?source=post_page-----abf7ab33b638----0----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "VKV4P4OWIABCGBKQFIJMXZ2UP7SAINZM",
+        "length": "31137"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_page-----abf7ab33b638----1----------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@andrewxhill?source=post_page-----abf7ab33b638----1----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "BDTGZ6PYSR63Y6OOYYUV7FBIURN2ZX3N",
+        "length": "31134"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_page---byline--7dd8dea8953a--------------------------------",
+        "timestamp": "20250109015249",
+        "original": "https://medium.com/@andrewxhill?source=post_page---byline--7dd8dea8953a--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "4PBWGHRRAVAA7M3PRB5N42VLFIBOIS3Y",
+        "length": "27837"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=post_page---post_author_info--7dd8dea8953a--------------------------------",
+        "timestamp": "20250108123037",
+        "original": "https://medium.com/@andrewxhill?source=post_page---post_author_info--7dd8dea8953a--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "TOWPAX2HFDOJCJBGESRZUOWQ7YQS457D",
+        "length": "27786"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=topic_portal---recommended_stories---textile---5-85--------------------77ff8142_1064_4994_9533_c9bdf1f89dae--------------",
+        "timestamp": "20250827175833",
+        "original": "https://medium.com/@andrewxhill?source=topic_portal---recommended_stories---textile---5-85--------------------77ff8142_1064_4994_9533_c9bdf1f89dae--------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "UADBQDLTMLBI5CDCD43GNEXXLQOI5WFD",
+        "length": "28270"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=user_following_page----------------------121df030bcdc---------------",
+        "timestamp": "20250113170018",
+        "original": "https://medium.com/@andrewxhill?source=user_following_page----------------------121df030bcdc---------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "NVOR5MEGVVDPFX5XC3L7KE5ED23HCWHG",
+        "length": "26983"
+      },
+      {
+        "urlkey": "com,medium)/@andrewxhill?source=user_profile_page---blogroll-------------------96fda73de01----------------------",
+        "timestamp": "20250905030328",
+        "original": "https://medium.com/@andrewxhill?source=user_profile_page---blogroll-------------------96fda73de01----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "GXNS6ORMWOFBKMPUQ54OUFS6IGIV2Q2M",
+        "length": "28353"
+      }
+    ]
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=medium.com/@carsonfarmer/*&output=json&filter=statuscode:200&collapse=urlkey",
+    "status": 200,
+    "rows": [
+      {
+        "urlkey": "com,medium)/@carsonfarmer",
+        "timestamp": "20181009181330",
+        "original": "https://medium.com/@carsonfarmer",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "FHTN4QDV2GW5A46HDLRXASVRJEDV7LRI",
+        "length": "12424"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/-dsn.algolia.net",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/-dsn.algolia.net",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "P3ROPR46T4N3TJG3CATFUVITYBR2L5JE",
+        "length": "20879"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/0*gql3dqmn9grsjv5l.jpg",
+        "timestamp": "20250922122149",
+        "original": "https://medium.com/@carsonfarmer/0*GQl3dQMN9grsJV5l.jpg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "PLTNL33KPYUEGIMUI4DUB4QFLHKPUSP6",
+        "length": "20717"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/0*jyfomxnyvvbw-0gp.jpg",
+        "timestamp": "20250922122051",
+        "original": "https://medium.com/@carsonfarmer/0*JYfoMxNyVVbw-0GP.jpg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "JOHBYPYFILLPG3YCJESZ3NU657G5TAKN",
+        "length": "20709"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/0*s72lqc_md2ovje2x.jpg",
+        "timestamp": "20250922122051",
+        "original": "https://medium.com/@carsonfarmer/0*s72Lqc_mD2OVJe2x.jpg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "JAD5TJKDVN6MMXRMZZSHR7YUT7KTL2TC",
+        "length": "20951"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/0*v_i7eaqj996qfn50.png",
+        "timestamp": "20250922122149",
+        "original": "https://medium.com/@carsonfarmer/0*V_I7eaqJ996QfN50.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "EF5M2ZMQ5B2YKHHWJKZSU3XNLUVHVWEH",
+        "length": "20688"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*-keu3hnh5fbza4rb3g0jaa.jpeg",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/1*-KEU3HNH5FBZA4rb3G0JaA.jpeg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "IYPYNFNGP27GCNV43HS6VYSH3D5HQT36",
+        "length": "20726"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*0lzkvg1rovyqddn-k6vrhw@2x.jpeg",
+        "timestamp": "20250922122051",
+        "original": "https://medium.com/@carsonfarmer/1*0lZkvg1rOVyQdDn-k6VRHw@2x.jpeg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "4LD7MEZAAWG5UKT742UYMFJJPWSHBXCS",
+        "length": "20728"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*8pyc3x0foudzwhg6w6t57g.jpeg",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/1*8pYc3x0FoUdZwHg6W6T57g.jpeg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "EOPHNTCRLN4P3L6ZJ7QW2X5XX3WSZMFI",
+        "length": "20759"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*dmbnkd5d-u45r44go_cf0g.png",
+        "timestamp": "20250922122050",
+        "original": "https://medium.com/@carsonfarmer/1*dmbNkD5D-u45r44go_cf0g.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ELHMFSDR5DAOHN2FWN24DZFMTV2QG2CK",
+        "length": "20714"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*gpn3slodwyjy3x7onlyzgq.png",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/1*gpn3SLODWyjY3X7ONlyzgQ.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "BYPE5K23PBUHQOVWNL7LHRVPEATQXEIF",
+        "length": "20747"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*kkago6d4pyllzcbu3_0kcw.png",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/1*KKaGO6d4pyllzcBU3_0Kcw.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "RGFGC5SVND5DDQUMP5C25LMWLW42DE4W",
+        "length": "20792"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*lj7-sascn1ghgp3gl5f6aq.png",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/1*lJ7-SaScN1ghGP3GL5f6aQ.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "KHLJMBBE7PKVJF5P2LAT3YKNLQPQE5A3",
+        "length": "20720"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*ngcpaigl22wzaovgcpevia.png",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/1*nGcpaIGL22WZaovGCpEviA.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "USFGAFZGLNVXVQB7274YKLWEL7IGZGVW",
+        "length": "20713"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/1*ptdy8pkwms-rysd3kch8cw.jpeg",
+        "timestamp": "20250922122149",
+        "original": "https://medium.com/@carsonfarmer/1*PTDy8pKWMs-Rysd3KcH8cw.jpeg",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "L5TPFGMVUQOWCJUUZWF4XJTOGRA7TJGO",
+        "length": "20721"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/216296035834-k1k6qe060s2tp2a2jam4ljdcms00sttg.apps.googleusercontent.com",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/216296035834-k1k6qe060s2tp2a2jam4ljdcms00sttg.apps.googleusercontent.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "KCV3DVEQFIKE6XANLBZJQPDFOEIY2O7M",
+        "length": "20933"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/50.00",
+        "timestamp": "20250922122148",
+        "original": "https://medium.com/@carsonfarmer/50.00",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "YDHAD4BHD5R7B6V662YZ7BGMRLLJJLKJ",
+        "length": "20877"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/7*v1_7xp4snlmqrc_0njontw.png",
+        "timestamp": "20250922122148",
+        "original": "https://medium.com/@carsonfarmer/7*V1_7XP4snlmqrc_0Njontw.png",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "HJ2N5SI23G3OMRNURWJ4FQ3ZUCDWXNTY",
+        "length": "20705"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/about",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/about",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "HWOQ4KJE5LU7YBZ57FB7SGMYWLKNIBK6",
+        "length": "22885"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/about?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "timestamp": "20250922121949",
+        "original": "https://medium.com/@carsonfarmer/about?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "TDOV6EG4UMW63X2SR63NRTCXBMJPJA7C",
+        "length": "22952"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/arcdigital.media",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/arcdigital.media",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "FI7SMAKX6WFFJQPNOQEFDTCN3TN4J2ZS",
+        "length": "20885"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/betterhumans.coach.me",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/betterhumans.coach.me",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "XWXRCUCBQKY7TUD3LJXINTMQAKUHKZPI",
+        "length": "20882"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/blog.agrivested.com",
+        "timestamp": "20250922122051",
+        "original": "https://medium.com/@carsonfarmer/blog.agrivested.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "L7H4UP5GOGACRHTXPTV34RZTY6NT664X",
+        "length": "20906"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/codeburst.io",
+        "timestamp": "20250922122229",
+        "original": "https://medium.com/@carsonfarmer/codeburst.io",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "H65R43MF2P3TOPF4JUKRX5MNT5GMJFBH",
+        "length": "20852"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/dennis.caldwell",
+        "timestamp": "20250922122051",
+        "original": "https://medium.com/@carsonfarmer/dennis.caldwell",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "7AN5B7V6UZJPP6Z27ZJNGZ7RQYBB6ZC5",
+        "length": "20885"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/entrepreneurshandbook.co",
+        "timestamp": "20250922122328",
+        "original": "https://medium.com/@carsonfarmer/entrepreneurshandbook.co",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "FIPBRFYN3SG6N6K23WXL27OD5F6S5WBV",
+        "length": "20859"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/followers?source=---two_column_layout_sidebar----------------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@carsonfarmer/followers?source=---two_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "4J2K7TFAWRPWL6X2GNO2X4WO2IHO4XWH",
+        "length": "17822"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/followers?source=post_page---post_author_info--67a99cd2c5---------------------------------------",
+        "timestamp": "20250822073243",
+        "original": "https://medium.com/@carsonfarmer/followers?source=post_page---post_author_info--67a99cd2c5---------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "SUVP2MRWJWUFNYNH7B2HKLN5UJO5OBU3",
+        "length": "24421"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/followers?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "timestamp": "20250922121949",
+        "original": "https://medium.com/@carsonfarmer/followers?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "LVSU5TYXGBYY6XK3IMZCA2JTJNINBDGV",
+        "length": "24049"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/followers?source=user_profile_page---user_sidebar-------------------adda52ceb6bc----------------------",
+        "timestamp": "20250922121949",
+        "original": "https://medium.com/@carsonfarmer/followers?source=user_profile_page---user_sidebar-------------------adda52ceb6bc----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "PFIPIS2OEM6G2G62WVASQF2KQDAU344B",
+        "length": "24014"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/has-recommended",
+        "timestamp": "20180920044541",
+        "original": "https://medium.com/@carsonfarmer/has-recommended",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "UG6XH4VVN5SVB23624QB63ZEBMLFHO7C",
+        "length": "19290"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/highlights",
+        "timestamp": "20180920044544",
+        "original": "https://medium.com/@carsonfarmer/highlights",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ON6YL7MVYGIANKW5CYYPMM7C27WED6WN",
+        "length": "11721"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/me.dm",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/me.dm",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "EMEQICB3HKYJ3CIRT5KHPS5PNHMB4BBD",
+        "length": "20866"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/medium.com",
+        "timestamp": "20250922122050",
+        "original": "https://medium.com/@carsonfarmer/medium.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "SSCO5VMNIPIW3K44XMVCWXSJI5J5S36D",
+        "length": "20899"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/prototypr.io",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/prototypr.io",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "3NJ6SGCCAXPFNBXT73B3EHHW4L7NTVYW",
+        "length": "20855"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/psiloveyou.xyz",
+        "timestamp": "20250922122229",
+        "original": "https://medium.com/@carsonfarmer/psiloveyou.xyz",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "LA2ZIOBHPSYQO34FNIO37E2ARR7KJC62",
+        "length": "20868"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/responses",
+        "timestamp": "20180920044547",
+        "original": "https://medium.com/@carsonfarmer/responses",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ENIZAWLDWVMCSLV6BSUHYCRCTKPSID2M",
+        "length": "12316"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/temporal.cloud",
+        "timestamp": "20250922122400",
+        "original": "https://medium.com/@carsonfarmer/Temporal.cloud",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "LVUNFETJZX4SZEQA4RWRZQOZCTXYXQQZ",
+        "length": "20900"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/thanks-for-the-correction-updated-e5551f41bc9c",
+        "timestamp": "20191130134324",
+        "original": "https://medium.com/@carsonfarmer/thanks-for-the-correction-updated-e5551f41bc9c",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "S43YXW6GGKOYAD7XZGSGQXEUHZNJIUX4",
+        "length": "18375"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/theascent.pub",
+        "timestamp": "20250922122329",
+        "original": "https://medium.com/@carsonfarmer/theascent.pub",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "OMJYFYKN4DGLZC3WTMNRUFIXULNZE4FQ",
+        "length": "20869"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/thebolditalic.com",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/thebolditalic.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "TFXNH7UV7P533Z7J6OLBYVYYOIVUTDEH",
+        "length": "20876"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/towardsdatascience.com",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/towardsdatascience.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "TTX6UPLU2UKSZ3PPJCZSUFNMZIV7P6GO",
+        "length": "20905"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/uxdesign.cc",
+        "timestamp": "20250922122228",
+        "original": "https://medium.com/@carsonfarmer/uxdesign.cc",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "IO7XJAYMYCWH52FZSXSNMZEGSFUQINUZ",
+        "length": "20864"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer/writingcooperative.com",
+        "timestamp": "20250922122328",
+        "original": "https://medium.com/@carsonfarmer/writingcooperative.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "667ONMRF7E3WK3GWXZ7ZS7ZN2TD3FU5G",
+        "length": "20879"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?ref=hackernoon.com",
+        "timestamp": "20250922121842",
+        "original": "https://medium.com/@carsonfarmer?ref=hackernoon.com",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "CP3UFG235BPD73PEJKS54EBTEDEG5H3K",
+        "length": "28441"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=---three_column_layout_sidebar----------------------------------",
+        "timestamp": "20221103054640",
+        "original": "https://medium.com/@carsonfarmer?source=---three_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ONC65CJTP65KKLZV3TCQZDN2DRXITYMU",
+        "length": "31044"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=---two_column_layout_sidebar----------------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@carsonfarmer?source=---two_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "UUOQNE6MNKAN65U4ZZZ65P7W7DJ45CP4",
+        "length": "31174"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=blogrolls_sidebar-------------------------------------",
+        "timestamp": "20220603102454",
+        "original": "https://medium.com/@carsonfarmer?source=blogrolls_sidebar-------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "3R3P7T7WC7K6SMQGO6AMKB66XVSRBIEX",
+        "length": "31632"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=blogrolls_sidebar---two_column_layout_sidebar----------------------------------",
+        "timestamp": "20221218194310",
+        "original": "https://medium.com/@carsonfarmer?source=blogrolls_sidebar---two_column_layout_sidebar----------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "GEK4M4NVHNRJJNCG6T5PKSM4QY5S7WGQ",
+        "length": "31118"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=collection_editor_card",
+        "timestamp": "20220811223215",
+        "original": "https://medium.com/@carsonfarmer?source=collection_editor_card",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ONAEJU3K6YYH2KA5TEH2YY3QIVPVTLIW",
+        "length": "29909"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=follow_footer--------------------------follow_footer-",
+        "timestamp": "20190709104952",
+        "original": "https://medium.com/@carsonfarmer?source=follow_footer--------------------------follow_footer-",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "7YIQW5JYDECRHMN37GKNEB7TIQEMTAW5",
+        "length": "14184"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------0----------------------------",
+        "timestamp": "20201007191641",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------0----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "635NYHJQAWQU65K66JSLO6OCA5HMBOF4",
+        "length": "21766"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------1------------------",
+        "timestamp": "20200825094525",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------1------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "IGWJFWHPSWIQXJNRYZ5UMJEJEWUCV22I",
+        "length": "21423"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------1----------------------------",
+        "timestamp": "20201015222935",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------1----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "AXNCLCUZQLO5PT3VRN73MHI2O7W6WJ23",
+        "length": "25281"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------2----------------------------",
+        "timestamp": "20210605221344",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------2----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "BAONGKYKVDU5ZA6P5STNPVXIEDJQZU2C",
+        "length": "26098"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------3------------------",
+        "timestamp": "20200601112610",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------3------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "AHTG2SYN6WOHCYRZMBQ7WIHAAZZOGBJG",
+        "length": "21745"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------3----------------------------",
+        "timestamp": "20210528200826",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------3----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "7CSL2I7SWPTQOHGIO6D3F2XMPOXO26UM",
+        "length": "33267"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------4------------------",
+        "timestamp": "20200621045355",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------4------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "GQARNYAFVPBX4IQQNXAQH7W77GR24FW6",
+        "length": "21108"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------4----------------------------",
+        "timestamp": "20201021081905",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------4----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "BRB34DLPJTXFDY4CI3MURHP2D5EEFD6V",
+        "length": "22297"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------5------------------",
+        "timestamp": "20200810144554",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------5------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ZNGB5N3BV2RQ7S2IDDTBJA3MLDKDPAUF",
+        "length": "21695"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------5----------------------------",
+        "timestamp": "20210128055920",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------5----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "OQQALWPBVR5663CAIY5RVFWVRRI7QNVS",
+        "length": "35694"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------6------------------",
+        "timestamp": "20200608195446",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------6------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "CEOIVONUPDWXEB7ZQ3XQFE466T5PJYOG",
+        "length": "22014"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------6----------------------------",
+        "timestamp": "20210508004419",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------6----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "LL6ELVBGE2376X5L32WLCNXQIUE6I5JY",
+        "length": "33128"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------7------------------",
+        "timestamp": "20200913115726",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------7------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "OUCCGRHFC7TYK54S63AP4DES4V3MYEYV",
+        "length": "21794"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_internal_links---------7----------------------------",
+        "timestamp": "20220515095439",
+        "original": "https://medium.com/@carsonfarmer?source=post_internal_links---------7----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "6JFQQXVR77MBMNIUDK7YHR6DYNOH6ND3",
+        "length": "30514"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----39cdf1bd9e28----------------------",
+        "timestamp": "20191115173812",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----39cdf1bd9e28----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "GOIB7O7Z2VLV4XU3HC6P6BEOOY6SWXTL",
+        "length": "17190"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----43ed71a70950----------------------",
+        "timestamp": "20190920192227",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----43ed71a70950----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "Q6EYRHLSHS6SFPGRHPJVXQBXPOCQRTIA",
+        "length": "15519"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----47af8bfd3c6a--------------------------------",
+        "timestamp": "20240919074611",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----47af8bfd3c6a--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "4RWGFBOZLGGKSBD5SMUQLY6CJQRJUDMP",
+        "length": "27010"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----51f9b8be5a74--------------------------------",
+        "timestamp": "20221103070126",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----51f9b8be5a74--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "WSKAE4KPJJC4BHWVGT23HLI7MKVOIBJG",
+        "length": "30989"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----873c1a31d939----------------------",
+        "timestamp": "20190915135309",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----873c1a31d939----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "QQUJ3SATIAFCB7AEKOID5IQ2RMQHXPNS",
+        "length": "15862"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----abf7ab33b638--------------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----abf7ab33b638--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "BVJXIHTIVI2ALXQK7GVQHR5WN7KJRODQ",
+        "length": "31113"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----abf7ab33b638----2----------------------------",
+        "timestamp": "20221218081020",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----abf7ab33b638----2----------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ALFDUAKXK5NBOPCMDBSPNXDH5QY5UOWO",
+        "length": "31234"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page-----c59b9e83098e--------------------------------",
+        "timestamp": "20220603102403",
+        "original": "https://medium.com/@carsonfarmer?source=post_page-----c59b9e83098e--------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "KSRJWUDLOCAJZFTH7N2BDNS7OXI2ENLA",
+        "length": "31781"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page---byline--67a99cd2c5---------------------------------------",
+        "timestamp": "20250822135443",
+        "original": "https://medium.com/@carsonfarmer?source=post_page---byline--67a99cd2c5---------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "5XVEHDVLNJC7PYTMLEEKPDCQULWGNTAB",
+        "length": "28556"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_page---post_author_info--67a99cd2c5---------------------------------------",
+        "timestamp": "20250827092215",
+        "original": "https://medium.com/@carsonfarmer?source=post_page---post_author_info--67a99cd2c5---------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "GXKCZWIXRU7547FKF3M2YCTYOYLECPYI",
+        "length": "28596"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_recirc---------0------------------",
+        "timestamp": "20190605173213",
+        "original": "https://medium.com/@carsonfarmer?source=post_recirc---------0------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "N5ZJBIGRGXBUU2JDOMG3HIN73UWZ54XN",
+        "length": "14017"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=post_recirc---------2------------------",
+        "timestamp": "20191109081604",
+        "original": "https://medium.com/@carsonfarmer?source=post_recirc---------2------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ENN4GVTN7JDGQ36B2GLXG3ISPXI7CO3N",
+        "length": "17348"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=topic_page---------0------------------1",
+        "timestamp": "20180920044531",
+        "original": "https://medium.com/@carsonfarmer?source=topic_page---------0------------------1",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "ROVV2OZOGVRMUUJ5O3TUCFNEJ7WAQCXT",
+        "length": "12989"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=topic_page---------10------------------1",
+        "timestamp": "20181208080735",
+        "original": "https://medium.com/@carsonfarmer?source=topic_page---------10------------------1",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "IYY2A2F6XQYVGMBTFLP6HPWOIEVH44RU",
+        "length": "11856"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=topic_page---------8------------------1",
+        "timestamp": "20180921081236",
+        "original": "https://medium.com/@carsonfarmer?source=topic_page---------8------------------1",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "CX5KTK7DZWHKWSVHKBEKBCLA2XLENATT",
+        "length": "12936"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=user_following_page----------------------96940ebee459----------------------",
+        "timestamp": "20251008220150",
+        "original": "https://medium.com/@carsonfarmer?source=user_following_page----------------------96940ebee459----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "NL3XAUDWZKZDSACJBPY4GQ73BND7IYSW",
+        "length": "27876"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=user_profile-------------------------------------",
+        "timestamp": "20220603102437",
+        "original": "https://medium.com/@carsonfarmer?source=user_profile-------------------------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "K4KYD3MGXCCC7I6TYNE7USRG4RJVRXLA",
+        "length": "31580"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "timestamp": "20250922121949",
+        "original": "https://medium.com/@carsonfarmer?source=user_profile_page----------------------adda52ceb6bc----------------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "5AFFWEI27VNMLF2UL7LSQB7OL4WDD2BE",
+        "length": "28548"
+      },
+      {
+        "urlkey": "com,medium)/@carsonfarmer?source=user_profile_page---blogroll-------------------d831003dce89---------------",
+        "timestamp": "20241201205005",
+        "original": "https://medium.com/@carsonfarmer?source=user_profile_page---blogroll-------------------d831003dce89---------------",
+        "mimetype": "text/html",
+        "statuscode": "200",
+        "digest": "OBOEIJRTG2JAC4NSGHYMEYAFOBPXVBCL",
+        "length": "27821"
+      }
+    ]
+  }
+]

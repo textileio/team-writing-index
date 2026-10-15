@@ -15,15 +15,30 @@
     },
     "historical_textile_medium_records": {
       "expected_urls": 261,
-      "all_catalogued_or_flagged": true
+      "all_accounted_for": true
     },
     "historical_3box_medium_records": {
       "expected_urls": 78,
-      "all_catalogued_or_flagged": true
+      "all_accounted_for": true
     },
-    "metadata_schema": true,
+    "archived_ghost_sitemap": {
+      "expected_urls": 140,
+      "all_catalogued": true
+    },
+    "baseline_88_partition": {
+      "catalogued": 56,
+      "excluded": 25,
+      "unresolved": 7,
+      "disjoint_and_exhaustive": true
+    },
+    "baseline_articles_preserved": {
+      "entries": 445,
+      "all_represented": true
+    },
+    "metadata_schema_and_unique_editions": true,
+    "retry_reading_links_preserved": true,
     "local_markdown_links": true,
-    "confirmed_and_unresolved_disjoint": true,
-    "article_bodies_excluded": true
+    "article_bodies_excluded": true,
+    "generated_counts": true
   }
 }

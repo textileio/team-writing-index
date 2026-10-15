@@ -1,15 +1,15 @@
 {
   "checked": "2026-10-15",
-  "distinct_articles": 445,
-  "edition_urls": 565,
+  "distinct_articles": 484,
+  "edition_urls": 621,
   "collections": {
     "Recall": 19,
-    "Ceramic / 3Box": 225,
-    "Textile / Tableland / Basin": 201
+    "Ceramic / 3Box": 230,
+    "Textile / Tableland / Basin": 235
   },
-  "url_only_candidates": 88,
-  "linked_blog_candidates": 233,
-  "linked_articles_with_metadata": 66,
-  "articles_without_publication_date": 15,
-  "outbound_urls": 2844
+  "url_only_candidates": 7,
+  "linked_blog_candidates": 270,
+  "linked_articles_with_metadata": 74,
+  "articles_without_publication_date": 6,
+  "outbound_urls": 3419
 }

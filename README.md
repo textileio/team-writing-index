@@ -31,9 +31,11 @@ The writing records more than product launches. It includes experiments, technic
 | [Research notes](research/coverage.md) | The sources we checked, how entries were matched, and the gaps that remain. |
 | [Structured catalogue](data/catalogue.json) | The bibliography as JSON for anyone who wants to search, analyze, or build on it. |
 
-The October 15, 2026 snapshot contains **445 distinct articles across 565 publication URLs**, with another 88 historical URLs awaiting metadata. The [full counts](research/counts.json) also cover linked reading and missing dates.
+The October 15, 2026 snapshot contains **484 distinct articles across 621 publication URLs**, with seven historical URLs still awaiting metadata. A [second recovery pass](research/recovery-pass-2/report.md) added 40 works and reconciled one existing duplicate. The [full counts](research/counts.json) also cover linked reading and missing dates.
 
 Each entry points to an original publication or an archived copy where one is available. Some company publications included guest contributors, and some migrations replaced individual bylines with a company name; we retain the attribution the sources provide. Older posts describe the products, APIs, and ideas as they were at the time they were written.
+
+This is a bibliography with reading links. Article text and images are not stored in the repository, and we cannot yet claim a complete record of everything the team published.
 
 ## Help fill in the gaps
 

@@ -35,7 +35,9 @@ def recover(row,publication,source,current_urls):
         l['url']=re.sub(r'^https?://web\.archive\.org/web/\d+(?:[a-z_]+)?/','',l['url'])
         if 'web.archive.org/' in l['url'] and '/web/' not in l['url']:l['url']=urljoin(original,urlsplit(l['url']).path)
     # Only bibliographic article pages, excluding author/landing pages.
-    if not a['date'] and not medium:return None
+    # Some genuine historical articles expose a heading and byline but no
+    # publication date. Keep those unknown dates rather than dropping the post.
+    if not a['date'] and not medium and not re.search(r'"@type"\s*:\s*"(?:Article|BlogPosting)"',result['body']):return None
     if a['title'] in ['Just a moment...','Medium','Textile','Textile Blog & Newsletter']:return None
     return a
 
@@ -51,7 +53,7 @@ def main():
             if host.startswith('medium'):
                 valid=re.fullmatch(r'textileio/[^/]+-[a-f0-9]{8,16}',path)
             else:
-                valid=len(path.split('/'))==1 and path and '.' not in path and not path.startswith(('rss','sitemap','robots','favicon','subscribe','ghost','members','signup','assets','search','unsubscribe'))
+                valid=len(path.split('/'))==1 and path and '.' not in path and path not in ['new','explore','register','join-newsletter','hosted-powergate','andrew','carson'] and not path.endswith('\\') and not path.startswith(('width=','rss','sitemap','robots','favicon','subscribe','ghost','members','signup','assets','search','unsubscribe'))
             if valid:candidates.setdefault(cleanurl(row['original']),row)
         print(host,'candidate article URLs',len(candidates),flush=True)
         with cf.ThreadPoolExecutor(max_workers=5) as ex:
