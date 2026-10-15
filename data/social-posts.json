@@ -1,0 +1,171 @@
+[
+  {
+    "url": "https://x.com/carsonfarmer/status/2107531595637010616",
+    "title": "My code is disposable now",
+    "title_basis": "Source article title",
+    "date": "2026-10-06",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "handle": "carsonfarmer",
+    "kind": "X article",
+    "scope": "Broader team writing: AI agent software development",
+    "post_ids": [
+      "2107531595637010616"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/2107531595637010616",
+      "https://hraness.com/reading/my-code-is-disposable-now"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated. Article title and content also confirmed in a saved public copy; the Oct 6 date is the sharing post/public-copy date, not an inferred article-ID timestamp.",
+    "checked": "2026-10-15",
+    "article_url": "https://x.com/i/article/2105068755994980352",
+    "reading_url": "https://hraness.com/reading/my-code-is-disposable-now"
+  },
+  {
+    "url": "https://x.com/andrewxhill/status/2039761350348681635",
+    "title": "Mainline: coordinating agents working on the same Git branch",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2026-04-02",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "handle": "andrewxhill",
+    "kind": "Thread",
+    "scope": "Recall tooling",
+    "post_ids": [
+      "2039761350348681635",
+      "2039761351997059162"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/2039761350348681635",
+      "https://api.fxtwitter.com/status/2039761351997059162"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/andrewxhill/status/2038982706810556771",
+    "title": "Codecontext: keeping decisions and context with agent-written code",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2026-03-31",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "handle": "andrewxhill",
+    "kind": "Thread",
+    "scope": "Recall tooling",
+    "post_ids": [
+      "2038982706810556771",
+      "2038982709062824254",
+      "2038982711604281742"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/2038982706810556771",
+      "https://api.fxtwitter.com/status/2038982709062824254",
+      "https://api.fxtwitter.com/status/2038982711604281742"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/andrewxhill/status/1608154688209420291",
+    "title": "Tableland developer livestream: building Solidity together",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2022-12-28",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "handle": "andrewxhill",
+    "kind": "Post",
+    "scope": "Tableland",
+    "post_ids": [
+      "1608154688209420291"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/1608154688209420291"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/andrewxhill/status/1145761996652126212",
+    "title": "IPFS Camp 2019: highlights and takeaways",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2019-07-01",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "handle": "andrewxhill",
+    "kind": "Article announcement",
+    "scope": "Textile / IPFS",
+    "post_ids": [
+      "1145761996652126212"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/1145761996652126212"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/carsonfarmer/status/1143217895456960517",
+    "title": "Textile js-http-client v1.0.0 release",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2019-06-24",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "handle": "carsonfarmer",
+    "kind": "Post",
+    "scope": "Textile",
+    "post_ids": [
+      "1143217895456960517"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/1143217895456960517"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/carsonfarmer/status/1138584925639020545",
+    "title": "Mentoring IPFS and Textile developers at ETHBerlin",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2019-06-11",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "handle": "carsonfarmer",
+    "kind": "Post",
+    "scope": "Textile / IPFS",
+    "post_ids": [
+      "1138584925639020545"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/1138584925639020545"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  },
+  {
+    "url": "https://x.com/andrewxhill/status/1120345778164203521",
+    "title": "Sharing lessons from building on IPFS at Commit Porto",
+    "title_basis": "Editorial description; the post has no standalone title",
+    "date": "2019-04-22",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "handle": "andrewxhill",
+    "kind": "Post",
+    "scope": "Textile / IPFS",
+    "post_ids": [
+      "1120345778164203521"
+    ],
+    "sources": [
+      "https://api.fxtwitter.com/status/1120345778164203521"
+    ],
+    "evidence": "Public FxTwitter JSON reproduces author, created_at, post URL, and text. Thread continuation reply IDs verified; full timeline was not enumerated.",
+    "checked": "2026-10-15"
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "url": "https://dl.ifip.org/db/conf/networking/networking2021/1570714336.pdf",
+    "title": "Decentralized identifiers for peer-to-peer service discovery",
+    "date": "2021-06-21",
+    "authors": [
+      "Carson Farmer",
+      "Sander Pick",
+      "Andrew Hill"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://dl.ifip.org/db/conf/networking/networking2021/1570714336.pdf",
+      "https://api.crossref.org/works/10.23919/IFIPNetworking52078.2021.9472201",
+      "https://networking.ifip.org/2021/program/workshops.html"
+    ],
+    "http_status": null,
+    "evidence": "Publisher PDF read with public web reader; authors confirmed in PDF and conference program; date is Crossref published-print, not deposit date.",
+    "checked": "2026-10-15",
+    "links": [],
+    "kind": "conference paper"
+  },
+  {
+    "url": "https://www.techdirt.com/2020/05/05/decentralized-web-could-help-preserve-internets-data-1000-years-heres-why-we-need-ipfs-to-build-it/",
+    "title": "The Decentralized Web Could Help Preserve The Internet's Data For 1,000 Years. Here's Why We Need IPFS To Build It.",
+    "date": "2020-05-05",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "Team writing on other sites",
+    "sources": [
+      "https://www.techdirt.com/2020/05/05/decentralized-web-could-help-preserve-internets-data-1000-years-heres-why-we-need-ipfs-to-build-it/"
+    ],
+    "http_status": 403,
+    "evidence": "Public web reader: article title, masthead date, named byline, and closing Textile affiliation.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/introducing-basin",
+    "title": "Decentralizing object storage and data availability through scalable Filecoin subnets",
+    "date": "2024-05-23",
+    "authors": [
+      "Textile",
+      "Andrew Hill"
+    ],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/introducing-basin"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders",
+    "title": "Unlocking the future of data: high-value solutions for onchain builders",
+    "date": "2024-06-06",
+    "authors": [
+      "Textile",
+      "Andrew Hill"
+    ],
+    "publication": "Textile / Tableland / Basin",
+    "sources": [
+      "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/model-arena-gpt-5-predictions-v-reality",
+    "title": "Model Arena: GPT-5 Predictions v. Reality",
+    "date": "2025-09-03",
+    "authors": [
+      "Andrew Hill",
+      "Dataliquidity"
+    ],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/model-arena-gpt-5-predictions-v-reality"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/our-vision-for-agent-discovery",
+    "title": "Our Vision for Agent Discovery",
+    "date": "2025-06-20",
+    "authors": [
+      "Dataliquidity",
+      "Carson Farmer"
+    ],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/our-vision-for-agent-discovery"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-model-arena-experiments-with-community-driven-evals",
+    "title": "Recall Model Arena: Experiments with Community-Driven Evals",
+    "date": "2025-08-28",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/recall-model-arena-experiments-with-community-driven-evals"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-rank",
+    "title": "Recall Rank: Building Towards The World’s Most Trusted AI Rankings",
+    "date": "2025-08-29",
+    "authors": [
+      "Dataliquidity",
+      "Carson Farmer"
+    ],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/recall-rank"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://blog.recall.network/recall-token-skill-markets-for-ai",
+    "title": "$RECALL: Skill Markets for AI",
+    "date": "2025-09-24",
+    "authors": [
+      "Dataliquidity",
+      "Carson Farmer",
+      "Andrew Hill"
+    ],
+    "publication": "Recall",
+    "sources": [
+      "https://blog.recall.network/recall-token-skill-markets-for-ai"
+    ],
+    "http_status": 200,
+    "evidence": "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship.",
+    "checked": "2026-10-15",
+    "links": []
+  },
+  {
+    "url": "https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338",
+    "title": "A deeper look at the tech behind Textile’s Threads",
+    "date": "2018-10-31",
+    "authors": [
+      "Carson Farmer",
+      "Sander Pick"
+    ],
+    "publication": "Textile on Medium",
+    "sources": [
+      "https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338"
+    ],
+    "http_status": null,
+    "evidence": "Public web reader: inline Written by credit explicitly names Carson Farmer and Sander Pick; Medium account masthead alone omits the coauthor.",
+    "checked": "2026-10-15",
+    "links": []
+  }
+]

@@ -81,7 +81,8 @@ def main():
                 if source not in entry['sources']:entry['sources'].append(source)
             if a.get('evidence') and a['evidence'] not in entry['evidence']:entry['evidence'].append(a['evidence'])
         pubs={a.get('publication','') for a in items}
-        if 'Recall' in pubs:collection='Recall'
+        if 'GitHub papers and workshops' in pubs:collection='Papers and workshops'
+        elif 'Recall' in pubs:collection='Recall'
         elif any('Ceramic' in p or '3Box' in p for p in pubs):collection='Ceramic / 3Box'
         elif all(p=='Team writing on other sites' for p in pubs):collection='Other team bylines'
         else:collection='Textile / Tableland / Basin'
@@ -107,13 +108,37 @@ def main():
                 if e.get('archive_url'):alts.append(link('archive',e['archive_url']))
             lines.append('| '+(a['date'] or 'Unknown')+' | '+link(a['title'],main['archive_url'] if main.get('archive_url') and main['http_status']!=200 else main['url'])+' | '+esc(', '.join(a['authors']) or 'Not exposed by source')+' | '+'; '.join(alts)+' |')
         return lines
-    mainlines=['# Team writing index','',f'Researched {DAY}. Bibliographic index with original, migrated, and archived editions; article bodies are not republished.','', 'Company publications include guest contributors. A company byline is retained when a migration no longer exposes the original individual author. Dates are publication dates from article metadata, feeds, or publication cards; archive capture and sitemap modification dates are never substituted.','', 'See [coverage and gaps](research/coverage.md), [URL-only historical candidates](indexes/unresolved.md), [linked reading](indexes/linked-reading.md), and [machine-readable catalogue](data/catalogue.json).','']
-    for collection in ['Recall','Textile / Tableland / Basin','Other team bylines']:
+    social=json.loads((ROOT/'data/social-posts.json').read_text())
+    talks=json.loads((ROOT/'data/talks.json').read_text())
+    mainlines=['## Writing index','',f'Researched {DAY}. **{len(catalogue)} distinct articles, papers, and guides across {sum(len(a["editions"]) for a in catalogue)} publication URLs**, plus **{len(social)} X posts, threads, and articles** listed separately below. Another {len(unresolved)} historical article URLs await metadata.','', '**Jump to:** [Recall](#recall) · [Textile / Tableland / Basin](#textile--tableland--basin) · [Papers and workshops](#papers-and-workshops) · [Other team bylines](#other-team-bylines) · [X posts and long-form writing](#x-posts-and-long-form-writing).','', 'Company publications include guest contributors. A company byline is retained when a migration no longer exposes the original individual author. Dates come from article metadata, feeds, publication cards, or explicitly documented source records. Gist dates are public creation dates; unknown publication days remain unknown. Article bodies are not republished.','', 'See [coverage and gaps](research/coverage.md), [the second research pass](research/second-pass.md), [URL-only historical candidates](indexes/unresolved.md), [linked reading](indexes/linked-reading.md), and [machine-readable catalogue](data/catalogue.json).','']
+    for collection in ['Recall','Textile / Tableland / Basin','Papers and workshops','Other team bylines']:
         rows=[a for a in catalogue if a['collection']==collection]
-        mainlines += ['## '+collection,'',str(len(rows))+' distinct articles.','']+table(rows)+['']
+        mainlines += ['### '+collection,'',str(len(rows))+' distinct articles, papers, or guides.','']+table(rows)+['']
+    mainlines += ['### X posts and long-form writing','', 'Public-web research covered 2016-10-15 through 2026-10-15 for @andrewxhill, @carsonfarmer, and @sanderpick. This is a recovered selection, not a complete timeline. Descriptive post titles are editorial; thread continuations count as one entry. Article announcements are labelled separately. The long-form Carson article is broader team writing about AI development. [Evidence and missing posts](research/second-pass.md#x-and-twitter-2016-2026) · [structured social records](data/social-posts.json).','', '| Date | Post / thread | Byline | Format / topic | Evidence / reading |','| --- | --- | --- | --- | --- |']
+    for a in sorted(social,key=lambda x:(x['date'],x['title']),reverse=True):
+        access=[link('metadata',a['sources'][0])]
+        access += [link('part '+str(i+2),'https://x.com/'+a['handle']+'/status/'+post_id) for i,post_id in enumerate(a['post_ids'][1:])]
+        if a.get('reading_url'):access.append(link('saved public copy',a['reading_url']))
+        mainlines.append('| '+a['date']+' | '+link(a['title'],a['url'])+' | '+esc(', '.join(a['authors']))+' | '+esc(a['kind']+'; '+a['scope'])+' | '+'; '.join(access)+' |')
+    mainlines += ['']
     related=[a for a in catalogue if a['collection']=='Ceramic / 3Box']
-    mainlines += ['## Ceramic / 3Box','',str(len(related))+' distinct articles in the separate [Ceramic / 3Box historical index](indexes/ceramic-3box.md).','']
-    (ROOT/'INDEX.md').write_text('\n'.join(mainlines).rstrip()+'\n')
+    mainlines += ['### Ceramic / 3Box','',str(len(related))+' distinct articles in the separate [Ceramic / 3Box historical index](indexes/ceramic-3box.md).','']
+    mainlines += ['## Talks and workshops','',f'**{len(talks)} technical sessions**: {sum(bool(a["video_url"]) for a in talks)} recordings and {sum(not a["video_url"] for a in talks)} presentations with slides only. Direct recordings and slide decks are linked below. Dates marked **video** or **slides** are publication dates; unmarked dates are verified event dates.','', 'Conference presentations, developer workshops, and substantial code walkthroughs. Marketing, token announcements, highlights, community calls, and short previews are excluded. A few code walkthroughs are published on Recall Network; the source does not name their individual presenters, so they retain channel attribution. [Research and selection notes](research/talks.md) · [structured session records](data/talks.json).','', '| Date | Presentation / workshop | Speakers | Event / subject | Video | Slides / materials |','| --- | --- | --- | --- | --- | --- |']
+    for a in sorted(talks,key=lambda x:(x['date'],x['title']),reverse=True):
+        date=a['date']+({'video publication':' (video)','slides publication':' (slides)'}.get(a['date_basis'],''))
+        speakers=', '.join(a['speakers']) or 'Not individually credited ('+a['publisher']+')'
+        watch='—'
+        if a['video_url']:
+            minutes,seconds=divmod(a['duration_seconds'],60)
+            watch=link('Watch · '+str(minutes)+':'+str(seconds).zfill(2),a['video_url'])
+        materials=([link('Slides',a['slides_url'])] if a['slides_url'] else [])+[link(m['label'],m['url']) for m in a['materials']]
+        mainlines.append('| '+date+' | '+esc(a['title'])+' | '+esc(speakers)+' | '+esc(a['event']+' — '+a['topic'])+' | '+watch+' | '+('; '.join(materials) or '—')+' |')
+    mainlines += ['']
+    start='<!-- BEGIN GENERATED WRITING INDEX -->'
+    end='<!-- END GENERATED WRITING INDEX -->'
+    readme=ROOT/'README.md'
+    introduction=readme.read_text().split(start,1)[0].rstrip()
+    readme.write_text(introduction+'\n\n'+start+'\n\n'+'\n'.join(mainlines).rstrip()+'\n\n'+end+'\n')
     (ROOT/'indexes/ceramic-3box.md').write_text('\n'.join(['# Ceramic / 3Box historical writing','', 'Related team history, kept separate from Textile / Tableland / Basin / Recall. This collection includes official publication contributors; inclusion does not by itself establish employment.','',str(len(related))+' distinct articles.','']+table(related))+'\n')
     # Every recognized blog-shaped outbound URL retains the referring company article.
     lines=['# Linked reading','', 'Blog/article-shaped links extracted from accessible company posts. Inclusion establishes a citation, not team authorship. Some are site sections or unavailable historical links; these are explicitly labelled. The complete, unfiltered outbound URL inventory is in [outbound-links.json](../data/outbound-links.json).','', '| Article / linked label | Destination | Byline | Metadata | Linked from |','| --- | --- | --- | --- | --- |']
@@ -130,6 +155,11 @@ def main():
     (ROOT/'indexes/unresolved.md').write_text('\n'.join(lines)+'\n')
     counts=collections.Counter(a['collection'] for a in catalogue)
     stats={'checked':DAY,'distinct_articles':len(catalogue),'edition_urls':sum(len(a['editions']) for a in catalogue),'collections':dict(counts),'url_only_candidates':len(unresolved),'linked_blog_candidates':len(linked),'linked_articles_with_metadata':sum(bool(a['date']) for a in linked),'articles_without_publication_date':sum(not a['date'] for a in catalogue),'outbound_urls':len(json.loads((ROOT/'data/outbound-links.json').read_text()))}
+    stats['social_entries']=len(social)
+    stats['social_post_urls']=sum(len(a['post_ids']) for a in social)
+    stats['talk_sessions']=len(talks)
+    stats['talk_recordings']=sum(bool(a['video_url']) for a in talks)
+    stats['talks_with_slides']=sum(bool(a['slides_url']) for a in talks)
     (ROOT/'research/counts.json').write_text(json.dumps(stats,indent=2)+'\n')
     print(json.dumps(stats,indent=2))
 if __name__=='__main__':main()

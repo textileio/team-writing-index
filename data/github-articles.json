@@ -1,0 +1,223 @@
+[
+  {
+    "url": "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b",
+    "title": "Integrating Recall with Mastra Core",
+    "date": "2025-04-03",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b",
+      "https://api.github.com/gists/9f4e39fe4aaf2f89cae73af7d1004a8b",
+      "https://gist.githubusercontent.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b/raw/4345a88cae266f5d6d3cbd7eebfba20b4993e976/recall-mastra-guide.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Recall integration guide. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180",
+    "title": "Random Access File Formats.md",
+    "date": "2023-12-15",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180",
+      "https://api.github.com/gists/2315ff1be3b272022d9141e2ff02a180",
+      "https://gist.githubusercontent.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180/raw/7176ceb5f9a4c9d86687c687326ddab713f1bb57/Random%20Access%20File%20Formats.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Basin format comparison; title is the source filename. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e",
+    "title": "Introduction to Filecoin app building",
+    "date": "2020-07-02",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e",
+      "https://api.github.com/gists/b0010d555ca4d79d9d1e78e380ad218e",
+      "https://gist.githubusercontent.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e/raw/e63fcbf80bf5227f89c43e4a4fcde68c23768fac/index.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Powergate workshop. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e",
+    "title": "Textile Virtual Workshop",
+    "date": "2020-06-30",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e",
+      "https://api.github.com/gists/b12541a7e22482d8e57de9148c6e4f9e",
+      "https://gist.githubusercontent.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e/raw/4f29486c583656af296873b4b1302efb9af86d4d/index.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Buckets workshop. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f",
+    "title": "Powergate Show & Tell",
+    "date": "2020-03-25",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f",
+      "https://api.github.com/gists/1e7ec4d379a1e6a16c5277c92d626b4f",
+      "https://gist.githubusercontent.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f/raw/58428a83b3fd1abc373d9c55ba9212fe7930e957/Powergate-Demo.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Filecoin API design notes. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98",
+    "title": "Setup a new game of cmd-line tag!",
+    "date": "2019-06-11",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98",
+      "https://api.github.com/gists/7c4b54a12822d8cb5c4f7e9675513a98",
+      "https://gist.githubusercontent.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98/raw/de724aa6ba8d949d4d807d7cd1196c347d668aa6/README.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile Threads game walkthrough. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9",
+    "title": "composable_threads.md",
+    "date": "2019-02-17",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9",
+      "https://api.github.com/gists/567e762d2ad71c36b2434713a5b368f9",
+      "https://gist.githubusercontent.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9/raw/26bdbb57ea5350a3408913a1d8662dddb876dbdc/composable_threads.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile/GDELT data pipeline; title is the source filename. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf",
+    "title": "Agent Evaluation Guide for Vercel AI SDK with Langfuse",
+    "date": "2026-01-12",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf",
+      "https://api.github.com/gists/c0e8b9264fb03c5ab4e1f9c012d85caf",
+      "https://gist.githubusercontent.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf/raw/c648623c4a332c534ffaaaadb49b5af8a60297c0/ai-sdk-mcp-agent-evaluation.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Broader team writing about AI agent evaluations; no claim of Recall product authorship. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3",
+    "title": "Dynamic Data on IPFS: An Introduction to Textile's Buckets and Threads",
+    "date": "2020-07-07",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3",
+      "https://api.github.com/gists/e7062ab30ddd4eb55812d64890db20d3",
+      "https://gist.githubusercontent.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3/raw/f8738f4a6571da39d14845c168851f493c0b2b7d/index.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile workshop. Creation date is first public Gist date, not a dated article masthead.",
+    "checked": "2026-10-15",
+    "links": [],
+    "date_basis": "Gist created_at",
+    "kind": "guide / workshop / research note"
+  },
+  {
+    "url": "https://github.com/textileio/papers/blob/master/whitepaper/draft.md",
+    "title": "A protocol & event-sourced database for decentralized user-siloed data (Draft 1.7, March 2020)",
+    "date": null,
+    "authors": [
+      "Sander Pick",
+      "Carson Farmer",
+      "Aaron Sutula",
+      "Irakli Gozalishvili",
+      "Ignacio Hagopian",
+      "Andrew Hill"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://github.com/textileio/papers/blob/master/whitepaper/draft.md",
+      "https://github.com/textileio/papers/blob/master/whitepaper/metadata.yaml",
+      "https://github.com/textileio/papers/blob/master/whitepaper/README.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub source listing and author metadata: subtitle labels Draft 1.7 (Mar 2020); exact publication day is not exposed. Revision month is retained in title; no commit date substituted.",
+    "checked": "2026-10-15",
+    "links": [],
+    "kind": "whitepaper draft"
+  },
+  {
+    "url": "https://github.com/textileio/ipfs-camp-2019/blob/master/workshop/markdown.md",
+    "title": "Building DApps with Textile, the iCloud for the DWeb",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "publication": "GitHub papers and workshops",
+    "sources": [
+      "https://github.com/textileio/ipfs-camp-2019/blob/master/workshop/markdown.md"
+    ],
+    "http_status": 200,
+    "evidence": "GitHub workshop source listing: title heading and speaker notes identify Carson Farmer in first person. Event year 2019 is known; publication day is not exposed.",
+    "checked": "2026-10-15",
+    "links": [],
+    "kind": "workshop speaker notes"
+  }
+]

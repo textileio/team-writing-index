@@ -1,5 +1,31 @@
 [
   {
+    "title": "Agent Evaluation Guide for Vercel AI SDK with Langfuse",
+    "date": "2026-01-12",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf",
+        "publication": "GitHub papers and workshops",
+        "date": "2026-01-12",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf",
+          "https://api.github.com/gists/c0e8b9264fb03c5ab4e1f9c012d85caf",
+          "https://gist.githubusercontent.com/carsonfarmer/c0e8b9264fb03c5ab4e1f9c012d85caf/raw/c648623c4a332c534ffaaaadb49b5af8a60297c0/ai-sdk-mcp-agent-evaluation.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Broader team writing about AI agent evaluations; no claim of Recall product authorship. Creation date is first public Gist date, not a dated article masthead."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
     "title": "NFL Arena: Can LLMs predict football outcomes?",
     "date": "2025-12-03",
     "authors": [
@@ -128,6 +154,9 @@
     "title": "$RECALL: Skill Markets for AI",
     "date": "2025-09-24",
     "authors": [
+      "Andrew Hill",
+      "Carson Farmer",
+      "Dataliquidity",
       "Recall"
     ],
     "collection": "Recall",
@@ -140,10 +169,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.recall.network/sitemap.xml + pagination + RSS",
-          "https://blog.recall.network/"
+          "https://blog.recall.network/",
+          "https://blog.recall.network/recall-token-skill-markets-for-ai"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -153,6 +184,8 @@
     "title": "Model Arena: GPT-5 Predictions v. Reality",
     "date": "2025-09-03",
     "authors": [
+      "Andrew Hill",
+      "Dataliquidity",
       "Recall"
     ],
     "collection": "Recall",
@@ -165,10 +198,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.recall.network/sitemap.xml + pagination + RSS",
-          "https://blog.recall.network/"
+          "https://blog.recall.network/",
+          "https://blog.recall.network/model-arena-gpt-5-predictions-v-reality"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -178,6 +213,8 @@
     "title": "Recall Rank: Building Towards The World’s Most Trusted AI Rankings",
     "date": "2025-08-29",
     "authors": [
+      "Carson Farmer",
+      "Dataliquidity",
       "Recall"
     ],
     "collection": "Recall",
@@ -190,10 +227,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.recall.network/sitemap.xml + pagination + RSS",
-          "https://blog.recall.network/"
+          "https://blog.recall.network/",
+          "https://blog.recall.network/recall-rank"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -203,6 +242,7 @@
     "title": "Recall Model Arena: Experiments with Community-Driven Evals",
     "date": "2025-08-28",
     "authors": [
+      "Andrew Hill",
       "Recall"
     ],
     "collection": "Recall",
@@ -215,10 +255,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.recall.network/sitemap.xml + pagination + RSS",
-          "https://blog.recall.network/"
+          "https://blog.recall.network/",
+          "https://blog.recall.network/recall-model-arena-experiments-with-community-driven-evals"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -228,6 +270,8 @@
     "title": "Our Vision for Agent Discovery",
     "date": "2025-06-20",
     "authors": [
+      "Carson Farmer",
+      "Dataliquidity",
       "Recall"
     ],
     "collection": "Recall",
@@ -240,10 +284,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.recall.network/sitemap.xml + pagination + RSS",
-          "https://blog.recall.network/"
+          "https://blog.recall.network/",
+          "https://blog.recall.network/our-vision-for-agent-discovery"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -316,6 +362,32 @@
         ],
         "evidence": [
           "public publication listing"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Integrating Recall with Mastra Core",
+    "date": "2025-04-03",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b",
+        "publication": "GitHub papers and workshops",
+        "date": "2025-04-03",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b",
+          "https://api.github.com/gists/9f4e39fe4aaf2f89cae73af7d1004a8b",
+          "https://gist.githubusercontent.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b/raw/4345a88cae266f5d6d3cbd7eebfba20b4993e976/recall-mastra-guide.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Recall integration guide. Creation date is first public Gist date, not a dated article masthead."
         ]
       }
     ],
@@ -870,6 +942,7 @@
     "title": "Unlocking the future of data: high-value solutions for onchain builders",
     "date": "2024-06-06",
     "authors": [
+      "Andrew Hill",
       "Textile"
     ],
     "collection": "Textile / Tableland / Basin",
@@ -882,10 +955,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.textile.io/sitemap.xml + pagination + RSS",
-          "https://blog.textile.io/"
+          "https://blog.textile.io/",
+          "https://blog.textile.io/unlocking-the-future-of-data-high-value-solutions-for-onchain-builders"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -1017,6 +1092,7 @@
     "title": "Decentralizing object storage and data availability through scalable Filecoin subnets",
     "date": "2024-05-23",
     "authors": [
+      "Andrew Hill",
       "Textile"
     ],
     "collection": "Textile / Tableland / Basin",
@@ -1029,10 +1105,12 @@
         "archive_url": null,
         "sources": [
           "https://blog.textile.io/sitemap.xml + pagination + RSS",
-          "https://blog.textile.io/p/2"
+          "https://blog.textile.io/p/2",
+          "https://blog.textile.io/introducing-basin"
         ],
         "evidence": [
-          "public publication listing"
+          "public publication listing",
+          "Paragraph post byline authorName objects in the article-specific Next.js stream; global publication team lists do not establish article authorship."
         ]
       }
     ],
@@ -2588,6 +2666,32 @@
         ],
         "evidence": [
           "public Substack archive API and article"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Random Access File Formats.md",
+    "date": "2023-12-15",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180",
+        "publication": "GitHub papers and workshops",
+        "date": "2023-12-15",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180",
+          "https://api.github.com/gists/2315ff1be3b272022d9141e2ff02a180",
+          "https://gist.githubusercontent.com/andrewxhill/2315ff1be3b272022d9141e2ff02a180/raw/7176ceb5f9a4c9d86687c687326ddab713f1bb57/Random%20Access%20File%20Formats.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Basin format comparison; title is the source filename. Creation date is first public Gist date, not a dated article masthead."
         ]
       }
     ],
@@ -5970,6 +6074,34 @@
     "checked": "2026-10-15"
   },
   {
+    "title": "Decentralized identifiers for peer-to-peer service discovery",
+    "date": "2021-06-21",
+    "authors": [
+      "Andrew Hill",
+      "Carson Farmer",
+      "Sander Pick"
+    ],
+    "collection": "Other team bylines",
+    "editions": [
+      {
+        "url": "https://dl.ifip.org/db/conf/networking/networking2021/1570714336.pdf",
+        "publication": "Team writing on other sites",
+        "date": "2021-06-21",
+        "http_status": null,
+        "archive_url": null,
+        "sources": [
+          "https://dl.ifip.org/db/conf/networking/networking2021/1570714336.pdf",
+          "https://api.crossref.org/works/10.23919/IFIPNetworking52078.2021.9472201",
+          "https://networking.ifip.org/2021/program/workshops.html"
+        ],
+        "evidence": [
+          "Publisher PDF read with public web reader; authors confirmed in PDF and conference program; date is Crossref published-print, not deposit date."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
     "title": "Geo Web is connecting digital content to the physical world with NFTs and Ceramic",
     "date": "2021-06-17",
     "authors": [
@@ -7331,6 +7463,32 @@
     "checked": "2026-10-15"
   },
   {
+    "title": "Dynamic Data on IPFS: An Introduction to Textile's Buckets and Threads",
+    "date": "2020-07-07",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3",
+        "publication": "GitHub papers and workshops",
+        "date": "2020-07-07",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3",
+          "https://api.github.com/gists/e7062ab30ddd4eb55812d64890db20d3",
+          "https://gist.githubusercontent.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3/raw/f8738f4a6571da39d14845c168851f493c0b2b7d/index.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile workshop. Creation date is first public Gist date, not a dated article masthead."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
     "title": "Case Study: How Zerion uses 3Box to boost engagement and retention",
     "date": "2020-07-06",
     "authors": [
@@ -7351,6 +7509,58 @@
         "evidence": [
           "public RSS feed",
           "archived article"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Introduction to Filecoin app building",
+    "date": "2020-07-02",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e",
+        "publication": "GitHub papers and workshops",
+        "date": "2020-07-02",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e",
+          "https://api.github.com/gists/b0010d555ca4d79d9d1e78e380ad218e",
+          "https://gist.githubusercontent.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e/raw/e63fcbf80bf5227f89c43e4a4fcde68c23768fac/index.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Powergate workshop. Creation date is first public Gist date, not a dated article masthead."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Textile Virtual Workshop",
+    "date": "2020-06-30",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e",
+        "publication": "GitHub papers and workshops",
+        "date": "2020-06-30",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e",
+          "https://api.github.com/gists/b12541a7e22482d8e57de9148c6e4f9e",
+          "https://gist.githubusercontent.com/andrewxhill/b12541a7e22482d8e57de9148c6e4f9e/raw/4f29486c583656af296873b4b1302efb9af86d4d/index.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Buckets workshop. Creation date is first public Gist date, not a dated article masthead."
         ]
       }
     ],
@@ -7451,6 +7661,30 @@
         "evidence": [
           "CDX URL only; metadata unavailable",
           "public web reader"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "The Decentralized Web Could Help Preserve The Internet's Data For 1,000 Years. Here's Why We Need IPFS To Build It.",
+    "date": "2020-05-05",
+    "authors": [
+      "Carson Farmer"
+    ],
+    "collection": "Other team bylines",
+    "editions": [
+      {
+        "url": "https://www.techdirt.com/2020/05/05/decentralized-web-could-help-preserve-internets-data-1000-years-heres-why-we-need-ipfs-to-build-it",
+        "publication": "Team writing on other sites",
+        "date": "2020-05-05",
+        "http_status": 403,
+        "archive_url": null,
+        "sources": [
+          "https://www.techdirt.com/2020/05/05/decentralized-web-could-help-preserve-internets-data-1000-years-heres-why-we-need-ipfs-to-build-it/"
+        ],
+        "evidence": [
+          "Public web reader: article title, masthead date, named byline, and closing Textile affiliation."
         ]
       }
     ],
@@ -7593,6 +7827,32 @@
           "CDX URL only; metadata unavailable",
           "public RSS feed",
           "public web reader"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Powergate Show & Tell",
+    "date": "2020-03-25",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f",
+        "publication": "GitHub papers and workshops",
+        "date": "2020-03-25",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f",
+          "https://api.github.com/gists/1e7ec4d379a1e6a16c5277c92d626b4f",
+          "https://gist.githubusercontent.com/andrewxhill/1e7ec4d379a1e6a16c5277c92d626b4f/raw/58428a83b3fd1abc373d9c55ba9212fe7930e957/Powergate-Demo.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Filecoin API design notes. Creation date is first public Gist date, not a dated article masthead."
         ]
       }
     ],
@@ -9023,6 +9283,32 @@
     "checked": "2026-10-15"
   },
   {
+    "title": "Setup a new game of cmd-line tag!",
+    "date": "2019-06-11",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98",
+        "publication": "GitHub papers and workshops",
+        "date": "2019-06-11",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98",
+          "https://api.github.com/gists/7c4b54a12822d8cb5c4f7e9675513a98",
+          "https://gist.githubusercontent.com/andrewxhill/7c4b54a12822d8cb5c4f7e9675513a98/raw/de724aa6ba8d949d4d807d7cd1196c347d668aa6/README.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile Threads game walkthrough. Creation date is first public Gist date, not a dated article masthead."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
     "title": "Decentralized, offline-first, cmd-line chat app in < 100 lines of code",
     "date": "2019-06-05",
     "authors": [
@@ -9841,6 +10127,32 @@
     "checked": "2026-10-15"
   },
   {
+    "title": "composable_threads.md",
+    "date": "2019-02-17",
+    "authors": [
+      "Andrew Hill"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://gist.github.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9",
+        "publication": "GitHub papers and workshops",
+        "date": "2019-02-17",
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://gist.github.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9",
+          "https://api.github.com/gists/567e762d2ad71c36b2434713a5b368f9",
+          "https://gist.githubusercontent.com/andrewxhill/567e762d2ad71c36b2434713a5b368f9/raw/26bdbb57ea5350a3408913a1d8662dddb876dbdc/composable_threads.md"
+        ],
+        "evidence": [
+          "GitHub Gist API creation date and owner; title verified in Markdown or filename. Textile/GDELT data pipeline; title is the source filename. Creation date is first public Gist date, not a dated article masthead."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
     "title": "Introducing the Textile Mobile SDK",
     "date": "2019-02-13",
     "authors": [
@@ -10627,7 +10939,8 @@
     "title": "A deeper look at the tech behind Textile’s Threads",
     "date": "2018-10-31",
     "authors": [
-      "Carson Farmer"
+      "Carson Farmer",
+      "Sander Pick"
     ],
     "collection": "Textile / Tableland / Basin",
     "editions": [
@@ -10658,6 +10971,7 @@
         ],
         "evidence": [
           "CDX URL only; metadata unavailable",
+          "Public web reader: inline Written by credit explicitly names Carson Farmer and Sander Pick; Medium account masthead alone omits the coauthor.",
           "public web reader"
         ]
       }
@@ -12761,6 +13075,61 @@
         "evidence": [
           "archived publication listing",
           "CDX URL only; metadata unavailable"
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Building DApps with Textile, the iCloud for the DWeb",
+    "date": null,
+    "authors": [
+      "Carson Farmer"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://github.com/textileio/ipfs-camp-2019/blob/master/workshop/markdown.md",
+        "publication": "GitHub papers and workshops",
+        "date": null,
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://github.com/textileio/ipfs-camp-2019/blob/master/workshop/markdown.md"
+        ],
+        "evidence": [
+          "GitHub workshop source listing: title heading and speaker notes identify Carson Farmer in first person. Event year 2019 is known; publication day is not exposed."
+        ]
+      }
+    ],
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "A protocol & event-sourced database for decentralized user-siloed data (Draft 1.7, March 2020)",
+    "date": null,
+    "authors": [
+      "Aaron Sutula",
+      "Andrew Hill",
+      "Carson Farmer",
+      "Ignacio Hagopian",
+      "Irakli Gozalishvili",
+      "Sander Pick"
+    ],
+    "collection": "Papers and workshops",
+    "editions": [
+      {
+        "url": "https://github.com/textileio/papers/blob/master/whitepaper/draft.md",
+        "publication": "GitHub papers and workshops",
+        "date": null,
+        "http_status": 200,
+        "archive_url": null,
+        "sources": [
+          "https://github.com/textileio/papers/blob/master/whitepaper/draft.md",
+          "https://github.com/textileio/papers/blob/master/whitepaper/metadata.yaml",
+          "https://github.com/textileio/papers/blob/master/whitepaper/README.md"
+        ],
+        "evidence": [
+          "GitHub source listing and author metadata: subtitle labels Draft 1.7 (Mar 2020); exact publication day is not exposed. Revision month is retained in title; no commit date substituted."
         ]
       }
     ],

@@ -1,0 +1,419 @@
+[
+  {
+    "title": "From Claude to Cursor: Building Agents with MCP + Recall",
+    "speakers": [],
+    "publisher": "Recall Network",
+    "event": "Recall developer stream",
+    "topic": "Build an MCP server and a Mastra agent in Cursor",
+    "date": "2025-04-18",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=GlSLP9CrcjU",
+    "duration_seconds": 2935,
+    "slides_url": null,
+    "materials": [
+      {
+        "label": "Agent code",
+        "url": "https://github.com/recallnet/ts-mastra-agent-recall-mcp-starter"
+      },
+      {
+        "label": "Guide",
+        "url": "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=GlSLP9CrcjU"
+    ],
+    "evidence": "YouTube watch-page player metadata: title, channel, publication timestamp, duration, description, and playability status OK. Inclusion is based on technical subject matter and primary-source description; no claim of full manual playback.",
+    "checked": "2026-10-15",
+    "speaker_note": "Individual presenter not explicitly named in the source description; publisher attribution only."
+  },
+  {
+    "title": "WIP at Recall: Vibe Coding Crypto Alpha Detection Agents #2",
+    "speakers": [],
+    "publisher": "Recall Network",
+    "event": "Recall developer stream",
+    "topic": "Build and test an agent with Mastra, MCP, and CoinGecko",
+    "date": "2025-04-03",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=gTBB226V2so",
+    "duration_seconds": 2962,
+    "slides_url": null,
+    "materials": [
+      {
+        "label": "Guide",
+        "url": "https://gist.github.com/andrewxhill/9f4e39fe4aaf2f89cae73af7d1004a8b"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=gTBB226V2so"
+    ],
+    "evidence": "YouTube watch-page player metadata: title, channel, publication timestamp, duration, description, and playability status OK. Inclusion is based on technical subject matter and primary-source description; no claim of full manual playback.",
+    "checked": "2026-10-15",
+    "speaker_note": "Individual presenter not explicitly named in the source description; publisher attribution only."
+  },
+  {
+    "title": "WIP at Recall: Exploring a New Recall MCP Server for Onchain S3 Buckets (HD!)",
+    "speakers": [],
+    "publisher": "Recall Network",
+    "event": "Recall developer stream",
+    "topic": "Run an MCP server; read and write Recall storage buckets",
+    "date": "2025-03-19",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=xfL65lmfYXQ",
+    "duration_seconds": 931,
+    "slides_url": null,
+    "materials": [
+      {
+        "label": "MCP server code",
+        "url": "https://github.com/recallnet/recall-mcp"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=xfL65lmfYXQ"
+    ],
+    "evidence": "YouTube watch-page player metadata: title, channel, publication timestamp, duration, description, and playability status OK. Inclusion is based on technical subject matter and primary-source description; no claim of full manual playback.",
+    "checked": "2026-10-15",
+    "alternate_video_urls": [
+      "https://www.youtube.com/watch?v=eAXPbBATCtQ"
+    ],
+    "speaker_note": "Individual presenter not explicitly named in the source description; publisher attribution only.",
+    "edition_note": "HD re-upload of the same walkthrough; original and HD upload are counted as one session."
+  },
+  {
+    "title": "Carson Farmer - From Maps, To Bits, And Beyond",
+    "speakers": [
+      "Carson Farmer"
+    ],
+    "publisher": "The EASIER Data Initiative",
+    "event": "EASIER Data Initiative workshop",
+    "topic": "Open geospatial science and decentralized data",
+    "date": "2024-04-15",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=cvFqQVAAsjA",
+    "duration_seconds": 1675,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=cvFqQVAAsjA",
+      "https://workshop.easierdata.org/"
+    ],
+    "evidence": "YouTube title and description identify Carson Farmer and the technical workshop. Organizer site directly links to this recording. Date is the video publication date, not an inferred workshop day.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Synthetic Foundations - Andrew Hill, Textile & Tableland Co-Founder | Proof of Data 2024",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "Recall Network",
+    "event": "Proof of Data 2024",
+    "topic": "Synthetic data for AI: current methods and research direction",
+    "date": "2024-03-18",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=1GUVCP7F5zg",
+    "duration_seconds": 847,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=1GUVCP7F5zg"
+    ],
+    "evidence": "YouTube title and description explicitly identify Andrew Hill and describe a research presentation on synthetic data, rather than a token launch or product promotion. Date is video publication.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Getting started with the Tableland Studio",
+    "speakers": [],
+    "publisher": "Recall Network",
+    "event": "Tableland developer workshop",
+    "topic": "Teams, projects, table deployment, CSV imports, and the Studio CLI",
+    "date": "2023-12-15",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=-MUq--Nrd0c",
+    "duration_seconds": 1120,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=-MUq--Nrd0c"
+    ],
+    "evidence": "YouTube watch-page player metadata: title, channel, publication timestamp, duration, description, and playability status OK. Inclusion is based on technical subject matter and primary-source description; no claim of full manual playback.",
+    "checked": "2026-10-15",
+    "speaker_note": "Individual presenter not explicitly named in the source description; publisher attribution only."
+  },
+  {
+    "title": "Tableland Functions experiment",
+    "speakers": [
+      "Sander Pick"
+    ],
+    "publisher": "Recall Network",
+    "event": "Tableland Demo Day",
+    "topic": "Technical experiment with Tableland Functions",
+    "date": "2023-03-31",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=THrYyQ0KjXA",
+    "duration_seconds": 1010,
+    "slides_url": null,
+    "materials": [
+      {
+        "label": "Experiment code",
+        "url": "https://github.com/sanderpick/tableland-functions"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=THrYyQ0KjXA"
+    ],
+    "evidence": "YouTube description explicitly credits Sander Pick presenting the internal Tableland Functions experiment and links its implementation. Date is video publication.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Build a Data DAO using Polygon and Tableland",
+    "speakers": [],
+    "publisher": "Recall Network",
+    "event": "Tableland developer workshop",
+    "topic": "Deploy Solidity contracts and manage tables through DAO votes",
+    "date": "2022-12-27",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=-z5K-zsJ638",
+    "duration_seconds": 2205,
+    "slides_url": null,
+    "materials": [
+      {
+        "label": "Workshop code",
+        "url": "https://github.com/tablelandnetwork/example-data-dao-polygon"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=-z5K-zsJ638"
+    ],
+    "evidence": "YouTube watch-page player metadata: title, channel, publication timestamp, duration, description, and playability status OK. Inclusion is based on technical subject matter and primary-source description; no claim of full manual playback.",
+    "checked": "2026-10-15",
+    "speaker_note": "Individual presenter not explicitly named in the source description; publisher attribution only."
+  },
+  {
+    "title": "JOINing user-owned content and app data to build a Twitter clone",
+    "speakers": [
+      "Joe Wagner"
+    ],
+    "publisher": "Recall Network",
+    "event": "Tableland developer workshop",
+    "topic": "JOIN user-owned content and application data in a Twitter clone",
+    "date": "2022-05-17",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=oxA2y9FC3AI",
+    "duration_seconds": 1920,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=oxA2y9FC3AI"
+    ],
+    "evidence": "YouTube description explicitly credits Workshop by Joe Wagner and describes combining user-owned and application-owned data. Date is video publication.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Textile: Introduction to the Filecoin Bridge",
+    "speakers": [
+      "Carson Farmer"
+    ],
+    "publisher": "ETHGlobal",
+    "event": "HackFS 2021",
+    "topic": "Filecoin Bridge: developer integration workshop",
+    "date": "2021-07-29",
+    "date_basis": "event",
+    "video_url": "https://www.youtube.com/watch?v=aV8-v-kHZfY",
+    "duration_seconds": 1705,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=aV8-v-kHZfY",
+      "https://ethglobal.com/events/hackfs2021"
+    ],
+    "evidence": "YouTube description credits Carson Farmer. Organizer schedule gives 2021-07-29 and links this exact recording.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Textile: Building with IPFS & Filecoin - an intro to Textile's developer tools",
+    "speakers": [
+      "Andrew Hill",
+      "Carson Farmer"
+    ],
+    "publisher": "ETHGlobal",
+    "event": "Web3 Weekend",
+    "topic": "Build with IPFS and Filecoin using Textile developer tools",
+    "date": "2021-05-29",
+    "date_basis": "event",
+    "video_url": "https://www.youtube.com/watch?v=PckcehimgkQ",
+    "duration_seconds": 1780,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=PckcehimgkQ",
+      "https://blog.ipfs.tech/2021-06-08-web3-weekend/"
+    ],
+    "evidence": "YouTube description explicitly credits Andrew Hill and Carson Farmer; liveBroadcastDetails gives May 29, 2021. IPFS event recap embeds this same recording twice under different subject headings, counted once.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Textile: Getting started",
+    "speakers": [
+      "Carson Farmer",
+      "Andrew Hill"
+    ],
+    "publisher": "ETHGlobal",
+    "event": "HackFS 2020",
+    "topic": "Hands-on JavaScript, ThreadsDB, Buckets, and the Hub",
+    "date": "2020-07-07",
+    "date_basis": "event",
+    "video_url": "https://www.youtube.com/watch?v=IZ8M9m9_uJY",
+    "duration_seconds": 4841,
+    "slides_url": "https://docs.google.com/presentation/d/1rO22odYITlMkh0pjE9WOHoXI9c9NKvUgyO4oM3Qnxl8/edit",
+    "materials": [
+      {
+        "label": "Workshop notes",
+        "url": "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=IZ8M9m9_uJY",
+      "https://ethglobal.github.io/hackfs.com/",
+      "https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3"
+    ],
+    "evidence": "Organizer schedule names Andrew and Carson on July 7. YouTube chapters identify Carson presenting and Andrew demonstrating. Workshop notes link to the verified public Getting started with Textile slide deck.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Getting started with Filecoin",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "ETHGlobal",
+    "event": "HackFS 2020",
+    "topic": "Filecoin storage APIs and a Powergate coding workshop",
+    "date": "2020-07-02",
+    "date_basis": "event",
+    "video_url": "https://www.youtube.com/watch?v=SePJrCLUM0g",
+    "duration_seconds": 5487,
+    "slides_url": "https://speakerdeck.com/andrewxhill/intro-to-filecoin-building-apps-with-powergate",
+    "materials": [
+      {
+        "label": "Workshop notes",
+        "url": "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=SePJrCLUM0g",
+      "https://ethglobal.github.io/hackfs.com/",
+      "https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e"
+    ],
+    "evidence": "Organizer schedule gives July 2 and Andrew Hill. Video description credits Andrew and chapters cover storage APIs and a live demo. His linked workshop notes identify the matching slide deck.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Into the Powergate",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "Andrew W Hill on Speaker Deck",
+    "event": "Technical presentation slides",
+    "topic": "Filecoin/IPFS storage architecture, APIs, configuration, and a live-demo deck",
+    "date": "2020-05-08",
+    "date_basis": "slides publication",
+    "video_url": null,
+    "duration_seconds": null,
+    "slides_url": "https://speakerdeck.com/andrewxhill/into-the-powergate",
+    "materials": [],
+    "sources": [
+      "https://speakerdeck.com/andrewxhill/into-the-powergate"
+    ],
+    "evidence": "Public Speaker Deck page confirms title, author, and publication date; slide transcript was read to confirm technical content. No matching full recording verified.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Future of Pinning - storing Threads and Buckets at Textile",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "Andrew W Hill on Speaker Deck",
+    "event": "Technical presentation slides",
+    "topic": "ThreadsDB networking, encryption, dynamic pinsets, and Buckets",
+    "date": "2020-05-07",
+    "date_basis": "slides publication",
+    "video_url": null,
+    "duration_seconds": null,
+    "slides_url": "https://speakerdeck.com/andrewxhill/future-of-pinning-storing-threads-and-buckets-at-textile",
+    "materials": [],
+    "sources": [
+      "https://speakerdeck.com/andrewxhill/future-of-pinning-storing-threads-and-buckets-at-textile"
+    ],
+    "evidence": "Public Speaker Deck page confirms title, author, and publication date; slide transcript was read to confirm technical content. No matching full recording verified.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Bring Your Own Data: A New Model for an Interoperable dWeb – Carson Farmer",
+    "speakers": [
+      "Carson Farmer"
+    ],
+    "publisher": "ETHDenver",
+    "event": "ETHDenver 2020",
+    "topic": "User-siloed data, interoperability, and the Threads protocol",
+    "date": "2020-02-15",
+    "date_basis": "event",
+    "video_url": "https://www.youtube.com/watch?v=DpRaxjIiYew",
+    "duration_seconds": 1510,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=DpRaxjIiYew"
+    ],
+    "evidence": "YouTube title and description name Carson Farmer. Description explicitly says recorded Saturday, February 15, 2020; the later April upload date is not used as the event date.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Building DApps with Textile, the iCloud for the DWeb - IPFS Camp Workshop",
+    "speakers": [
+      "Ben Lupton",
+      "Carson Farmer",
+      "Andrew Hill"
+    ],
+    "publisher": "IPFS",
+    "event": "IPFS Camp 2019",
+    "topic": "Build a DApp with Textile, schemas, and a peer-to-peer game",
+    "date": "2019-09-17",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=4r7_lOyv4W8",
+    "duration_seconds": 3962,
+    "slides_url": "https://raw.githubusercontent.com/ipfs/camp/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_D/Slides.pdf",
+    "materials": [
+      {
+        "label": "Workshop source",
+        "url": "https://github.com/textileio/ipfs-camp-2019/tree/master/workshop"
+      }
+    ],
+    "sources": [
+      "https://www.youtube.com/watch?v=4r7_lOyv4W8",
+      "https://github.com/ipfs/camp/blob/master/README.md",
+      "https://github.com/textileio/ipfs-camp-2019/blob/master/workshop/markdown.md"
+    ],
+    "evidence": "IPFS Camp organizer source links this recording and PDF and names trainers @balupton, @carsonfarmer, and @andrewxhill; the Textile source identifies Ben Lupton by name. September 17 is the upload date; the camp itself took place in June.",
+    "checked": "2026-10-15"
+  },
+  {
+    "title": "Adding IPFS to your Apps - Andrew Hill",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "AltConf",
+    "event": "AltConf 2019",
+    "topic": "Content-addressed data and integrating IPFS into applications",
+    "date": "2019-06-30",
+    "date_basis": "video publication",
+    "video_url": "https://www.youtube.com/watch?v=M6mUg-tMbk0",
+    "duration_seconds": 834,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.youtube.com/watch?v=M6mUg-tMbk0",
+      "https://medium.com/textileio/textile-update-june-2019-d596343ad67e"
+    ],
+    "evidence": "AltConf recording title explicitly credits Andrew Hill. Description covers protocols, implementation examples, and user-controlled data. Textile June 2019 update links this exact recording. Date is publication, not a claimed stage date.",
+    "checked": "2026-10-15"
+  }
+]

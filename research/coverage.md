@@ -4,6 +4,10 @@ Research date: **2026-10-15**. Counts and unresolved URL totals are generated in
 
 Ceramic and 3Box publications are included as a separate historical section at the user's request.
 
+The [second research pass](second-pass.md) focuses on Andrew Hill, Carson Farmer, and Sander Pick: public Textile/Tableland/Recall repositories, personal Gists, additional outside publications, recovered individual bylines, and X/Twitter discovery across 2016–2026. The main writing index now lives directly in [README.md](../README.md#writing-index); social entries have separate counts.
+
+The subsequent [talks survey](talks.md) adds a separate table of technical presentations, workshops, and substantial code walkthroughs with direct video or slide links. Marketing and listing-only leads are excluded; session counts do not inflate article totals.
+
 ## Publications and discovery routes
 
 | Source | Enumeration and evidence | Scope and limits |
@@ -17,6 +21,10 @@ Ceramic and 3Box publications are included as a separate historical section at t
 | [Ceramic blog](https://blog.ceramic.network/) | Complete post sitemap and individual article metadata | All **153** post URLs captured. Image locations inside the sitemap are excluded. Kept in the separate related-history section. |
 | [3Box on Medium](https://medium.com/3box) | Public RSS feed, CDX inventory, archived articles, and primary-source web reads | **78** article-shaped Medium URLs enumerated from **362** CDX rows, supplemented by the latest ten feed entries and primary-source search/reader records. The old `blog.3box.io` host is unavailable. CDX is an observed historical inventory, not a publisher-confirmed lifetime total. |
 | Outside publishers | Author profiles/feeds, article citations, focused byline searches, and individual article metadata | Includes verified appearances on freeCodeCamp and HackerNoon. A quote in a press article is not treated as a team-authored post. Unlinked articles on undiscovered accounts remain an open discovery gap. |
+| GitHub repositories and Gists | Public repository inventories, selected source trees, Markdown, explicit author metadata, and paginated personal Gist APIs | Added 11 guides, workshops, research notes, and a whitepaper draft. Starter blog templates and unattributed generic documentation are excluded. Gist dates are creation dates; commit dates are not used as publication dates. |
+| Additional outside writing | Techdirt masthead and byline; IFIP publisher PDF, conference program, and Crossref metadata | Added Carson's IPFS essay and the service-discovery paper coauthored by Carson, Sander, and Andrew. |
+| X / Twitter | Exact URLs linked from company posts and workshop notes, profile mirrors, public post JSON, and an independently saved X article | 8 social entries cover 11 verified post URLs, including two threads and one X article. Public search and archives do not establish a complete ten-year timeline; two Sander URLs and Andrew's “Day 1” post remain unrecovered. See the [social coverage ledger](second-pass.md#x-and-twitter-2016-2026). |
+| Technical talks and workshops | Organizer repositories and schedules, exact YouTube recording metadata and descriptions, public slides, and workshop source notes | 18 sessions: 16 recordings and two slide-only presentations, with five slide decks total. Dates distinguish event and publication dates. Individual speakers are not inferred from channel ownership. See [selection notes and gaps](talks.md). |
 | Linked reading | Article-body links from accessible company posts | Article-shaped destinations are indexed with referring posts and access status. The complete unfiltered URL inventory is preserved in `data/outbound-links.json`. These links do not by themselves establish team authorship. |
 
 ## Requested entry points
@@ -37,6 +45,7 @@ Ceramic and 3Box publications are included as a separate historical section at t
 4. Canonical URLs and Medium IDs establish duplicate editions directly. Matching normalized titles within 45 days provide an additional grouping rule; this is a bibliographic inference, not a full-text equality check. Edition-specific dates and sources remain available in JSON.
 5. HTTP status describes the ordinary client observation. A web reader can establish article metadata even when that client received HTTP 403. An archive reading link is supplied only after a successful metadata read, except in the explicitly unverified historical candidate appendix.
 6. Only titles, bibliographic fields, URLs, link provenance, and public archive metadata are included in the repository. Article bodies remain in ignored local response caches.
+7. Individual bylines recovered from article-specific Paragraph author objects and explicit body credits supplement company metadata. Maintainer lists and publication-wide team lists do not establish article authorship. Social post titles are editorial descriptions unless an explicit article title is available; thread continuations remain one social entry.
 
 ## Remaining gaps
 
@@ -46,6 +55,7 @@ Ceramic and 3Box publications are included as a separate historical section at t
 - Ghost-era posts absent from the current Paragraph migration need a complete publisher export or reliably accessible archive replay to establish all dates/bylines and extract every outbound link.
 - Medium and Internet Archive access is uneven. Failed reads do not establish that a post was deleted or that a collection is empty.
 - A public-web survey cannot establish a definitive lifetime total for unlinked, unpublished, deleted, private, or undiscovered personal-account articles. No private publishing exports were accessed.
+- X recovery is concentrated in 2019, 2022, and 2026. Other years remain gaps even though the search window covered the full decade. Account exports or another reliable historical inventory would be needed to close them; failed reads are retained as explicit leads in the second-pass notes.
 
 ## Reproducibility
 
