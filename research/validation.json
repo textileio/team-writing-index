@@ -36,6 +36,25 @@
       "all_represented": true
     },
     "metadata_schema_and_unique_editions": true,
+    "readme_sections_and_article_conservation": {
+      "company_order": [
+        "Set",
+        "Textile",
+        "Tableland",
+        "Basin",
+        "Recall"
+      ],
+      "section_counts": {
+        "Set": 7,
+        "Textile": 151,
+        "Tableland": 64,
+        "Basin": 13,
+        "Recall": 19,
+        "Papers and workshops": 11,
+        "Other team bylines": 2
+      },
+      "all_main_works_rendered_once": true
+    },
     "retry_reading_links_preserved": true,
     "local_markdown_links": true,
     "article_bodies_excluded": true,

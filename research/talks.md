@@ -1,10 +1,10 @@
 # Technical talks and workshops
 
-Research date: **2026-10-15**. The [table in README](../README.md#talks-and-workshops) contains **18 recorded sessions**, five with slide decks. Records and evidence are in [talks.json](../data/talks.json); sessions are counted separately from writing and X posts.
+Research date: **2026-10-15**. The [table in README](../README.md#talks-and-workshops) contains **19 recorded sessions**, five with slide decks. Records and evidence are in [talks.json](../data/talks.json); sessions are counted separately from writing and X posts.
 
 ## Selection
 
-Included technical conference presentations, developer workshops, research presentations, and substantial code walkthroughs associated with Textile, Tableland, and Recall. Research primarily follows Andrew Hill, Carson Farmer, and Sander Pick; Joe Wagner's explicitly credited Tableland workshop is included too. Five clearly technical Tableland/Recall walkthroughs retain publisher attribution because the descriptions do not explicitly name the individual presenter.
+Included technical conference presentations, developer workshops, research presentations, and substantial code walkthroughs associated with Set, Textile, Tableland, and Recall. Research primarily follows Andrew Hill, Carson Farmer, and Sander Pick; Joe Wagner's explicitly credited Tableland workshop is included too. Five clearly technical Tableland/Recall walkthroughs retain publisher attribution because the descriptions do not explicitly name the individual presenter.
 
 Every row links directly to an individual recording or slide deck. Event listings, channel pages, schedules, and blog recaps are evidence sources, not the table's viewing destinations. Workshop code and notes are supplementary; they do not qualify a session without video or slides. Matching notes may also appear in the writing catalogue; one is the written resource and the other the recorded session.
 
@@ -14,6 +14,7 @@ Excluded token launches, airdrop instructions, promotional keynotes and teasers,
 
 | Discovery source | Confirmed resources |
 | --- | --- |
+| [O'Reilly's Strata 2017 session recording](https://www.oreilly.com/videos/strata-data-conference/9781491976326/9781491976326-video316462/) and [Carson's 2017 feature-extraction article](https://medium.com/textileio/on-device-feature-extraction-part-i-ee1b5902227) | *Learning location: Real-time feature extraction for mobile analytics*, 34:53, September 2017, New York. Andrew Hill confirmed that the opening slide credits him as the sole presenter. The recording is embedded on the individual session page; full viewing requires O'Reilly login. |
 | [HackFS 2020 organizer archive](https://ethglobal.github.io/hackfs.com/) | Andrew's July 2 Filecoin/Powergate workshop and Carson/Andrew's July 7 Textile workshop. Exact recording URLs are corroborated by video descriptions and chapter credits. |
 | [Andrew's Powergate notes](https://gist.github.com/andrewxhill/b0010d555ca4d79d9d1e78e380ad218e) | Matching July 2 slides and course notes. |
 | [Carson's Buckets/Threads notes](https://gist.github.com/carsonfarmer/e7062ab30ddd4eb55812d64890db20d3) | Matching public *Getting started with Textile* slides. Followed the original short link into the public Google Slides presentation and checked its title and HTTP 200 response. |
@@ -34,9 +35,11 @@ The installed `yt-dlp` could not parse the channel's current video-card format a
 ## Dates and access
 
 - **Event dates** come from organizer schedules, explicit recording-date statements, or the recording's live broadcast timestamp. For example, ETHDenver's April upload is dated February 15 in the table because the description explicitly identifies the recording day.
+- **Month-only dates** retain the verified precision. The Strata session is dated `2017-09`; its exact presentation day is unverified.
 - **Video dates** are YouTube's publication timestamps; they do not establish when the talk occurred. IPFS Camp's June 2019 workshop was uploaded in September. EASIER's upload date is retained without inventing the workshop day.
 - **Slide dates** come from the author's Speaker Deck publication page. They are not assumed to be stage dates.
-- YouTube watch-page player metadata exposed each included recording's title, description, duration, publication timestamp, channel, and `playabilityStatus: OK`. This is an access and metadata check, not a claim that each video was manually watched end to end. Speaker attribution uses explicit descriptions, organizer credits, or chapter labels. The five unnamed Tableland/Recall walkthroughs keep channel attribution rather than assigning them to the author of linked example code.
+- YouTube watch-page player metadata exposed the 18 YouTube recordings' titles, descriptions, durations, publication timestamps, channels, and `playabilityStatus: OK`. This is an access and metadata check, not a claim that each video was manually watched end to end. Speaker attribution uses explicit descriptions, organizer credits, or chapter labels. The five unnamed Tableland/Recall walkthroughs keep channel attribution rather than assigning them to the author of linked example code.
+- **Strata presenter correction:** O'Reilly's catalogue combines credits for Sander Pick, Andrew Hill, and Carson Farmer at Set. Andrew Hill identified himself as the sole presenter from the opening slide, correcting that attribution. The table follows his correction. The researcher did not independently inspect the opening slide or full playback. Login-required recordings qualify and are labelled at their direct viewing link; free YouTube availability is not required.
 - The IPFS Camp slides returned HTTP 200 and a PDF signature. Speaker Deck pages exposed readable slide transcripts; the public Google Slides deck returned HTTP 200 with the expected title. Raw video, captions, slide bodies, and page responses are not committed.
 
 ## Remaining leads and exclusions
@@ -51,4 +54,4 @@ The installed `yt-dlp` could not parse the channel's current video-card format a
 | Key-value-store walkthrough and brief Basin replication demos | Short technical demos, rather than substantial workshops or conference presentations. The longer Studio and Data DAO workshops are included with publisher-only attribution. |
 | Recall launches, token/airdrop videos, highlights, and company-vision keynotes | Excluded by the requested non-marketing scope, even when a team member is on stage. |
 
-The survey covers a recovered selection in 2019–2025, not a complete ten-year speaking history. Additional recordings on unindexed organizer channels, unavailable uploads, and privately shared slide decks remain possible gaps.
+The survey covers a recovered selection in 2017–2025, not a complete ten-year speaking history. Additional recordings on unindexed organizer channels, unavailable uploads, and privately shared slide decks remain possible gaps.

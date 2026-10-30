@@ -59,6 +59,35 @@ def main():
             owners[k] = index
             assert isinstance(e['sources'], list) and e['sources']
     checks['metadata_schema_and_unique_editions'] = True
+    readme = (ROOT / 'README.md').read_text()
+    writing = readme.split('## Writing index\n', 1)[1].split('### X posts and long-form writing\n', 1)[0]
+    sections = re.split(r'^### (.+)\n', writing, flags=re.M)
+    company_order = ['Set', 'Textile', 'Tableland', 'Basin', 'Recall']
+    assert sections[1::2][:5] == company_order, ('README company section order', sections[1::2])
+    rendered = {}
+    section_counts = {}
+    for section, content in zip(sections[1::2], sections[2::2]):
+        rows = re.findall(r'^\| (?:\d{4}-\d{2}-\d{2}|Unknown) \| .+$', content, re.M)
+        section_counts[section] = len(rows)
+        for row in rows:
+            articles = {owners[key(url)] for url in re.findall(r'\]\(([^)]+)\)', row) if key(url) in owners}
+            assert len(articles) == 1, ('README row does not identify one work', row)
+            index = articles.pop()
+            assert index not in rendered, ('Work appears in multiple README rows', cat[index]['title'])
+            rendered[index] = section
+    expected_main = {i for i, a in enumerate(cat) if a['collection'] != 'Ceramic / 3Box'}
+    assert set(rendered) == expected_main, ('README works missing or added', expected_main ^ set(rendered))
+    for url, section in [
+        ('https://medium.com/textileio/setxsw-a5b7aac2c382', 'Set'),
+        ('https://blog.textile.io/powergate-v2-0-0-is-here', 'Textile'),
+        ('https://paragraph.com/@tableland-2/welcome-to-tableland', 'Tableland'),
+        ('https://blog.textile.io/basin-launch-overview', 'Basin'),
+        ('https://blog.recall.network/introducing-recall-unstoppable-intelligence-for-ai', 'Recall'),
+    ]:
+        assert rendered[owners[key(url)]] == section, ('README project assignment', url, section)
+    checks['readme_sections_and_article_conservation'] = {
+        'company_order': company_order, 'section_counts': section_counts,
+        'all_main_works_rendered_once': True}
     for a in read('data/recovery-pass-2-articles.json'):
         assert a.get('archive_url') and a.get('archive_status') == 200, ('Missing verified archive link', a['url'])
     checks['retry_reading_links_preserved'] = True

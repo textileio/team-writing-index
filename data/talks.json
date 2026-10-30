@@ -424,5 +424,30 @@
     ],
     "evidence": "AltConf recording title explicitly credits Andrew Hill. Description covers protocols, implementation examples, and user-controlled data. Textile June 2019 update links this exact recording. Date is publication, not a claimed stage date.",
     "checked": "2026-10-15"
+  },
+  {
+    "title": "Learning location: Real-time feature extraction for mobile analytics",
+    "speakers": [
+      "Andrew Hill"
+    ],
+    "publisher": "O'Reilly Media",
+    "event": "Strata Data Conference 2017, New York",
+    "topic": "On-device location feature extraction for mobile analytics at Set",
+    "date": "2017-09",
+    "date_basis": "event",
+    "date_precision": "month",
+    "video_url": "https://www.oreilly.com/videos/strata-data-conference/9781491976326/9781491976326-video316462/",
+    "video_access": "login required",
+    "duration_seconds": 2093,
+    "slides_url": null,
+    "materials": [],
+    "sources": [
+      "https://www.oreilly.com/videos/strata-data-conference/9781491976326/9781491976326-video316462/",
+      "https://www.oreilly.com/videos/strata-data-conference/9781491976326/",
+      "https://medium.com/textileio/on-device-feature-extraction-part-i-ee1b5902227"
+    ],
+    "evidence": "O'Reilly's 2017 New York conference recording catalogue identifies the session and its 34:53 duration. Carson Farmer's July 2017 article links the September Strata session. Only the event month is verified; no exact presentation day is assigned. Andrew Hill confirmed that the opening slide identifies him as the sole presenter and that the embedded full recording requires login. The opening slide and full playback were not independently inspected by the researcher.",
+    "speaker_note": "Andrew Hill's correction of the presenter's attribution, based on the opening slide, takes precedence over the O'Reilly catalogue's combined contributor credits for Sander Pick, Andrew Hill, and Carson Farmer (Set). Those catalogue credits are not treated as three presenters.",
+    "checked": "2026-10-15"
   }
 ]

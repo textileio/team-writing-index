@@ -116,9 +116,27 @@ def main():
         return lines
     social=json.loads((ROOT/'data/social-posts.json').read_text())
     talks=json.loads((ROOT/'data/talks.json').read_text())
-    mainlines=['## Writing index','',f'Researched {DAY}. **{len(catalogue)} distinct articles, papers, and guides across {sum(len(a["editions"]) for a in catalogue)} publication URLs**, plus **{len(social)} X posts, threads, and articles** listed separately below. Another {len(unresolved)} historical article URLs await metadata.','', '**Jump to:** [Recall](#recall) · [Textile / Tableland / Basin](#textile--tableland--basin) · [Papers and workshops](#papers-and-workshops) · [Other team bylines](#other-team-bylines) · [X posts and long-form writing](#x-posts-and-long-form-writing).','', 'Company publications include guest contributors. A company byline is retained when a migration no longer exposes the original individual author. Dates come from article metadata, feeds, publication cards, or explicitly documented source records. Gist dates are public creation dates; unknown publication days remain unknown. Article bodies are not republished.','', 'See [coverage and gaps](research/coverage.md), [the second research pass](research/second-pass.md), [URL-only historical candidates](indexes/unresolved.md), [linked reading](indexes/linked-reading.md), and [machine-readable catalogue](data/catalogue.json).','']
-    for collection in ['Recall','Textile / Tableland / Basin','Papers and workshops','Other team bylines']:
-        rows=[a for a in catalogue if a['collection']==collection]
+    company_order=['Set','Textile','Tableland','Basin','Recall']
+    assignments=json.loads((ROOT/'data/readme-sections.json').read_text())
+    section_keys={}
+    for section,assignment in assignments.items():
+        assert section in company_order, ('Unknown README section',section)
+        for url in assignment['urls']:
+            k=key(url)
+            assert k in known and k not in section_keys, ('Unknown or repeated README assignment',url)
+            section_keys[k]=section
+    sections=collections.defaultdict(list)
+    for a in catalogue:
+        section=a['collection']
+        if section=='Textile / Tableland / Basin':
+            assigned={section_keys[key(e['url'])] for e in a['editions'] if key(e['url']) in section_keys}
+            assert len(assigned)<=1, ('Conflicting README sections',a['title'])
+            section=assigned.pop() if assigned else 'Textile'
+        sections[section].append(a)
+    company_links=' · '.join(link(section,'#'+section.lower()) for section in company_order)
+    mainlines=['## Writing index','',f'Researched {DAY}. **{len(catalogue)} distinct articles, papers, and guides across {sum(len(a["editions"]) for a in catalogue)} publication URLs**, plus **{len(social)} X posts, threads, and articles** listed separately below. Another {len(unresolved)} historical article URLs await metadata.','', '**Jump to:** '+company_links+' · [Papers and workshops](#papers-and-workshops) · [Other team bylines](#other-team-bylines) · [X posts and long-form writing](#x-posts-and-long-form-writing).','', 'Company publications include guest contributors. A company byline is retained when a migration no longer exposes the original individual author. Dates come from article metadata, feeds, publication cards, or explicitly documented source records. Gist dates are public creation dates; unknown publication days remain unknown. Article bodies are not republished.','', 'See [coverage and gaps](research/coverage.md), [the second research pass](research/second-pass.md), [URL-only historical candidates](indexes/unresolved.md), [linked reading](indexes/linked-reading.md), and [machine-readable catalogue](data/catalogue.json).','']
+    for collection in company_order+['Papers and workshops','Other team bylines']:
+        rows=sections[collection]
         mainlines += ['### '+collection,'',str(len(rows))+' distinct articles, papers, or guides.','']+table(rows)+['']
     mainlines += ['### X posts and long-form writing','', 'Public-web research covered 2016-10-15 through 2026-10-15 for @andrewxhill, @carsonfarmer, and @sanderpick. This is a recovered selection, not a complete timeline. Descriptive post titles are editorial; thread continuations count as one entry. Article announcements are labelled separately. The long-form Carson article is broader team writing about AI development. [Evidence and missing posts](research/second-pass.md#x-and-twitter-2016-2026) · [structured social records](data/social-posts.json).','', '| Date | Post / thread | Byline | Format / topic | Evidence / reading |','| --- | --- | --- | --- | --- |']
     for a in sorted(social,key=lambda x:(x['date'],x['title']),reverse=True):
@@ -142,7 +160,7 @@ def main():
         watch='—'
         if a['video_url']:
             minutes,seconds=divmod(a['duration_seconds'],60)
-            watch=link('Watch · '+str(minutes)+':'+str(seconds).zfill(2),a['video_url'])
+            watch=link('Watch · '+str(minutes)+':'+str(seconds).zfill(2)+(' · '+a['video_access'] if a.get('video_access') else ''),a['video_url'])
         materials=([link('Slides',a['slides_url'])] if a['slides_url'] else [])+[link(m['label'],m['url']) for m in a['materials']]
         mainlines.append('| '+date+' | '+esc(a['title'])+' | '+esc(speakers)+' | '+esc(a['event']+' — '+a['topic'])+' | '+watch+' | '+('; '.join(materials) or '—')+' |')
     mainlines += ['']
